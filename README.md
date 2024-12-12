@@ -1,6 +1,10 @@
 # Historical Sources from the High North Pre-1750
 
-This is a repository of historical source material from the northernmost parts of Scandinavia before 1750. This collection is curated by me, and if you find historical sources relating to northern Scandinavia before 1750 that are not yet included, **please reach out!**
+This is a repository of historical source material from the northernmost parts of Scandinavia before 1750. The aim of this project is to collect all sources from northern Fenno-Scandinavia and publish them here, hopefully they will be useful if you are working on this area. 
+This collection is curated by me, and if you find historical sources relating to northern Scandinavia before 1750 that are not yet included, **please reach out!** 
+
+## Contact
+Vetle Lars Wisløff Sandring / https://uit.no/ansatte/person?p_document_id=731704 
 
 ## How to Use
 
