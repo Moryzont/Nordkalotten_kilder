@@ -11,7 +11,7 @@ This is a repository of historical source material from the northernmost parts o
 My aim is to collect all sources relating to the northernmost part of Scandinavia before 1750.
 
 ### Norwegian Archives
-
+<progress value="30" max="100">30%</progress>
 **Tax records and censuses:**
 - Finnmark: Complete until 1718 (waiting for digitization efforts from the national archive)
 - Troms: Complete until 1718 (waiting for digitization efforts from the national archive)
