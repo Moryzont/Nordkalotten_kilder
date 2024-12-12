@@ -11,8 +11,7 @@ This is a repository of historical source material from the northernmost parts o
 My aim is to collect all sources relating to the northernmost part of Scandinavia before 1750.
 
 ### Norwegian Archives
-### Norwegian Archives Completion
-![50%](https://progress-bar.dev/50/)
+![](https://geps.dev/progress/50)
 
 **Tax records and censuses:**
 - Finnmark: Complete until 1718 (waiting for digitization efforts from the national archive)
@@ -47,6 +46,7 @@ My aim is to collect all sources relating to the northernmost part of Scandinavi
 ---
 
 ### Swedish Archives
+![](https://geps.dev/progress/10)
 
 **Tax records and censuses:**
 - Some records concerning the Sami population have been found
@@ -75,6 +75,7 @@ My aim is to collect all sources relating to the northernmost part of Scandinavi
 ---
 
 ### Finnish Archives
+![](https://geps.dev/progress/5)
 
 **Tax records and censuses:**
 - Some records concerning the Sami population have been found
@@ -103,6 +104,7 @@ My aim is to collect all sources relating to the northernmost part of Scandinavi
 ---
 
 ### Russian Archives
+![](https://geps.dev/progress/5)
 
 **Tax records and censuses:**
 - Some records concerning the Sami population have been found
