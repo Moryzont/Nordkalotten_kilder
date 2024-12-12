@@ -1,8 +1,6 @@
 # Historical Sources from the High North Pre-1750
 
-This is a repository of historical source material from the northernmost parts of Scandinavia before 1750. The aim of this project is to collect all sources from northern Fenno-Scandinavia and publish them here, hopefully they will be useful if you are working on this area. 
-This collection is curated by me, and if you find historical sources relating to northern Scandinavia before 1750 that are not yet included, **please reach out!** 
-
+This repository is a growing treasure chest of historical source material from the northernmost corners of Fenno-Scandinavia, all dating from before 1750! ❄️📜 Whether you’re a researcher, student, or just curious, I hope these documents spark new insights into this fascinating region. If you spot any missing sources or have suggestions, please don’t hesitate to reach out! Your contributions will help keep this archive thriving. 🙌✨
 ## Area of interest: 
 
 ![Map of Provinces of Interest](https://github.com/Moryzont/Nordkalotten_kilder/blob/81c550dad200d3295ef89e77f4f43aec7720c6d9/Provinces%20of%20interest.png)
