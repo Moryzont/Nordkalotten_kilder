@@ -3,6 +3,10 @@
 This is a repository of historical source material from the northernmost parts of Scandinavia before 1750. The aim of this project is to collect all sources from northern Fenno-Scandinavia and publish them here, hopefully they will be useful if you are working on this area. 
 This collection is curated by me, and if you find historical sources relating to northern Scandinavia before 1750 that are not yet included, **please reach out!** 
 
+## Area of interest: 
+
+![Map of Provinces of Interest](https://github.com/Moryzont/Nordkalotten_kilder/blob/81c550dad200d3295ef89e77f4f43aec7720c6d9/Provinces%20of%20interest.png)
+
 ## Contact
 Vetle Lars Wisløff Sandring / https://uit.no/ansatte/person?p_document_id=731704 
 
@@ -14,7 +18,6 @@ Vetle Lars Wisløff Sandring / https://uit.no/ansatte/person?p_document_id=73170
 
 My aim is to collect all sources relating to the northernmost part of Scandinavia before 1750.
 
-![Map of Provinces of Interest](https://github.com/Moryzont/Nordkalotten_kilder/blob/81c550dad200d3295ef89e77f4f43aec7720c6d9/Provinces%20of%20interest.png)
 
 ### Norwegian Archives
 ![](https://geps.dev/progress/50)
