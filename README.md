@@ -136,3 +136,26 @@ My aim is to collect all sources relating to the northernmost part of Scandinavi
 
 **Assorted records:**
 - Not started
+
+---
+
+### Other archives
+![](https://geps.dev/progress/0)
+
+**Danish Archives:**
+- Not started
+
+**Dutch archives:**
+- Not started
+
+**Hansa/ German archives:**
+- Not started
+
+**English archives:**
+- Not started
+
+**Spanish archives:**
+- Not started
+
+**Italian archives:**
+- Not started
