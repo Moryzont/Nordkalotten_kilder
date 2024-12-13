@@ -3,7 +3,7 @@
 This repository is a growing treasure chest of historical source material from the northernmost corners of Fenno-Scandinavia, all dating from before 1750! ❄️📜 Whether you’re a researcher, student, or just curious, I hope these documents spark new insights into this fascinating region. If you spot any missing sources or have suggestions, please don’t hesitate to reach out! Your contributions will help keep this archive thriving. 🙌✨
 ## Area of interest: 
 
-![Map of Provinces of Interest](https://github.com/Moryzont/Nordkalotten_kilder/blob/81c550dad200d3295ef89e77f4f43aec7720c6d9/Provinces%20of%20interest.png)
+![Map of Provinces of Interest](https://github.com/Moryzont/Nordkalotten_kilder/blob/3fac96502572b956542d75607d84ec37729db3e8/Provinces%20of%20interest.png)
 
 ## Contact
 Vetle Lars Wisløff Sandring / https://uit.no/ansatte/person?p_document_id=731704 
