@@ -11,6 +11,8 @@ Vetle Lars Wisløff Sandring / https://uit.no/ansatte/person?p_document_id=73170
 ## How to Use
 
 - Download the CSV files from the repository, or view them directly in your browser to get an overview of the source material.
+- Beware! The resources here is continously updated as new source material is found, labeled and catalogued. So you should perhaps note what day you looked after or found the material if you are using this site for research purposes. 
+- Beware(2)! This repository will always be incomplete, there is now way for me to know for sure that every source is listed here. Someone will find new records in weird places, some will go missing and others will remain forgotten. 
 
 ## Progress
 
