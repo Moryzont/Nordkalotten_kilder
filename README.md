@@ -1,6 +1,9 @@
-# Historical Sources from the High North Pre-1750
+# Historical Sources from the High North (Pre-1750)
 
-This repository is a growing treasure chest of historical source material from the northernmost corners of Fenno-Scandinavia, all dating from before 1750! ❄️📜 Whether you’re a researcher, student, or just curious, I hope these documents spark new insights into this fascinating region. If you spot any missing sources or have suggestions, please don’t hesitate to reach out! Your contributions will help keep this archive thriving. 🙌✨
+Welcome to an ever-growing treasure trove of historical source material from the northernmost reaches of Fenno-Scandinavia, all dating back prior to 1750! ❄️📜 Whether you’re a researcher, a student, or simply curious, I hope these documents ignite new insights into this fascinating region. If you discover missing sources or have suggestions, please reach out and help this archive thrive. 🙌✨
+
+The project began with a focus on Finnmark, but it quickly became clear that restricting it to a single region was too narrow. People in the North have always been remarkably mobile. As a result, the scope expanded to include neighboring areas. This repository may be especially useful if you’re studying Sámi populations, given that their records are scattered across multiple national archives, making any research a profound hazzle.
+
 ## Area of interest: 
 
 ![Map of Provinces of Interest](https://github.com/Moryzont/Nordkalotten_kilder/blob/3fac96502572b956542d75607d84ec37729db3e8/Provinces%20of%20interest.png)
