@@ -8,63 +8,73 @@ This repository is a growing treasure chest of historical source material from t
 ## Contact
 Vetle Lars Wisløff Sandring / https://uit.no/ansatte/person?p_document_id=731704 
 
-## How to Use
+## How to Use 🔎
 
-- Download the CSV files from the repository, or view them directly in your browser to get an overview of the source material.
-- Beware! The resources here is continously updated as new source material is found, labeled and catalogued. So you should perhaps note what day you looked after or found the material if you are using this site for research purposes. 
-- Beware(2)! This repository will always be incomplete, there is now way for me to know for sure that every source is listed here. Someone will find new records in weird places, some will go missing and others will remain forgotten. 
+1. **Grab the Goods**  
+   Download the CSV files from this repository or view them directly in your browser for a quick overview of the source material.
 
-## Progress
+2. **Mind the Updates**  
+   This repository is constantly evolving as new records are found, labeled, and cataloged. If you’re using these sources for research, **note the date** you accessed them — data may have changed by your next visit. ⏰
 
-My aim is to collect all sources relating to the northernmost part of Scandinavia before 1750.
+3. **Incomplete by Nature**  
+   There’s no way to guarantee that every possible record is included here. Lost archives could resurface, new discoveries might pop up in unexpected places, and some sources will inevitably slip through the cracks. Consider this a perpetual work in progress! ✨
 
+## Progress ⏳
 
-### Norwegian Archives
-![](https://geps.dev/progress/50)
-
-**Tax records and censuses:**
-- Finnmark: Complete until 1718 (waiting for digitization efforts from the national archive)
-- Troms: Complete until 1718 (waiting for digitization efforts from the national archive)
-- Nordland: Only Sami records explicitly related to the Sami population collected
-
-**Court records:**
-- Finnmark: All records collected, but incomplete catalogization
-- Troms: All records collected, but incomplete catalogization
-- Nordland: All records collected, but incomplete catalogization
-
-**Annual financial accounts from officials:**
-- Finnmark: All records collected, but incomplete catalogization
-- Troms: All records collected, but incomplete catalogization
-- Nordland: All records collected, but incomplete catalogization
-
-**Church records:**
-- The occasional church record found
-
-**Maps and drawings:**
-- The occasional map has been found
-
-**Probate records:**
-- Not started
-
-**Descriptions:**
-- The occasional description has been found
-
-**Assorted records:**
-- Several assorted records have been found
+The aim is to assemble all available source material related to the northernmost parts of Scandinavia before 1750. The progress bars below illustrate our current status, but keep in mind this collection is a work in progress!
 
 ---
 
-### Swedish Archives
+### 🇳🇴 Norwegian Archives 🇳🇴
+![Progress Bar](https://geps.dev/progress/50)
+
+**Tax Records & Censuses**  
+- **Finnmark:** Complete until 1718 (awaiting further digitization from the National Archive)  
+- **Troms:** Complete until 1718 (awaiting further digitization from the National Archive)  
+- **Nordland:** Only Sami-related records included so far  
+
+**Court Records**  
+- **Finnmark:** All known records collected, cataloging incomplete  
+- **Troms:** All known records collected, cataloging incomplete  
+- **Nordland:** All known records collected, cataloging incomplete  
+
+**Annual Financial Accounts**  
+- **Finnmark:** All located accounts gathered, cataloging incomplete  
+- **Troms:** All located accounts gathered, cataloging incomplete  
+- **Nordland:** All located accounts gathered, cataloging incomplete  
+
+**Church Records**  
+- Occasional church records discovered  
+
+**Maps & Drawings**  
+- Occasional maps uncovered  
+
+**Probate Records**  
+- Not started  
+
+**Descriptions**  
+- Occasional written accounts discovered  
+
+**Assorted Records**  
+- Various miscellaneous documents added  
+
+---
+
+_Stay tuned as we continue to find, label, and upload new materials!_
+
+
+### 🇸🇪Swedish Archives🇸🇪
 ![](https://geps.dev/progress/10)
 
 **Tax records and censuses:**
+- Most tax records before 1620 is found, but not catalogued
 - Some records concerning the Sami population have been found
 
 **Court records:**
 - Not started
 
 **Annual financial accounts from officials:**
-- Not started
+- found, but not catalogued until 1620
 
 **Church records:**
 - Not started
@@ -82,8 +92,10 @@ My aim is to collect all sources relating to the northernmost part of Scandinavi
 - Not started
 
 ---
+_Stay tuned as we continue to find, label, and upload new materials!_
 
-### Finnish Archives
+
+### 🇫🇮Finnish Archives🇫🇮
 ![](https://geps.dev/progress/5)
 
 **Tax records and censuses:**
@@ -111,9 +123,10 @@ My aim is to collect all sources relating to the northernmost part of Scandinavi
 - Not started
 
 ---
+_Stay tuned as we continue to find, label, and upload new materials!_
 
-### Russian Archives
-![](https://geps.dev/progress/5)
+### 🇷🇺Russian Archives🇷🇺
+![](https://geps.dev/progress/1)
 
 **Tax records and censuses:**
 - Some records concerning the Sami population have been found
@@ -140,24 +153,27 @@ My aim is to collect all sources relating to the northernmost part of Scandinavi
 - Not started
 
 ---
+_Stay tuned as we continue to find, label, and upload new materials!_
 
 ### Other archives
 ![](https://geps.dev/progress/0)
 
-**Danish Archives:**
+**🇩🇰Danish Archives🇩🇰:**
 - Not started
 
-**Dutch archives:**
+**🇳🇱Dutch archives🇳🇱:**
 - Not started
 
-**Hansa/ German archives:**
+**🇩🇪Hansa/ German archives🇩🇪:**
 - Not started
 
-**English archives:**
+**🇬🇧British archives🇬🇧:**
 - Not started
 
-**Spanish archives:**
+**🇪🇸Spanish archives🇪🇸:**
 - Not started
 
-**Italian archives:**
+**🇮🇹Italian archives🇮🇹:**
 - Not started
+
+_Stay tuned as we continue to find, label, and upload new materials!_
