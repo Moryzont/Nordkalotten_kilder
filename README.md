@@ -13,8 +13,8 @@ Vetle Lars Wisløff Sandring / https://uit.no/ansatte/person?p_document_id=73170
 1. **Grab the Goods**  
    Download the CSV files from this repository or view them directly in your browser for a quick overview of the source material.
 
-2. **Look at the sources**
-   Most entries have a link to the digitized document. If not, use the archival reference code to find it yourself. Could be tricky. 
+2. **Look at the sources**  
+   Most entries have a link to the digitized document. If not, use the archival reference code to find it yourself. Could be tricky. If the link is broken, please reach out! 
 
 3. **Mind the Updates**  
    This repository is constantly evolving as new records are found, labeled, and cataloged. If you’re using these sources for research, **note the date** you accessed them — data may have changed by your next visit. ⏰
