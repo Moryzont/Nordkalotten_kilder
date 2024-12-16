@@ -74,7 +74,7 @@ _Stay tuned as we continue to find, label, and upload new materials!_
 
 **Tax records and censuses:**
 - Most tax records before 1620 is found, but not catalogued
-- Some records concerning the Sami population have been found
+- Sami tax records until 1600 have been catalogued
 
 **Court records:**
 - Not started
