@@ -38,32 +38,34 @@ Below is the interactive table that loads data from `Sources_by_type/Manntall.cs
   const csvFilePath = "{{ '/Sources_by_type/Manntall.csv' | relative_url }}";
 
   // Match columns to your CSV headers
-  const columns = [
-    { data: 'Type' },
-    { data: 'Årstall' },
-    { data: 'Geografisk område' },
-    { data: 'Detaljnivå' },
-    { data: 'Stat' },
-    { data: 'Skaper' },
-    { data: 'Grov dat.' },
-    { data: 'Nyttig info' },
-    { data: 'Referanse' },
-    { data: 'Sidetall' },
-    { data: 'Link - arkiv' },
-    { data: 'Transk.' },
-    { data: 'Tabell' },
-    { data: 'Link - transkribert' },
-    { data: 'Link - Tabell' },
-    { data: 'Link - Arkivportal' }
-  ];
+const columns = [
+  { data: 'Type manntall' },
+  { data: 'Årstall' },
+  { data: 'Geografisk område' },
+  { data: 'Detaljnivå' },
+  { data: 'Stat' },
+  { data: 'Skaper' },
+  { data: 'Grov dat.' },
+  { data: 'Nyttig info' },
+  { data: 'Referanse ' },  // if there's a trailing space in the CSV
+  { data: 'Sidetall' },
+  { data: 'Link - arkiv' },
+  { data: 'Transk.' },
+  { data: 'Tabell' },
+  { data: 'Link - transkribert' },
+  { data: 'Link - Tabell' },
+  { data: 'Link - Arkivportal' }
+];
+
 
   $(document).ready(function() {
     Papa.parse(csvFilePath, {
       download: true,
       header: true,
       skipEmptyLines: true,
+      delimiter: ";",
       complete: function(results) {
-        const data = results.data;
+        const data = results.data; // array of objects
         $('#manntall-table').DataTable({
           data: data,
           columns: columns,
@@ -71,8 +73,7 @@ Below is the interactive table that loads data from `Sources_by_type/Manntall.cs
           searching: true,
           ordering: true,
           pageLength: 10,
-          lengthMenu: [5, 10, 25, 50, 100],
-          language: { search: 'Filter:' }
+          lengthMenu: [5, 10, 25, 50, 100]
         });
       }
     });
