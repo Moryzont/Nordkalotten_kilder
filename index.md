@@ -2,10 +2,6 @@
 layout: single
 title: "Historical Sources from the High North (Pre-1750)"
 ---
-
-
-# Historical Sources from the High North (Pre-1750)
-
 [**Jump Directly to the Manntall Table**]({{ '/table.html' | relative_url }})
 
 

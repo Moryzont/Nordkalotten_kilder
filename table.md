@@ -1,8 +1,8 @@
 ---
 layout: single
-title: "Manntall Data Table"
+title: "Census data table"
 ---
-# Interactive Manntall Table
+# Table
 
 [**Back to Home**]({{ '/' | relative_url }})
 
