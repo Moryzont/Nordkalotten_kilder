@@ -1,5 +1,7 @@
 title: "High North Sources"
 description: "A Jekyll-based site for historical sources"
 markdown: kramdown
-theme: minima  # optional: you can remove or pick a different theme
+remote_theme: mmistakes/minimal-mistakes@latest
+plugins:
+  - jekyll-remote-theme
 baseurl: "/Nordkalotten_kilder"

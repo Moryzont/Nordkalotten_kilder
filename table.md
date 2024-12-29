@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: "Manntall Data Table"
 ---
 # Interactive Manntall Table

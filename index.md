@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: single
 title: "Historical Sources from the High North (Pre-1750)"
 ---
 
