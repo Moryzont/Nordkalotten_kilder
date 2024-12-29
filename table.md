@@ -4,12 +4,6 @@ title: "Manntall Data Table"
 ---
 # Interactive Manntall Table
 
-<script>
-  $(document).ready(function(){
-    // DataTables + PapaParse code here
-  });
-</script>
-
 [**Back to Home**]({{ '/' | relative_url }})
 
 
