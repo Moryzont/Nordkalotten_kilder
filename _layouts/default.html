@@ -13,13 +13,61 @@
   <!-- Page Content -->
   {{ content }}
 
-  <!-- JS includes at bottom -->
-  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-  <script src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.3.2/papaparse.min.js"></script>
-  
-  <!-- Option 1: Put your table logic here if you want it global for all pages -->
-  <!-- Option 2: Let each .md page have an inline <script> after these includes. -->
+<!-- 1) jQuery FIRST -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<!-- 2) DataTables depends on jQuery -->
+<script src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
+
+<!-- 3) Papa Parse -->
+<script src="https://cdn.jsdelivr.net/npm/papaparse@5.3.2/papaparse.min.js"></script>
+
+<!-- 4) Your custom inline script -->
+<script>
+  $(document).ready(function() {
+    // Your Papa Parse + DataTables code
+    const csvFilePath = "{{ '/Sources_by_type/Manntall.csv' | relative_url }}";
+    const columns = [
+    { data: 'Census_type' },
+    { data: 'Year' },
+    { data: 'Geographic_area' },
+    { data: 'Detail_level' },
+    { data: 'State' },
+    { data: 'Creator' },
+    { data: 'dat_grov' },
+    { data: 'Usefull_info' },
+    { data: 'Reference' },
+    { data: 'Pagenumber' },
+    { data: 'Digitized_link' },
+    { data: 'Transcribed' },
+    { data: 'Tabulated' },
+    { data: 'Transcription_link' },
+    { data: 'Table_link' },
+    { data: 'Archival_portal_link' }
+  ];
+    
+    Papa.parse(csvFilePath, {
+      download: true,
+      header: true,
+      skipEmptyLines: true,
+      complete: function(results) {
+        $('#manntall-table').DataTable({
+          data: results.data,
+          columns: columns,
+          paging: true,
+          searching: true,
+          ordering: true,
+          pageLength: 10,
+          lengthMenu: [5, 10, 25, 50, 100],
+          language: {
+          search: 'Filter:'
+          }
+        });
+      }
+    });
+  });
+</script>
+
 </body>
 
     $(document).ready(function() {
