@@ -1,5 +1,5 @@
 /* Center the entire page content container */
-.page__content {
+ .page__content > *:not(#manntall-table) {
   max-width: 900px;  /* Adjust to taste (e.g., 600px, 1000px, etc.) */
   margin: 0 auto;    /* This horizontally centers the container */
 }
