@@ -24,10 +24,8 @@
 
 <!-- 4) Your custom inline script -->
 <script>
-  $(document).ready(function() {
-    // Your Papa Parse + DataTables code
-    const csvFilePath = "{{ '/Sources_by_type/Manntall.csv' | relative_url }}";
-    const columns = [
+  const csvFilePath = "{{ '/Sources_by_type/Manntall.csv' | relative_url }}";
+  const columns = [
     { data: 'Census_type' },
     { data: 'Year' },
     { data: 'Geographic_area' },
@@ -45,27 +43,30 @@
     { data: 'Table_link' },
     { data: 'Archival_portal_link' }
   ];
-    
+
+  $(document).ready(function() {
     Papa.parse(csvFilePath, {
       download: true,
       header: true,
       skipEmptyLines: true,
       complete: function(results) {
+        const data = results.data;
         $('#manntall-table').DataTable({
-          data: results.data,
+          data: data,
           columns: columns,
           paging: false,
-          header: true,
           searching: true,
           ordering: true,
-          language: {
-          search: 'Filter:'
-          }
+          info: false,
+          lengthChange: false,
+          // 't' = table only (no search, no pagination controls)
+          dom: 't'
         });
       }
     });
   });
 </script>
+
 
 </body>
 
