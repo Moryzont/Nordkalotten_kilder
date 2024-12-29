@@ -21,17 +21,8 @@ multiple national archives, making any research a profound hazzle.
 
 ## Area of interest:
 
-{% include figure 
-   image_path="/assets/img/Provinces_of_interest.png" 
-   alt="Map of Provinces" 
-   caption="Approximate area of interest" 
-   align="center" 
-%}
+![Map of the Region](/assets/img/Provinces_of_interest.png)
 
-
-> **Note**: The above snippet uses Minimal Mistakes’ built-in `{% include figure ... %}` tag to display an image with a caption, aligned in the center.  
-> - Make sure your image is at `assets/img/Provinces_of_interest.png` (case-sensitive).  
-> - If you get a 404, double-check the path and your `_config.yml` `baseurl`.  
 
 ## Contact
 Vetle Lars Wisløff Sandring  
