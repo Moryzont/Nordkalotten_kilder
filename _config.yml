@@ -1,0 +1,4 @@
+title: "High North Sources"
+description: "A Jekyll-based site for historical sources"
+markdown: kramdown
+theme: minima  # optional: you can remove or pick a different theme
