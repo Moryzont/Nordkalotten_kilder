@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <title>{{ page.title | default: site.title }}</title>
-  
   <!-- DataTables CSS -->
   <link
     rel="stylesheet"
@@ -11,21 +10,22 @@
   />
 </head>
 <body>
-  <header>
-    <h1>{{ site.title }}</h1>
-  </header>
+  <!-- Page Content -->
+  {{ content }}
 
-  <main>
-    <!-- This is where your page content goes -->
-    {{ content }}
-  </main>
-
-  <!-- jQuery -->
+  <!-- JS includes at bottom -->
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-  <!-- DataTables JS -->
   <script src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
-  <!-- Papa Parse -->
   <script src="https://cdn.jsdelivr.net/npm/papaparse@5.3.2/papaparse.min.js"></script>
+  
+  <!-- Option 1: Put your table logic here if you want it global for all pages -->
+  <!-- Option 2: Let each .md page have an inline <script> after these includes. -->
+</body>
+
+    $(document).ready(function() {
+      // Put your DataTables + Papa Parse code here.
+    });
+  </script>
 
 </body>
 </html>
