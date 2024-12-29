@@ -6,7 +6,7 @@ The project began with a focus on Finnmark, but it quickly became clear that res
 
 ## Area of interest: 
 
-![Map of Provinces of Interest](https://github.com/Moryzont/Nordkalotten_kilder/blob/3fac96502572b956542d75607d84ec37729db3e8/Provinces%20of%20interest.png)
+![Map of Provinces of Interest]({{ '/assets/img/Provinces_of_interest.png' | relative_url }})
 
 ## Contact
 Vetle Lars Wisløff Sandring / https://uit.no/ansatte/person?p_document_id=731704 

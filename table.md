@@ -1,18 +1,17 @@
 ---
-layout: default
+layout: page
 title: "Manntall Data Table"
 ---
 # Interactive Manntall Table
 
-Below is an example interactive table that loads data from 
-`Sources_by_type/Manntall.csv`. You can sort, search, and paginate
-these records.
+[Back to Home]({{ '/' | relative_url }})
 
-<!-- The HTML table element for DataTables -->
+Below is the interactive table that loads data from `Sources_by_type/Manntall.csv`.
+
 <table id="manntall-table" class="display">
   <thead>
     <tr>
-      <!-- Replace these headers with your actual column names -->
+      <!-- EXACT column names from the CSV header row -->
       <th>Type</th>
       <th>Årstall</th>
       <th>Geografisk område</th>
@@ -31,18 +30,14 @@ these records.
       <th>Link - Arkivportal</th>
     </tr>
   </thead>
-  <tbody>
-    <!-- Data inserted dynamically -->
-  </tbody>
+  <tbody></tbody>
 </table>
 
-<!-- The script that fetches and displays the CSV -->
 <script>
-  // Build the path to your CSV:
-  // Use the relative_url filter so Jekyll sets the correct prefix if needed
+  // If your site has baseurl set in _config.yml, relative_url will handle it.
   const csvFilePath = "{{ '/Sources_by_type/Manntall.csv' | relative_url }}";
 
-  // Match these columns to your CSV headers
+  // Match columns to your CSV headers
   const columns = [
     { data: 'Type' },
     { data: 'Årstall' },
@@ -68,7 +63,7 @@ these records.
       header: true,
       skipEmptyLines: true,
       complete: function(results) {
-        const data = results.data; // array of objects
+        const data = results.data;
         $('#manntall-table').DataTable({
           data: data,
           columns: columns,
@@ -77,9 +72,7 @@ these records.
           ordering: true,
           pageLength: 10,
           lengthMenu: [5, 10, 25, 50, 100],
-          language: {
-            search: 'Filter:'
-          }
+          language: { search: 'Filter:' }
         });
       }
     });

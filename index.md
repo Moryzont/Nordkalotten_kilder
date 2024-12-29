@@ -1,9 +1,13 @@
 ---
-layout: default
+layout: home
 title: "Historical Sources from the High North (Pre-1750)"
 ---
 
+
 # Historical Sources from the High North (Pre-1750)
+
+[**Jump Directly to the Manntall Table**]({{ '/table.html' | relative_url }})
+
 
 Welcome to an ever-growing treasure trove of historical source material from the northernmost reaches of Fenno-Scandinavia, all dating back prior to 1750! ❄️📜 Whether you’re a researcher, a student, or simply curious, I hope these documents ignite new insights into this fascinating region. If you discover missing sources or have suggestions, please reach out and help this archive thrive. 🙌✨
 
@@ -11,7 +15,8 @@ The project began with a focus on Finnmark, but it quickly became clear that res
 
 ## Area of interest: 
 
-![Map of Provinces of Interest](https://github.com/Moryzont/Nordkalotten_kilder/blob/3fac96502572b956542d75607d84ec37729db3e8/Provinces%20of%20interest.png)
+![Map of Provinces]({{ '/assets/img/Provinces_of_interest.png' | relative_url }})
+
 
 ## Contact
 Vetle Lars Wisløff Sandring / https://uit.no/ansatte/person?p_document_id=731704 
