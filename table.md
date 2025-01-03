@@ -12,7 +12,7 @@ Below is the interactive table loading data from:
 `Sources_by_type/Manntall.csv`
 
 <div class="table-container">
-  <table id="manntall-table" class="display">
+  <table id="manntall-table" class="table table-striped">
     <thead>
       <tr>
         <th>Census_type</th>
