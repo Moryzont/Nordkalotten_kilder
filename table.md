@@ -34,6 +34,26 @@ Below is the interactive table loading data from:
         <!-- etc. -->
       </tr>
     </thead>
+      <tfoot>
+    <tr>
+      <th>Census_type</th>
+      <th>Year</th>
+      <th>Geographic_area</th>
+      <th>Detail_level</th>
+      <th>State</th>
+      <th>Creator</th>
+      <th>dat_grov</th>
+      <th>Usefull_info</th>
+      <th>Reference</th>
+      <th>Pagenumber</th>
+      <th>Digitized_link</th>
+      <th>Transcribed</th>
+      <th>Tabulated</th>
+      <th>Transcription_link</th>
+      <th>Table_link</th>
+      <th>Archival_portal_link</th>
+    </tr>
+  </tfoot>
     <tbody></tbody>
   </table>
 </div>
