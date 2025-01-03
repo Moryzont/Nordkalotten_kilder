@@ -54,9 +54,27 @@ $(document).ready(function(){
     },
     { data: 'Transcribed' },
     { data: 'Tabulated' },
-    { data: 'Transcription_link' },
-    { data: 'Table_link' },
-    { data: 'Archival_portal_link' }
+    {
+      data: 'Transcription_link',
+      render: function(url) {
+        if (!url || url.trim() === '') return '';
+        return `<a href="${url}" target="_blank" class="btn btn-sm btn-success">Transcription</a>`;
+      }
+    },
+    {
+      data: 'Table_link',
+      render: function(url) {
+        if (!url || url.trim() === '') return '';
+        return `<a href="${url}" target="_blank" class="btn btn-sm btn-info">Table</a>`;
+      }
+    },
+    {
+      data: 'Archival_portal_link',
+      render: function(url) {
+        if (!url || url.trim() === '') return '';
+        return `<a href="${url}" target="_blank" class="btn btn-sm btn-warning">Archive</a>`;
+      }
+    }
   ];
 
   Papa.parse(csvFilePath, {
