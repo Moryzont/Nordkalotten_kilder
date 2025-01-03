@@ -1,7 +1,12 @@
-
-
-/* If you literally want all text center-aligned (not usually recommended):
-.page__content > * {
-  text-align: center;
+/* Apply a light gray border around table cells */
+#manntall-table.dataTable,
+#manntall-table.dataTable th,
+#manntall-table.dataTable td {
+  border: 1px solid #ccc !important;
+  /* !important ensures it overrides any default DataTables style */
 }
-*/
+
+/* If you want spacing within cells: */
+#manntall-table.dataTable td {
+  padding: 0.5rem;
+}

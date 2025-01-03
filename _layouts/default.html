@@ -17,6 +17,15 @@ href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"
 rel="stylesheet"
 href="https://cdn.datatables.net/1.13.4/css/dataTables.bootstrap5.min.css"
 />
+<!-- DataTables Buttons CSS/JS -->
+<link rel="stylesheet" href="https://cdn.datatables.net/buttons/2.3.6/css/buttons.dataTables.min.css" />
+<script src="https://cdn.datatables.net/buttons/2.3.6/js/dataTables.buttons.min.js"></script>
+<script src="https://cdn.datatables.net/buttons/2.3.6/js/buttons.flash.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.2.5/pdfmake.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.2.5/vfs_fonts.js"></script>
+<script src="https://cdn.datatables.net/buttons/2.3.6/js/buttons.html5.min.js"></script>
+<script src="https://cdn.datatables.net/buttons/2.3.6/js/buttons.print.min.js"></script>
 
 </head>
 <body>
@@ -71,8 +80,10 @@ href="https://cdn.datatables.net/1.13.4/css/dataTables.bootstrap5.min.css"
           ordering: true,
           info: false,
           lengthChange: false,
-          // 't' = table only (no search, no pagination controls)
-          dom: 't'
+          dom: 'Bfrtip',
+          buttons: [
+          'csv',  // You can also add 'excel', 'pdf', 'print', etc.
+          ],
         });
       }
     });
