@@ -45,7 +45,13 @@ $(document).ready(function(){
     { data: 'Usefull_info' },
     { data: 'Reference' },
     { data: 'Pagenumber' },
-    { data: 'Digitized_link' },
+    {
+      data: 'Digitized_link',
+      render: function(url) {
+        if (!url || url.trim() === '') return '';
+        return `<a href="${url}" target="_blank" class="btn btn-sm btn-primary">Link</a>`;
+      }
+    },
     { data: 'Transcribed' },
     { data: 'Tabulated' },
     { data: 'Transcription_link' },
