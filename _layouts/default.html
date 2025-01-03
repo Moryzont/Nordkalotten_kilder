@@ -46,36 +46,52 @@ $(document).ready(function(){
     { data: 'Reference' },
     { data: 'Pagenumber' },
     {
-      data: 'Digitized_link',
-      render: function(url) {
-        if (!url || url.trim() === '') return '';
-        return `<a href="${url}" target="_blank" class="btn btn-sm btn-primary">Link</a>`;
+    data: 'Digitized_link',
+    render: function(url) {
+      if (!url || url.trim().toLowerCase() === 'x') {
+        return `<span class="text-danger">
+                  <i class="fas fa-frown"></i> No link
+                </span>`;
       }
-    },
+      return `<a href="${url}" target="_blank" class="btn btn-sm btn-primary">Link</a>`;
+    }
+  },
     { data: 'Transcribed' },
     { data: 'Tabulated' },
     {
-      data: 'Transcription_link',
-      render: function(url) {
-        if (!url || url.trim() === '') return '';
-        return `<a href="${url}" target="_blank" class="btn btn-sm btn-success">Transcription</a>`;
+    data: 'Transcription_link',
+    render: function(url) {
+      if (!url || url.trim().toLowerCase() === 'x') {
+        return `<span class="text-danger">
+                  <i class="fas fa-frown"></i> No link
+                </span>`;
       }
-    },
-    {
-      data: 'Table_link',
-      render: function(url) {
-        if (!url || url.trim() === '') return '';
-        return `<a href="${url}" target="_blank" class="btn btn-sm btn-info">Table</a>`;
-      }
-    },
-    {
-      data: 'Archival_portal_link',
-      render: function(url) {
-        if (!url || url.trim() === '') return '';
-        return `<a href="${url}" target="_blank" class="btn btn-sm btn-warning">Archive</a>`;
-      }
+      return `<a href="${url}" target="_blank" class="btn btn-sm btn-success">Transcription</a>`;
     }
-  ];
+  },
+  {
+    data: 'Table_link',
+    render: function(url) {
+      if (!url || url.trim().toLowerCase() === 'x') {
+        return `<span class="text-danger">
+                  <i class="fas fa-frown"></i> No link
+                </span>`;
+      }
+      return `<a href="${url}" target="_blank" class="btn btn-sm btn-info">Table</a>`;
+    }
+  },
+  {
+    data: 'Archival_portal_link',
+    render: function(url) {
+      if (!url || url.trim().toLowerCase() === 'x') {
+        return `<span class="text-danger">
+                  <i class="fas fa-frown"></i> No link
+                </span>`;
+      }
+      return `<a href="${url}" target="_blank" class="btn btn-sm btn-warning">Archive</a>`;
+    }
+  }
+];
 
   Papa.parse(csvFilePath, {
         download: true,
