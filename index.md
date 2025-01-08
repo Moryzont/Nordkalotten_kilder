@@ -5,8 +5,6 @@ title: "Historical Sources from the High North (Pre-1750)"
 # and you've set up _data/authors. For now, let's keep it simple.
 ---
 
-[**Jump Directly to the Manntall Table**]({{ '/table.html' | relative_url }})
-
 Welcome to an ever-growing treasure trove of historical source material from the northernmost 
 reaches of Fenno-Scandinavia, all dating back prior to 1750! ❄️📜 Whether you’re a researcher, a student, 
 or simply curious, I hope these documents ignite new insights into this fascinating region. 
