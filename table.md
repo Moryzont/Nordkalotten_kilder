@@ -183,3 +183,16 @@ document.addEventListener('DOMContentLoaded', function() {
   window.addEventListener('resize', updateScrollWidths);
 });
 </script>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  // By now, papaparse.min.js is loaded from the layout
+  Papa.parse("{{ '/Sources_by_type/Manntall.csv' | relative_url }}", {
+    download: true,
+    header: true,
+    skipEmptyLines: true,
+    complete: function(results) {
+      // data is in results.data
+      // Now you can call DataTables, etc.
+    }
+  });
+});
