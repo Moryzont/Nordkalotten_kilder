@@ -1,7 +1,6 @@
 ---
-layout: single
+layout: default
 title: "Historical Sources from the High North (Pre-1750)"
-classes: wide
 # You can also add `author_profile: true` if you want a sidebar author box 
 # and you've set up _data/authors. For now, let's keep it simple.
 ---
