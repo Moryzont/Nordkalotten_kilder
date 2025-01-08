@@ -35,18 +35,18 @@
 $(document).ready(function(){
   const csvFilePath = "{{ '/Sources_by_type/Manntall.csv' | relative_url }}";
   const columns = [
-    { data: 'Census_type' },
-    { data: 'Year' },
-    { data: 'Geographic_area' },
-    { data: 'Detail_level' },
-    { data: 'State' },
-    { data: 'Creator' },
-    { data: 'dat_grov' },
-    { data: 'Usefull_info' },
-    { data: 'Reference' },
-    { data: 'Pagenumber' },
+    { data: 'Census_type', with: '100px' },
+    { data: 'Year', with: '100px'  },
+    { data: 'Geographic_area', with: '100px'  },
+    { data: 'Detail_level', with: '100px'  },
+    { data: 'State', with: '100px'  },
+    { data: 'Creator', with: '100px'  },
+    { data: 'dat_grov', with: '100px'  },
+    { data: 'Usefull_info', with: '100px'  },
+    { data: 'Reference', with: '100px'  },
+    { data: 'Pagenumber', with: '100px'  },
     {
-    data: 'Digitized_link',
+    data: 'Digitized_link', with: '100px' ,
     render: function(url) {
       if (!url || url.trim().toLowerCase() === 'x') {
         return `<span class="text-danger">
@@ -56,10 +56,10 @@ $(document).ready(function(){
       return `<a href="${url}" target="_blank" class="btn btn-sm btn-primary">Link</a>`;
     }
   },
-    { data: 'Transcribed' },
-    { data: 'Tabulated' },
+    { data: 'Transcribed', with: '100px'  },
+    { data: 'Tabulated', with: '100px'  },
     {
-    data: 'Transcription_link',
+    data: 'Transcription_link', with: '100px' ,
     render: function(url) {
       if (!url || url.trim().toLowerCase() === 'x') {
         return `<span class="text-danger">
@@ -70,7 +70,7 @@ $(document).ready(function(){
     }
   },
   {
-    data: 'Table_link',
+    data: 'Table_link', with: '100px' ,
     render: function(url) {
       if (!url || url.trim().toLowerCase() === 'x') {
         return `<span class="text-danger">
@@ -81,7 +81,7 @@ $(document).ready(function(){
     }
   },
   {
-    data: 'Archival_portal_link',
+    data: 'Archival_portal_link', with: '100px' ,
     render: function(url) {
       if (!url || url.trim().toLowerCase() === 'x') {
         return `<span class="text-danger">
@@ -106,6 +106,8 @@ Papa.parse(csvFilePath, {
         columns: columns,
         // Show a CSV download button, plus the usual filter, etc.
         dom: 'Bfrtip',
+        scrollx: true,
+        autoWith: false,
         buttons: [
           {
             extend: 'csvHtml5',
