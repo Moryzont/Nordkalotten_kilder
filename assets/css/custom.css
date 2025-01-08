@@ -83,30 +83,51 @@ a:hover {
   text-decoration: underline;
 }
 
-/* Constrain the table to the .content column width */
-.table-responsive {
-  max-width: 100%;
-  /* margin: 0 auto; If you want it centered, 
-     but typically it's just a block-level container */
+/* TABLE FORMATING */
+/* Remove .table-bordered from your HTML and rely on custom lines: */
+table.table {
+  border-collapse: collapse; /* ensures uniform line separation */
+  width: 100%;               /* fill the container's width */
+  table-layout: auto;        /* let columns size automatically */
 }
 
-/* If you want a faint border, you can rely on .table-bordered from Bootstrap 
-   or forcibly apply your own: */
-.table-bordered > :not(caption) > * > * {
-  border-color: #ccc !important;
+/* Minimal lines: horizontal only */
+#manntall-table.dataTable thead th {
+  border-bottom: 2px solid #ddd !important;
+  border-top: none !important;
+  border-left: none !important;
+  border-right: none !important;
+}
+#manntall-table.dataTable tbody td {
+  border-bottom: 1px solid #eee !important;
+  border-top: none !important;
+  border-left: none !important;
+  border-right: none !important;
 }
 
-/* Or forcibly apply to DataTables class */
-#manntall-table.dataTable th,
+/* Use Bootstrap's .table-striped or define your own stripe: */
+#manntall-table.dataTable tbody tr:nth-child(even) {
+  background-color: #fafafa;
+}
+#manntall-table.dataTable tbody tr:nth-child(odd) {
+  background-color: #fff;
+}
+
+/* Make sure wide columns can break lines: */
 #manntall-table.dataTable td {
-  border: 1px solid #ccc !important;
-}
-
-/* Make sure wide columns can break words if they're too long */
-#manntall-table.dataTable td {
-  white-space: normal;
   word-wrap: break-word;
+  white-space: normal;
 }
+
+/* If you want the table narrower, it remains within .content's max-width: */
+.content .table-responsive {
+  margin: 0 auto;  /* center within content */
+  width: 100%;     /* fill .content's width */
+  /* 'max-width: 100%' won't exceed the container if there's a horizontal scrollbar. */
+}
+
+
+/*Image formating */
 
 .content img {
   display: block;       /* so margin: 0 auto can center the image */

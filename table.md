@@ -11,7 +11,7 @@ Below is the interactive table loading data from:
 `Sources_by_type/Manntall.csv`
 
 <div class="table-responsive">
-  <table id="manntall-table" class="table table-striped table-bordered">
+  <table id="manntall-table" class="table table-striped">
   <thead>
     <!-- First row: actual column headings -->
     <tr>
