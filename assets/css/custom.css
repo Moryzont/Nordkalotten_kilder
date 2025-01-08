@@ -84,39 +84,7 @@ a:hover {
 }
 
 /* TABLE FORMATING */
-/* Remove .table-bordered from your HTML and rely on custom lines: */
-table.table {
-  border-collapse: collapse; /* ensures uniform line separation */
-  width: 100%;               /* fill the container's width */
-  table-layout: auto;        /* let columns size automatically */
-}
-
-/* Minimal lines: horizontal only */
-#manntall-table.dataTable thead th {
-  border-bottom: 2px solid #ddd !important;
-  border-top: none !important;
-  border-left: none !important;
-  border-right: none !important;
-}
-#manntall-table.dataTable tbody td {
-  border-bottom: 1px solid #eee !important;
-  border-top: none !important;
-  border-left: none !important;
-  border-right: none !important;
-}
-
-/* Make sure wide columns can break lines: */
-#manntall-table.dataTable td {
-  word-wrap: break-word;
-  white-space: normal;
-}
-
-/* Let the table scroll horizontally if it doesn't fit in 760px */
-.content .table-responsive {
-  overflow-x: auto;
-  max-width: 100%;
-  margin: 0 auto;
-}
+/* For the wide layout container */
 .content-wide {
   max-width: 1200px;
   margin: 0 auto;
@@ -124,38 +92,56 @@ table.table {
   background: #fff;
 }
 
-/* Cells scroll individually if content is tall: */
-#manntall-table.dataTable td {
-  max-height: 6em;
-  overflow-y: auto; /* each cell gets a vertical scrollbar if needed */
-  display: block;   /* so max-height + overflow works */
-  white-space: normal;
-  /* or white-space: nowrap if you prefer a single line with horizontal scroll in each cell */
+/* TABLE RULES */
+
+/* remove .table-bordered, rely on subtle lines: */
+.table {
+  border-collapse: collapse;
+  width: 100%;
+  table-layout: auto; /* columns adjust by content */
 }
 
-/* Minimal lines or rely on .table-striped for row shading. */
+/* minimal lines: horizontal only */
 #manntall-table thead th {
   border-bottom: 2px solid #ddd !important;
+  border-top: none !important;
+  border-left: none !important;
+  border-right: none !important;
 }
 #manntall-table tbody td {
   border-bottom: 1px solid #eee !important;
+  border-top: none !important;
+  border-left: none !important;
+  border-right: none !important;
 }
 
-
-/* Minimal lines, row striping from .table-striped (Bootstrap) or custom rules */
-#manntall-table thead th {
-  border-bottom: 2px solid #ddd !important;
-}
-#manntall-table tbody td {
-  border-bottom: 1px solid #eee !important;
+/* row striping if you want a custom approach, else rely on .table-striped */
+#manntall-table tbody tr:nth-child(even) {
+  background-color: #fafafa;
 }
 
-/* Possibly smaller font to help fit columns */
-#manntall-table.dataTable td, #manntall-table.dataTable th {
+/* handle text wrapping if needed */
+#manntall-table.dataTable td, 
+#manntall-table.dataTable th {
   font-size: 14px; 
-  white-space: nowrap;
+  white-space: nowrap; /* or normal if you want multiline text */
   word-wrap: normal;
 }
+
+/* remove display:block so columns remain side by side */
+#manntall-table.dataTable td {
+  /* no display: block; */
+  max-height: none; /* or remove this if you do not want a vertical limit */
+  overflow-y: visible; /* or auto won't typically work in table cells */
+}
+
+/* For horizontal scroll if table is still wide */
+.content-wide #table-container {
+  overflow-x: scroll; /* or auto */
+  width: 100%;
+  margin: 0 auto;
+}
+
 
 
 

@@ -1,9 +1,14 @@
 ---
-layout: default
+layout: wide
 title: "Census and Tax records, until 1750"
 ---
 
 # Interactive Table
+[**Back to Home**]({{ '/' | relative_url }})
+
+Below is the interactive table loading data from:
+`Sources_by_type/Manntall.csv`
+
 <div class="content-wide">
 
   <!-- top scrollbar container -->
@@ -18,10 +23,7 @@ title: "Census and Tax records, until 1750"
   ">
     <div id="top-scroll-content" style="height: 1px;"></div>
   </div>
-[**Back to Home**]({{ '/' | relative_url }})
 
-Below is the interactive table loading data from:
-`Sources_by_type/Manntall.csv`
 
   <div id="table-container" style="overflow-x: scroll;">
     <table id="manntall-table" class="table table-striped" style="white-space: nowrap;">
