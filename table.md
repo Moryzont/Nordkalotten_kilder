@@ -10,8 +10,8 @@ title: "Census and Tax records, until 1750"
 Below is the interactive table loading data from:
 `Sources_by_type/Manntall.csv`
 
-<div class="table-responsive">
-  <table id="manntall-table" class="table table-striped">
+<div class="table-responsive" style="overflow-x: auto;">
+  <table id="manntall-table" class="table table-striped" style="white-space: nowrap;">
   <thead>
     <!-- First row: actual column headings -->
     <tr>

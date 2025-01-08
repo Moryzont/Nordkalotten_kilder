@@ -105,26 +105,34 @@ table.table {
   border-right: none !important;
 }
 
-/* Use Bootstrap's .table-striped or define your own stripe: */
-#manntall-table.dataTable tbody tr:nth-child(even) {
-  background-color: #fafafa;
-}
-#manntall-table.dataTable tbody tr:nth-child(odd) {
-  background-color: #fff;
-}
-
 /* Make sure wide columns can break lines: */
 #manntall-table.dataTable td {
   word-wrap: break-word;
   white-space: normal;
 }
 
-/* If you want the table narrower, it remains within .content's max-width: */
+/* Let the table scroll horizontally if it doesn't fit in 760px */
 .content .table-responsive {
-  margin: 0 auto;  /* center within content */
-  width: 100%;     /* fill .content's width */
-  /* 'max-width: 100%' won't exceed the container if there's a horizontal scrollbar. */
+  overflow-x: auto;
+  max-width: 100%;
+  margin: 0 auto;
 }
+
+/* Minimal lines, row striping from .table-striped (Bootstrap) or custom rules */
+#manntall-table thead th {
+  border-bottom: 2px solid #ddd !important;
+}
+#manntall-table tbody td {
+  border-bottom: 1px solid #eee !important;
+}
+
+/* Possibly smaller font to help fit columns */
+#manntall-table.dataTable td, #manntall-table.dataTable th {
+  font-size: 14px; 
+  white-space: nowrap;
+  word-wrap: normal;
+}
+
 
 
 /*Image formating */
