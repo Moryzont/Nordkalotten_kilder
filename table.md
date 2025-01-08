@@ -6,7 +6,7 @@ title: "Census and Tax records, until 1750"
 # Interactive Table
 [**Back to Home**]({{ '/' | relative_url }})
 
-Below is the interactive table loading data from:
+Below is the interactive table loading data from, you can also access it from the main repo:
 `Sources_by_type/Manntall.csv`
 
 <div class="content-wide">
