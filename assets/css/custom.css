@@ -64,64 +64,57 @@ h1, h2, h3, h4, h5, h6 {
   box-shadow: 0 1px 2px rgba(0,0,0,0.05);
 }
 
-/* The wide container for "layout: wide" pages */
-.content-wide {
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 1rem;
-  background: #fff;
-}
+/* body, headings, site header, .content-wide, etc. 
+   from your existing custom.css setup */
 
-/* Table / DataTables styling */
-#manntall-table {
-  border-collapse: collapse;
-  width: 100%;
-  /* CRUCIAL: fixed layout so columns match the explicit widths we define */
-  table-layout: fixed;
-}
-
-/* Minimal horizontal lines: */
-#manntall-table thead th {
-  border-bottom: 2px solid #ddd !important;
-}
-#manntall-table tbody td {
-  border-bottom: 1px solid #eee !important;
-}
-
-/* Striped rows (alternating) if not relying on .table-striped from BS */
-#manntall-table tbody tr:nth-child(even) {
-  background-color: #fafafa;
-}
-
-/* Because table-layout:fixed, we can show ellipsis if text is too long: */
-#manntall-table td, 
-#manntall-table th {
-  font-size: 14px;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  padding: 0.5rem;
-}
-
-/* Top scrollbar containers, table containers can remain as is, 
-   just ensure overflow-x: auto if needed */
-#top-scrollbar {
-  /* styling for the top bar, you can keep it inline or put here */
-}
-#table-container {
-  overflow-x: auto;
-  border: 1px solid #ccc;
-  margin-bottom: 1rem;
-}
-
-/* If you want the user to see full header on hover, use a tooltip approach: 
-   We'll rely on the "title" attribute in <th> and show the full text. 
-   By default, browsers show a native tooltip, no extra CSS needed. 
-   If you want custom styling, you'd do something more advanced. */
-th[title]:hover {
-  cursor: help; /* show that it's a tooltip on hover */
-}
-
+   .content-wide {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 1rem;
+    background: #fff;
+  }
+  
+  #manntall-table {
+    border-collapse: collapse;
+    width: 100%;
+    table-layout: fixed; /* ensures columns use the widths from DataTables config */
+  }
+  
+  /* Minimal lines, row striping */
+  #manntall-table thead th {
+    border-bottom: 2px solid #ddd !important;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  #manntall-table tbody td {
+    border-bottom: 1px solid #eee !important;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    /* If text is bigger than the column, it will be truncated with ... */
+  }
+  
+  /* The container for horizontal scrolling, if table is wide */
+  #table-container {
+    overflow-x: auto;
+    border: 1px solid #ccc;
+    margin-bottom: 1rem;
+  }
+  
+  #top-scrollbar {
+    position: sticky;
+    top: 0;
+    height: 20px;
+    overflow-x: auto;
+    background: #f0f0f0;
+    z-index: 999;
+    margin-bottom: 0.5rem;
+  }
+  #top-scroll-content {
+    height: 1px; /* matches table width in JS sync */
+  }
+  
 /* Image formatting in .content */
 .content img {
   display: block;
