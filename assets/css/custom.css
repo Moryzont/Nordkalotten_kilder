@@ -66,7 +66,6 @@ h1, h2, h3, h4, h5, h6 {
 
 /* body, headings, site header, .content-wide, etc. 
    from your existing custom.css setup */
-
    .content-wide {
     max-width: 1200px;
     margin: 0 auto;
@@ -74,28 +73,7 @@ h1, h2, h3, h4, h5, h6 {
     background: #fff;
   }
   
-  #manntall-table {
-    border-collapse: collapse;
-    width: 100%;
-    table-layout: fixed; /* ensures columns use the widths from DataTables config */
-  }
-  
-  /* Minimal lines, row striping */
-  #manntall-table thead th {
-    border-bottom: 2px solid #ddd !important;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-  }
-  #manntall-table tbody td {
-    border-bottom: 1px solid #eee !important;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    /* If text is bigger than the column, it will be truncated with ... */
-  }
-  
-  /* The container for horizontal scrolling, if table is wide */
+  /* Table and container rules */
   #table-container {
     overflow-x: auto;
     border: 1px solid #ccc;
@@ -112,9 +90,34 @@ h1, h2, h3, h4, h5, h6 {
     margin-bottom: 0.5rem;
   }
   #top-scroll-content {
-    height: 1px; /* matches table width in JS sync */
+    height: 1px;
   }
   
+  /* DataTables style: fixed layout so your widths are respected */
+  #manntall-table {
+    border-collapse: collapse;
+    width: 100%;
+    table-layout: fixed;
+  }
+  
+  #manntall-table thead th {
+    border-bottom: 2px solid #ddd !important;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    padding: 0.5rem;
+  }
+  #manntall-table tbody td {
+    border-bottom: 1px solid #eee !important;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    padding: 0.5rem;
+  }
+  
+  #manntall-table tbody tr:nth-child(even) {
+    background-color: #fafafa; /* row striping if needed */
+  }
 /* Image formatting in .content */
 .content img {
   display: block;

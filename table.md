@@ -1,16 +1,18 @@
+---
+layout: wide
+title: "Census and Tax records, until 1750"
+---
+
 # Interactive Table
 
 [**Back to Home**]({{ '/' | relative_url }})
 
-Below is the interactive table loading data from 
-`Sources_by_type/Manntall.csv`.
+Below is the interactive table loading data from `Sources_by_type/Manntall.csv`.
 
-<!-- top scrollbar container -->
 <div id="top-scrollbar">
   <div id="top-scroll-content"></div>
 </div>
 
-<!-- main container for the table -->
 <div id="table-container">
   <table id="manntall-table" class="table table-striped">
     <thead>
@@ -56,11 +58,11 @@ Below is the interactive table loading data from
 </div>
 
 <script>
-// 1) define columns with widths that total > 1200px to force horizontal scroll
+// 1) define columns, each with a fixed width summing > 1200
 const columns = [
   { data: 'Census_type', width: '150px' },
   { data: 'Year', width: '80px' },
-  { data: 'Geographic_area', width: '160px' },
+  { data: 'Geographic_area', width: '150px' },
   { data: 'Detail_level', width: '120px' },
   { data: 'State', width: '100px' },
   { data: 'Creator', width: '120px' },
@@ -108,19 +110,17 @@ const columns = [
   }
 ];
 
-// 2) parse the CSV, debug log to see if we have data
 document.addEventListener('DOMContentLoaded', function() {
-  console.log("Parsing CSV...");
-
+  console.log("Papa parse beginning...");
   Papa.parse("{{ '/Sources_by_type/Manntall.csv' | relative_url }}", {
     download: true,
     header: true,
     skipEmptyLines: true,
     complete: function(results) {
-      console.log("Papa Parse complete. rows: ", results.data.length);
-      console.log("Sample row: ", results.data[0]);
-      // if results.data is empty, your CSV might be missing or in the wrong path
+      console.log("Papa parse complete. Found rows:", results.data.length);
+      console.log("Sample row:", results.data[0]); // debug check
 
+      // 2) Initialize DataTables
       const table = $('#manntall-table').DataTable({
         data: results.data,
         columns: columns,
@@ -141,7 +141,6 @@ document.addEventListener('DOMContentLoaded', function() {
         lengthChange: false,
         initComplete: function() {
           const api = this.api();
-          // per-column search
           $('#manntall-table thead tr:eq(1) th').each(function(i) {
             $('input', this).on('keyup change', function() {
               if (api.column(i).search() !== this.value) {
@@ -149,14 +148,14 @@ document.addEventListener('DOMContentLoaded', function() {
               }
             });
           });
-          console.log("DataTables initComplete. Table row count: ", api.rows().count());
+          console.log("DataTables initComplete. Table row count:", api.rows().count());
         }
       });
     }
   });
 });
 
-// 3) top scrollbar sync
+// top scrollbar sync
 document.addEventListener('DOMContentLoaded', function() {
   const topScroll = document.getElementById('top-scrollbar');
   const topScrollContent = document.getElementById('top-scroll-content');
@@ -177,22 +176,8 @@ document.addEventListener('DOMContentLoaded', function() {
     topScroll.scrollLeft = tableContainer.scrollLeft;
   });
 
-  // wait a bit to let DataTables finalize layout
+  // wait a moment for DataTables to finalize layout
   setTimeout(updateScrollWidths, 1500);
-
   window.addEventListener('resize', updateScrollWidths);
 });
 </script>
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-  // By now, papaparse.min.js is loaded from the layout
-  Papa.parse("{{ '/Sources_by_type/Manntall.csv' | relative_url }}", {
-    download: true,
-    header: true,
-    skipEmptyLines: true,
-    complete: function(results) {
-      // data is in results.data
-      // Now you can call DataTables, etc.
-    }
-  });
-});
