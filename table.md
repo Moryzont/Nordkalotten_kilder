@@ -84,21 +84,41 @@ const columns = [
   { data: 'Pagenumber', width: '80px' },
   {
     data: 'Digitized_link', width: '120px',
-    render: function(url) { ... } // same as before
+    render: function(url) {
+      if (!url || url.trim().toLowerCase() === 'x') {
+        return `<span class="text-danger"><i class="fas fa-frown"></i> No link</span>`;
+      }
+      return `<a href="${url}" target="_blank" class="btn btn-sm btn-primary">Link</a>`;
+    } // same as before
   },
   { data: 'Transcribed', width: '80px' },
   { data: 'Tabulated', width: '80px' },
   {
     data: 'Transcription_link', width: '120px',
-    render: function(url) { ... }
+    render: function(url) {
+      if (!url || url.trim().toLowerCase() === 'x') {
+        return `<span class="text-danger"><i class="fas fa-frown"></i> No link</span>`;
+      }
+      return `<a href="${url}" target="_blank" class="btn btn-sm btn-success">Transcription</a>`;
+    }
   },
   {
     data: 'Table_link', width: '120px',
-    render: function(url) { ... }
+    render: function(url) {
+      if (!url || url.trim().toLowerCase() === 'x') {
+        return `<span class="text-danger"><i class="fas fa-frown"></i> No link</span>`;
+      }
+      return `<a href="${url}" target="_blank" class="btn btn-sm btn-info">Table</a>`;
+    }
   },
   {
     data: 'Archival_portal_link', width: '120px',
-    render: function(url) { ... }
+    render: function(url) (url) {
+      if (!url || url.trim().toLowerCase() === 'x') {
+        return `<span class="text-danger"><i class="fas fa-frown"></i> No link</span>`;
+      }
+      return `<a href="${url}" target="_blank" class="btn btn-sm btn-warning">Archive</a>`;
+    }
   }
 ];
 
