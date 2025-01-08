@@ -1,7 +1,6 @@
 ---
-layout: single
+layout: default
 title: "Census Data Table"
-classes: wide
 ---
 
 # Interactive Table
