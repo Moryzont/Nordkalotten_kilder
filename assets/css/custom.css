@@ -1,4 +1,6 @@
-/* Typical body settings for a text-centric site */
+/* FILE: custom.css */
+
+/* Base body, fonts, etc. */
 body {
   margin: 0;
   padding: 0;
@@ -9,7 +11,7 @@ body {
   font-size: 18px;
 }
 
-/* HEADINGS: Use a bold sans-serif for clarity */
+/* Headings (bold sans-serif) */
 h1, h2, h3, h4, h5, h6 {
   font-family: "Raleway", Arial, sans-serif;
   font-weight: 700;
@@ -18,6 +20,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.3;
 }
 
+/* Example site header styling */
 .site-header {
   background: #ffffff;
   box-shadow: 0 1px 2px rgba(0,0,0,0.15);
@@ -25,6 +28,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 1rem;
 }
 
+/* If you have a top nav bar, etc. */
 .top-nav {
   display: flex;
   align-items: center;
@@ -51,7 +55,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .nav-links a:hover { color: #000; }
 
-/* Default .content is narrower, we won't use it on wide pages */
+/* The default narrower content style (not used if layout=wide) */
 .content {
   max-width: 760px;
   margin: 0 auto;
@@ -60,7 +64,7 @@ h1, h2, h3, h4, h5, h6 {
   box-shadow: 0 1px 2px rgba(0,0,0,0.05);
 }
 
-/* The wide version for the table page */
+/* The wide container for "layout: wide" pages */
 .content-wide {
   max-width: 1200px;
   margin: 0 auto;
@@ -68,14 +72,15 @@ h1, h2, h3, h4, h5, h6 {
   background: #fff;
 }
 
-/* DataTables rules */
-.table {
+/* Table / DataTables styling */
+#manntall-table {
   border-collapse: collapse;
   width: 100%;
-  table-layout: auto; /* columns adjust by content */
+  /* CRUCIAL: fixed layout so columns match the explicit widths we define */
+  table-layout: fixed;
 }
 
-/* minimal lines: horizontal only */
+/* Minimal horizontal lines: */
 #manntall-table thead th {
   border-bottom: 2px solid #ddd !important;
 }
@@ -83,38 +88,41 @@ h1, h2, h3, h4, h5, h6 {
   border-bottom: 1px solid #eee !important;
 }
 
-/* row striping (you also have .table-striped from bootstrap) */
+/* Striped rows (alternating) if not relying on .table-striped from BS */
 #manntall-table tbody tr:nth-child(even) {
   background-color: #fafafa;
 }
 
-/* let text be single-line horizontally */
-#manntall-table.dataTable td, 
-#manntall-table.dataTable th {
-  font-size: 14px; 
-  white-space: nowrap; /* no wrap means horizontal scroll is needed */
-  word-wrap: normal;
-}
-
-/* do not use display:block in td, so columns remain side by side */
-#manntall-table.dataTable td {
-  overflow-y: visible;
-  /* if you want multi-line, use white-space: normal above */
-}
-
-.content-wide #table-container {
-  overflow-x: auto; /* so we can horizontally scroll if table is wide */
-  width: 100%;
-  margin: 0 auto;
-}
-
-/* if you want a border around the table container */
-#table-container {
-  border: 1px solid #ccc;
+/* Because table-layout:fixed, we can show ellipsis if text is too long: */
+#manntall-table td, 
+#manntall-table th {
+  font-size: 14px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
   padding: 0.5rem;
 }
 
-/* images in .content scale properly */
+/* Top scrollbar containers, table containers can remain as is, 
+   just ensure overflow-x: auto if needed */
+#top-scrollbar {
+  /* styling for the top bar, you can keep it inline or put here */
+}
+#table-container {
+  overflow-x: auto;
+  border: 1px solid #ccc;
+  margin-bottom: 1rem;
+}
+
+/* If you want the user to see full header on hover, use a tooltip approach: 
+   We'll rely on the "title" attribute in <th> and show the full text. 
+   By default, browsers show a native tooltip, no extra CSS needed. 
+   If you want custom styling, you'd do something more advanced. */
+th[title]:hover {
+  cursor: help; /* show that it's a tooltip on hover */
+}
+
+/* Image formatting in .content */
 .content img {
   display: block;
   margin: 1rem auto;

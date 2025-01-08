@@ -4,12 +4,11 @@ title: "Census and Tax records, until 1750"
 ---
 # Interactive Table
 
-<p>
-  [**Back to Home**]({{ '/' | relative_url }})
-</p>
+[**Back to Home**]({{ '/' | relative_url }})
 
-Below is the interactive table loading data from <code>Sources_by_type/Manntall.csv</code>:
+Below is the interactive table. It is wide, with a **top** scrollbar:
 
+<!-- top scrollbar container (sticky) -->
 <div id="top-scrollbar" style="
   position: sticky;
   top: 0; 
@@ -22,111 +21,96 @@ Below is the interactive table loading data from <code>Sources_by_type/Manntall.
   <div id="top-scroll-content" style="height: 1px;"></div>
 </div>
 
+<!-- main container for the table -->
 <div id="table-container" style="overflow-x: auto; border: 1px solid #ccc;">
-  <table id="manntall-table" class="table table-striped" style="white-space: nowrap;">
-    <thead>
-      <tr>
-        <th>Census_type</th>
-        <th>Year</th>
-        <th>Geographic_area</th>
-        <th>Detail_level</th>
-        <th>State</th>
-        <th>Creator</th>
-        <th>dat_grov</th>
-        <th>Usefull_info</th>
-        <th>Reference</th>
-        <th>Pagenumber</th>
-        <th>Digitized_link</th>
-        <th>Transcribed</th>
-        <th>Tabulated</th>
-        <th>Transcription_link</th>
-        <th>Table_link</th>
-        <th>Archival_portal_link</th>
-      </tr>
-      <tr>
-        <th><input type="text" placeholder="Search Census_type" style="width:100%;"></th>
-        <th><input type="text" placeholder="Year" style="width:100%;"></th>
-        <th><input type="text" placeholder="Geographic_area" style="width:100%;"></th>
-        <th><input type="text" placeholder="Detail_level" style="width:100%;"></th>
-        <th><input type="text" placeholder="State" style="width:100%;"></th>
-        <th><input type="text" placeholder="Creator" style="width:100%;"></th>
-        <th><input type="text" placeholder="dat_grov" style="width:100%;"></th>
-        <th><input type="text" placeholder="Usefull_info" style="width:100%;"></th>
-        <th><input type="text" placeholder="Reference" style="width:100%;"></th>
-        <th><input type="text" placeholder="Pagenumber" style="width:100%;"></th>
-        <th><input type="text" placeholder="Digitized_link" style="width:100%;"></th>
-        <th><input type="text" placeholder="Transcribed" style="width:100%;"></th>
-        <th><input type="text" placeholder="Tabulated" style="width:100%;"></th>
-        <th><input type="text" placeholder="Transcription_link" style="width:100%;"></th>
-        <th><input type="text" placeholder="Table_link" style="width:100%;"></th>
-        <th><input type="text" placeholder="Archival_portal_link" style="width:100%;"></th>
-      </tr>
-    </thead>
-    <tbody></tbody>
-  </table>
+
+<!-- Use short header text, if needed, and store the full text in title=... -->
+<table id="manntall-table" class="table table-striped" style="white-space: nowrap;">
+  <thead>
+    <tr>
+      <th title="Type of census data or record">Census_type</th>
+      <th title="Year of the record">Year</th>
+      <th title="Geographic area for the record">Geographic_area</th>
+      <th title="Detail level of the data">Detail_level</th>
+      <th title="State or country">State</th>
+      <th title="Name of creator">Creator</th>
+      <th title="dat_grov? Some short data field">dat_grov</th>
+      <th title="Useful info yes/no?">Usefull_info</th>
+      <th title="Reference code or doc #">Reference</th>
+      <th title="Page number?">Pagenumber</th>
+      <th title="Digitized link to doc?">Digitized_link</th>
+      <th title="Is it transcribed?">Transcribed</th>
+      <th title="Is it tabulated?">Tabulated</th>
+      <th title="URL for transcription doc?">Transcription_link</th>
+      <th title="URL for table?">Table_link</th>
+      <th title="URL for archival portal?">Archival_portal_link</th>
+    </tr>
+    <tr>
+      <th><input type="text" placeholder="Search Type" style="width:100%;"></th>
+      <th><input type="text" placeholder="Year" style="width:100%;"></th>
+      <th><input type="text" placeholder="Area" style="width:100%;"></th>
+      <th><input type="text" placeholder="Detail" style="width:100%;"></th>
+      <th><input type="text" placeholder="State" style="width:100%;"></th>
+      <th><input type="text" placeholder="Creator" style="width:100%;"></th>
+      <th><input type="text" placeholder="dat_grov" style="width:100%;"></th>
+      <th><input type="text" placeholder="Info" style="width:100%;"></th>
+      <th><input type="text" placeholder="Reference" style="width:100%;"></th>
+      <th><input type="text" placeholder="Page" style="width:100%;"></th>
+      <th><input type="text" placeholder="Dig link" style="width:100%;"></th>
+      <th><input type="text" placeholder="Transcribed" style="width:100%;"></th>
+      <th><input type="text" placeholder="Tabulated" style="width:100%;"></th>
+      <th><input type="text" placeholder="Trans link" style="width:100%;"></th>
+      <th><input type="text" placeholder="Table link" style="width:100%;"></th>
+      <th><input type="text" placeholder="Portal" style="width:100%;"></th>
+    </tr>
+  </thead>
+  <tbody></tbody>
+</table>
 </div>
 
 <script>
-// define columns in one place
 const columns = [
-  { data: 'Census_type', width: '150px' },
-  { data: 'Year', width: '150px' },
+  // Example narrower columns for yes/no fields 
+  // or bigger for textual columns. Summation > container width ensures scrolling
+  { data: 'Census_type', width: '120px' },
+  { data: 'Year', width: '80px' },
   { data: 'Geographic_area', width: '150px' },
-  { data: 'Detail_level', width: '150px' },
-  { data: 'State', width: '150px' },
-  { data: 'Creator', width: '150px' },
-  { data: 'dat_grov', width: '150px' },
-  { data: 'Usefull_info', width: '150px' },
-  { data: 'Reference', width: '150px' },
-  { data: 'Pagenumber', width: '150px' },
+  { data: 'Detail_level', width: '120px' },
+  { data: 'State', width: '100px' },
+  { data: 'Creator', width: '120px' },
+  { data: 'dat_grov', width: '100px' },
+  { data: 'Usefull_info', width: '100px' },
+  { data: 'Reference', width: '100px' },
+  { data: 'Pagenumber', width: '80px' },
   {
-    data: 'Digitized_link', width: '150px',
-    render: function(url) {
-      if (!url || url.trim().toLowerCase() === 'x') {
-        return `<span class="text-danger"><i class="fas fa-frown"></i> No link</span>`;
-      }
-      return `<a href="${url}" target="_blank" class="btn btn-sm btn-primary">Link</a>`;
-    }
+    data: 'Digitized_link', width: '120px',
+    render: function(url) { ... } // same as before
   },
-  { data: 'Transcribed', width: '150px' },
-  { data: 'Tabulated', width: '150px' },
+  { data: 'Transcribed', width: '80px' },
+  { data: 'Tabulated', width: '80px' },
   {
-    data: 'Transcription_link', width: '150px',
-    render: function(url) {
-      if (!url || url.trim().toLowerCase() === 'x') {
-        return `<span class="text-danger"><i class="fas fa-frown"></i> No link</span>`;
-      }
-      return `<a href="${url}" target="_blank" class="btn btn-sm btn-success">Transcription</a>`;
-    }
+    data: 'Transcription_link', width: '120px',
+    render: function(url) { ... }
   },
   {
-    data: 'Table_link', width: '150px',
-    render: function(url) {
-      if (!url || url.trim().toLowerCase() === 'x') {
-        return `<span class="text-danger"><i class="fas fa-frown"></i> No link</span>`;
-      }
-      return `<a href="${url}" target="_blank" class="btn btn-sm btn-info">Table</a>`;
-    }
+    data: 'Table_link', width: '120px',
+    render: function(url) { ... }
   },
   {
-    data: 'Archival_portal_link', width: '150px',
-    render: function(url) {
-      if (!url || url.trim().toLowerCase() === 'x') {
-        return `<span class="text-danger"><i class="fas fa-frown"></i> No link</span>`;
-      }
-      return `<a href="${url}" target="_blank" class="btn btn-sm btn-warning">Archive</a>`;
-    }
+    data: 'Archival_portal_link', width: '120px',
+    render: function(url) { ... }
   }
 ];
 
-// parse CSV, then init DataTables
 document.addEventListener('DOMContentLoaded', function() {
+  // parse CSV
   Papa.parse("{{ '/Sources_by_type/Manntall.csv' | relative_url }}", {
     download: true,
     header: true,
     skipEmptyLines: true,
     complete: function(results) {
       const data = results.data;
+      // init DataTables
       const table = $('#manntall-table').DataTable({
         data: data,
         columns: columns,
@@ -147,6 +131,7 @@ document.addEventListener('DOMContentLoaded', function() {
         lengthChange: false,
         initComplete: function() {
           const api = this.api();
+          // per-column search in 2nd row
           $('#manntall-table thead tr:eq(1) th').each(function(i) {
             $('input', this).on('keyup change', function() {
               if (api.column(i).search() !== this.value) {
@@ -168,6 +153,7 @@ document.addEventListener('DOMContentLoaded', function() {
   const manntallTable = document.getElementById('manntall-table');
 
   function updateScrollWidths() {
+    // after DataTables is done, measure scrollWidth
     const tableWidth = manntallTable.scrollWidth;
     topScrollContent.style.width = tableWidth + 'px';
   }
@@ -180,8 +166,8 @@ document.addEventListener('DOMContentLoaded', function() {
     topScroll.scrollLeft = tableContainer.scrollLeft;
   });
 
-  // recalc after load or resize
-  updateScrollWidths();
+  // Wait a bit so DataTables finishes layout, or use setTimeout
+  setTimeout(updateScrollWidths, 1000);
   window.addEventListener('resize', updateScrollWidths);
 });
 </script>
