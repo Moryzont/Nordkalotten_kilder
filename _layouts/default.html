@@ -93,42 +93,45 @@ $(document).ready(function(){
   }
 ];
 
-Papa.parse(csvFilePath, {
-  download: true,
-  header: true,
-  skipEmptyLines: true,
-  complete: function(results) {
-    const data = results.data;
-    $('#manntall-table').DataTable({
-      data: data,
-      columns: columns,
-      dom: 'Bfrtip',
-      buttons: [
-        {
-          extend: 'csvHtml5',
-          text: 'Download CSV',
-          className: 'btn btn-primary'
-        }
-      ],
-      paging: false,
-      ordering: true,
-      searching: true,
-      initComplete: function() {
-        const api = this.api();
-
-        // For each <th> in second row (index 1)
-        $('#manntall-table thead tr:eq(1) th').each(function(index) {
-          $('input', this).on('keyup change', function() {
-            if (api.column(index).search() !== this.value) {
-              api.column(index).search(this.value).draw();
+  Papa.parse(csvFilePath, {
+        download: true,
+        header: true,
+        skipEmptyLines: true,
+        complete: function(results) {
+          const data = results.data;
+          $('#manntall-table').DataTable({
+            data: data,
+            columns: columns,
+            dom: 'Bfrtip',
+            buttons: [
+              {
+                extend: 'csvHtml5',
+                text: 'Download CSV',
+                className: 'btn btn-primary'
+              }
+            ],
+            paging: false,
+            searching: true,
+            ordering: true,
+            info: false,
+            lengthChange: false,
+            initComplete: function() {
+              const api = this.api();
+              api.columns().every(function() {
+                const column = this;
+                const footerCell = $(column.footer());
+                footerCell.empty();
+                $('<input type="text" placeholder="Search" style="width:100%;">')
+                  .appendTo(footerCell)
+                  .on('keyup change', function() {
+                    column.search($(this).val()).draw();
+                  });
+              });
             }
           });
-        });
-      }
+        }
+      });
     });
-  }
-});
-
   </script>
 </body>
 </html>
