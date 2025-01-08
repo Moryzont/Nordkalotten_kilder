@@ -83,13 +83,31 @@ a:hover {
   text-decoration: underline;
 }
 
-/* Table styling to keep your data consistent */
-table.dataTable {
-  width: 100% !important;
-  margin-top: 1.5rem;
-  margin-bottom: 1.5rem;
-  border-collapse: collapse;
+/* Constrain the table to the .content column width */
+.table-responsive {
+  max-width: 100%;
+  /* margin: 0 auto; If you want it centered, 
+     but typically it's just a block-level container */
 }
+
+/* If you want a faint border, you can rely on .table-bordered from Bootstrap 
+   or forcibly apply your own: */
+.table-bordered > :not(caption) > * > * {
+  border-color: #ccc !important;
+}
+
+/* Or forcibly apply to DataTables class */
+#manntall-table.dataTable th,
+#manntall-table.dataTable td {
+  border: 1px solid #ccc !important;
+}
+
+/* Make sure wide columns can break words if they're too long */
+#manntall-table.dataTable td {
+  white-space: normal;
+  word-wrap: break-word;
+}
+
 .content img {
   display: block;       /* so margin: 0 auto can center the image */
   margin: 1rem auto;    /* center horizontally, plus vertical spacing */

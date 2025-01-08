@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Census Data Table"
+title: "Census and Tax records, until 1750"
 ---
 
 # Interactive Table
@@ -10,8 +10,8 @@ title: "Census Data Table"
 Below is the interactive table loading data from:
 `Sources_by_type/Manntall.csv`
 
-<div class="table-container">
-  <table id="manntall-table" class="table table-striped">
+<div class="table-responsive">
+  <table id="manntall-table" class="table table-striped table-bordered">
   <thead>
     <!-- First row: actual column headings -->
     <tr>
