@@ -90,5 +90,12 @@ table.dataTable {
   margin-bottom: 1.5rem;
   border-collapse: collapse;
 }
+.content img {
+  display: block;       /* so margin: 0 auto can center the image */
+  margin: 1rem auto;    /* center horizontally, plus vertical spacing */
+  max-width: 100%;      /* never exceed the container’s width */
+  height: auto;         /* keep aspect ratio */
+}
+
 
 /* Additional styles for your interactive table if you want */
