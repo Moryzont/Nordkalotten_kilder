@@ -10,3 +10,96 @@
 #manntall-table.dataTable td {
   padding: 0.5rem;
 }
+/* Typical body settings for a text-centric site */
+body {
+  margin: 0;
+  padding: 0;
+  color: #2e2e2e; /* dark gray text */
+  background-color: #fafafa; /* near-white background */
+  font-family: "Merriweather", Georgia, serif; /* or a system serif */
+  line-height: 1.7;
+  font-size: 18px;
+}
+
+/* HEADINGS: Use a bold sans-serif for clarity */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Raleway", Arial, sans-serif;
+  font-weight: 700;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  line-height: 1.3;
+}
+
+.site-header {
+  background: #ffffff;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.15);
+  padding: 0.5rem 1rem;
+  margin-bottom: 1rem;
+}
+
+.top-nav {
+  display: flex;
+  align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.site-brand {
+  font-size: 1.5rem;
+  margin-right: 2rem;
+  text-decoration: none;
+  color: #333;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 1rem;
+  margin-left: auto; /* push links to the right */
+}
+
+.nav-links li {
+  margin: 0;
+}
+
+.nav-links a {
+  text-decoration: none;
+  color: #555;
+  font-weight: 500;
+}
+
+.nav-links a:hover {
+  color: #000;
+}
+
+.content {
+  max-width: 760px; /* narrower column for reading comfort */
+  margin: 0 auto;
+  padding: 1rem;
+  background: #fff; /* optional if you want a card-like look */
+  box-shadow: 0 1px 2px rgba(0,0,0,0.05); /* subtle shadow */
+}
+
+p {
+  margin-bottom: 1rem;
+}
+
+/* Links within paragraphs */
+a {
+  color: #3467eb;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Table styling to keep your data consistent */
+table.dataTable {
+  width: 100% !important;
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+  border-collapse: collapse;
+}
+
+/* Additional styles for your interactive table if you want */
