@@ -117,6 +117,30 @@ table.table {
   max-width: 100%;
   margin: 0 auto;
 }
+.content-wide {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 1rem;
+  background: #fff;
+}
+
+/* Cells scroll individually if content is tall: */
+#manntall-table.dataTable td {
+  max-height: 6em;
+  overflow-y: auto; /* each cell gets a vertical scrollbar if needed */
+  display: block;   /* so max-height + overflow works */
+  white-space: normal;
+  /* or white-space: nowrap if you prefer a single line with horizontal scroll in each cell */
+}
+
+/* Minimal lines or rely on .table-striped for row shading. */
+#manntall-table thead th {
+  border-bottom: 2px solid #ddd !important;
+}
+#manntall-table tbody td {
+  border-bottom: 1px solid #eee !important;
+}
+
 
 /* Minimal lines, row striping from .table-striped (Bootstrap) or custom rules */
 #manntall-table thead th {

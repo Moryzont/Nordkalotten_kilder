@@ -4,15 +4,28 @@ title: "Census and Tax records, until 1750"
 ---
 
 # Interactive Table
+<div class="content-wide">
 
+  <!-- top scrollbar container -->
+  <div id="top-scrollbar" style="
+    position: sticky;
+    top: 0; 
+    height: 20px; 
+    overflow-x: scroll; 
+    background: #f0f0f0;
+    z-index: 999;
+    margin-bottom: 0.5rem;
+  ">
+    <div id="top-scroll-content" style="height: 1px;"></div>
+  </div>
 [**Back to Home**]({{ '/' | relative_url }})
 
 Below is the interactive table loading data from:
 `Sources_by_type/Manntall.csv`
 
-<div class="table-responsive" style="overflow-x: auto;">
-  <table id="manntall-table" class="table table-striped" style="white-space: nowrap;">
-  <thead>
+  <div id="table-container" style="overflow-x: scroll;">
+    <table id="manntall-table" class="table table-striped" style="white-space: nowrap;">
+      <thead>
     <!-- First row: actual column headings -->
     <tr>
       <th>Census_type</th>

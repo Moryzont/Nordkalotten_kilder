@@ -152,5 +152,31 @@ Papa.parse(csvFilePath, {
   });
 });
   </script>
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      const topScroll = document.getElementById('top-scrollbar');
+      const topScrollContent = document.getElementById('top-scroll-content');
+      const tableContainer = document.getElementById('table-container');
+      const manntallTable = document.getElementById('manntall-table');
+    
+      function updateScrollWidths() {
+        const tableWidth = manntallTable.scrollWidth;
+        topScrollContent.style.width = tableWidth + 'px';
+      }
+    
+      // Sync horizontal scroll:
+      topScroll.addEventListener('scroll', () => {
+        tableContainer.scrollLeft = topScroll.scrollLeft;
+      });
+      tableContainer.addEventListener('scroll', () => {
+        topScroll.scrollLeft = tableContainer.scrollLeft;
+      });
+    
+      // When the table is loaded or on window resize, recalc:
+      updateScrollWidths();
+      window.addEventListener('resize', updateScrollWidths);
+    });
+    </script>
+    
 </body>
 </html>
