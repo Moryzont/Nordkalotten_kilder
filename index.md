@@ -18,7 +18,7 @@ multiple national archives, making any research a profound hazzle.
 
 ## Area of interest:
 
-![Map of the Region](/assets/img/Provinces_of_interest.png)
+![Map of the Region]({{ '/assets/img/Provinces_of_interest.png' | relative_url }})
 
 
 ## Contact
