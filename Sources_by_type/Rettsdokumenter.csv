@@ -1,1120 +1,320 @@
-Type Kilde,Datering,Tingsted,Type ting,Sted,Folio,Stat,Skaper,Nyttig info,Referanse ,Transk.,Tabell,Arkiv,Transk.,Tabell,Arkivportal
-Tingbok,1620/05/03,Vardø,Lagting,,2a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,https://www.digitalarkivet.no/rg20090515640568,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1620/05/11,Madkurffue,Lagting,,8b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1620/05/13,Omgang,Lagting,,10b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1620/05/17,Skøtningbergh,Lagting,,13b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1620/05/19,Suerholt,Lagting,,15a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1620/05/26,Hielmsøe,Lagting,,19b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1620/05/29,Meefiørdt,Lagting,,21a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1620/06/02,Hasuogh,Lagting,,22b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1620/06/06,Loppen,Lagting,,24a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1621/04/17,Wadtzøen,Vårting,,25b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1621/04/21,Wardøe,Vårting,,26a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1621/05/11,Omgang,Vårting,,29b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1621/05/18,Skøtningb.,Vårting,,30b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1621/05/24,Suerholt,Vårting,,31a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1621/05/26,Kieluigen,Vårting,,32a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1621/07/24,Wardøehus,Leidangsting,,32b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1621/08/01,Matkuffue,Leidangsting,,33a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1621/08/09,Omgangh,Leidangsting,,34a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1621/08/13,Skøtningsbergh,Leidangsting,,36a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1621/08/17,Kieluigen,Leidangsting,,38a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1621/08/20,Stappen,Leidangsting,,39b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1621/08/23,Hielmsøen,Leidangsting,,40b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1621/08/25,Gaasnes,Leidangsting,,41a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1621/08/31,Hammerfeste,Leidangsting,,42a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1621/09/06,Hasuogh,Leidangsting,,45a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1621/09/11,Søruerd,Leidangsting,,45b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1621/09/13,Loppen,Leidangsting,,46a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1622/05/01,Wadtzøen,Vårting,,47a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1622/05/02,Wadtzøen,Vårting,,47a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1622/05/03,Kibergh,Vårting,,47b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1622/05/07,Wardøhus,Vårting,,48a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1623/07/03,Wadsøen,Leidangsting,,49a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1623/07/10,Wardøehus,Leidangsting,,49b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1623/07/19,Matkurffue,Leidangsting,,51a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1623/07/22,Omgangh,Leidangsting,,51b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1623/07/24,Skøtningsbergh,Leidangsting,,52a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1623/07/26,Suerholt,Leidangsting,,52b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1623/07/30,Kieluigen,Leidangsting,,53a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1623/08/10,Gaasnes,Leidangsting,,53b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1623/08/10,Hammerfeste,Leidangsting,,54a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1623/08/10,Søruerdt,Leidangsting,,54b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1623/08/10,Hasuogh,Leidangsting,,55a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1623/08/23,Loppen,Leidangsting,,55b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1623/07/04,Wadtzøen,Leidangsting,,57a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1623/07/08,Kibergh,Leidangsting,,58a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1623/07/18,Wardøehus,Leidangsting,,59a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1623/08/13,Skøtningbergh,Leidangsting,,62b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1623/08/14,Suerholt,Leidangsting,,63a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1623/08/18,Kieluigen,Leidangsting,,63b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1623/08/18,Hielmsøen,Leidangsting,,64b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1623/08/18,Hammerfeste,Leidangsting,,65a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1623/08/18,Hasuogh,Leidangsting,,65a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1623/08/29,Loppen,Leidangsting,,66a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1623/09/03,Hammerfeste,Ting,,66b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1623/09/05,Gaasnes,Leidangsting,,66b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1623/09/18,Wardøehus,Høstting,,67a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1624/03/19,Wadtzøen,Vårting,,69a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1624/04/02,Wardøehus,Vårting,,71b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1624/04/13,Matkurffue,Vårting,,73a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1624/04/19,Skøtningsbergh,Vårting,,74b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1624/05/10,Loppen,Vårting,,75b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1624/05/12,Søruerdt,Vårting,,76a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1624/05/22,Hammerfeste,Vårting,,77a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1624/05/26,Gaasnes,Vårting,,78a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1624/05/29,Hielmsøen,Vårting,,79a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1624/06/03,Kieluigen,Vårting,,80a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1624/06/14,Wardøehus,Sommerting,,82b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1624/06/25,Kieluigen,Sommerting,,85b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1624/07/08,Hasuogh,Leidangsting,,86b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1624/07/13,Loppen,Sommerting,,90a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1624/08/05,Skøtningb.,Sommerting,,90b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1624/08/07,Omgangh,Sommerting,,91a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1624/08/28,Wardøen,Høstting,,91b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1625/04/04,Wadtzøen,Vårting,,93a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1625/04/22,Wardøehus,Vårting,,93b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1625/05/20,Wardøehus,Lagting,,96a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1625/05/30,Mattkurffue,Lagting,,98b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1625/05/31,Omgang,Lagting,,99a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1625/06/01,Skøtningbergh,Lagting,,99b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1625/06/02,Suerholt,Lagting,,100a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1625/06/03,Kieluigen,Lagting,,100b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1625/06/08, Hielmsøe,Lagting,,102a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1625/06/09,Gaasnes,Lagting,,102b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1625/06/10,Hammerfest,Lagting,,102b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1625/06/13,Hasuogh,Ting,,103a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1625/06/14,Loppenn,Ting,,103b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1625/08/19,Wadtzøen,Høstting,,104b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1626/04/17,Kiberg,Vårting,,106a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1626/05/01,Wardøehus,Vårting,,107a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1626/05/20,Matkurffue,Vårting,,107b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1626/05/22,Omgangh,Vårting,,108b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1626/05/23,Skøtningbergh,Vårting,,108b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1626/05/27,Suerholt,Vårting,,109a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1626/05/31,Kieluigh,Vårting,,109b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1626/07/05,Hielmsøen,Vårting,,111b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1626/06/06,Gaasnes,Vårting,,111b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1626/06/08,Hammerfeste,Vårting,,112a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1626/06/09,Hasuogh,Ting,,112b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1626/07/29,Kiberg,Sommerting,,114a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1626/08/08,Madkurffue,Sommerting,,114b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1626/08/09,Omgangh,Leidangsting,,115b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1626/08/10,Skøtningsbergh,Leidangsting,,116b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1626/08/14,Suerholt,Leidangsting,,116b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1626/08/17,Kieluigen,Leidangsting,,117a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1626/08/25,Hielmsøe,Leidangsting,,119a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1626/09/05,Hammerfeste,Høstting,,120b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1626/09/08,Hasuogh,Høstting,,120b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1626/09/09,Loppen,Ikke avholdt,,121a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1626/10/11,Vardøehus,Høstting,,121b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1627/03/28,Wardøehuus,Vårting,,2a,Danmark,Niels Knudtszønn,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1627/03/29,Kieberg,Vårting,,3a,Danmark,Niels Knudtszønn,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1627/05/18,Sørvær,Vårting,,4a,Danmark,Niels Knudtszønn,Mangler start. tent. dat.,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1627/05/30,Hammerfeste,Ting,,9a,Danmark,Niels Knudtszønn,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1627/06/07,Kielluig,Vårting,,9b,Danmark,Niels Knudtszønn,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1627/06/09,Suerholt,Ting,,11a,Danmark,Niels Knudtszønn,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1627/06/29,Wadtzsøe,Ting,,12a,Danmark,Niels Knudtszønn,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1627/06/24,Wardøehuss,Sommerting,,12b,Danmark,Niels Knudtszønn,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1627/07/25,Wardøehuss,Ting,,15b,Danmark,Niels Knudtszønn,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1627/08/02,Madtkurff,Ting,,16a,Danmark,Niels Knudtszønn,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1627/08/07,Schyttenberg,Ting,,17b,Danmark,Niels Knudtszønn,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1627/08/09,Suerholt,Ting,,19a,Danmark,Niels Knudtszønn,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1627/08/13,Killuig,Sommerting,,19b,Danmark,Niels Knudtszønn,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1627/08/27,Loppen,Sommerting,,20a,Danmark,Niels Knudtszønn,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1627/09/03,Hammerfest,ting,,20b,Danmark,Niels Knudtszønn,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1627/09/17,Omgangh,ting,,21a,Danmark,Niels Knudtszønn,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1627/09/27,Wardøeen,Høstting,,21a,Danmark,Niels Knudtszønn,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1627/10/05,Kieberg,Høstting,,24a,Danmark,Niels Knudtszønn,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1628/01/08,Kiberg,Opplesning,,25b,Danmark,Niels Knudtszønn,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1628/03/18,Wadtzsøe,Vårting,,25b,Danmark,Niels Knudtszønn,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1628/03/28,Wardøehuus,Vårting,,26a,Danmark,Niels Knudtszønn,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1628/04/02,Kieberg,Vårting,,26b,Danmark,Niels Knudtszønn,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1628/04/03,Wardøehuus,ting,,27a,Danmark,Niels Knudtszønn,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1628/04/26,Madtkurff,vårting,,28a,Danmark,Niels Knudtszønn,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1628/04/29,Skyttenberg,Opplesning,,29a,Danmark,Niels Knudtszønn,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1628/04/29,Suerholtt,Vårting,,29b,Danmark,Niels Knudtszønn,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1628/5/1,Killuig,Vårting,,30a,Danmark,Niels Knudtszønn,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1628/05/05,Gaasnes,Vårting,,32a,Danmark,Niels Knudtszønn,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1628/05/12,Hasuogh,Vårting,,32b,Danmark,Niels Knudtszønn,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1628/05/15,Loppen,Vårting,,33a,Danmark,Niels Knudtszønn,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1628/07/25,Madtkurff,Ting,,33b,Danmark,Niels Knudtszønn,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1628/08/07,Loppenn,Ting,,34a,Danmark,Niels Knudtszønn,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1628/08/09,Haswoeg,Ting,,35a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1628/08/21,Hammerfest,Ting,,36b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1628/08/25,Goesnes,Ting,,37a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1628/08/28,Hielmesøenn,Ting,,38a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1628/09/02,Killuig,Høstting,,37a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1628/09/05,Suerholtt,Ting,,38b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1628/09/09,Schøttenberg,Ting,,39a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1628/09/11,Omgangh,Ting,,39b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1628/09/27,Wardøehuus,Høstting,,40a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1628/09/30,Wardøehuus,Høstting,,42a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1628/11/15,Kiebergh,Ting,,43a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1628/11/21,Wadtzsoe,Ting,,44a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1628/12/3,Wardøehuus,Ting,,44b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1629/3/16,Weranger,Ting,,45b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1629/3/24,Wadtzsøe,Vårting,,46b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1629/3/26,Kiberg,Vårting,,47a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1629/3/28,Wardøehuus,Vårting,,47b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1629/5/4,Madtkurff,Vårting,,50a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1629/5/11,Skøttenberg,Vårting,,51b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1629/5/12,Suerholtt,Vårting,,52a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1629/5/15,Killuig,Vårting,,53b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1629/5/18,Goesnes,Ting,,55b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1629/5/27,Loppen,Ting,,56b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1629/6/1,Hasswogh,Ting,,56b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1629/6/11,Kieberg,Ting,,59b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1629/6/17,Wardøehuus,Ting,,60a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1629/7/28,Skyttenbergh,Ting,,62a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1629/7/29,Suerholtt,Ting,,62b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1629/8/10,Killuigen,Ting,,63b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1629/8/19,Goesnes,Ting,,63b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1629/8/31,Loppenn,Ting,,64b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1629/9/10,Hammerfest,Ting,,65b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1629/9/25,Omgang,Ting,,66a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1630/5/13,Loppen,Ting,,67a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1630/5/20,Hasswough,Ting,,68a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1630/5/27,Hammerfest,Ting,,68b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1630/5/31,Goesnes,Ting,,69b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1630/6/7,Killwig,Ting,,70a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1630/6/12,Suerholtt,Ting,,72b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1630/6/14,Schyttenberg,Ting,,73a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1630/6/19,Madtkurff,Ting,,75b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1630/6/22,Wardøehuus,Ting,,76b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1630/7/6,Wadtzsøe,Ting,,77b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1630/7/6,Kiberg,Ting,,78b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1630/7/16,Wardøehuus,Ting,,79a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1630/8/19,Omgang,Ting,,82b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1630/8/19,Suerholtt,Ting,,83a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1630/9/7,Goesnes,Ting,,84b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1630/9/15,Hammerfest,Ting,,84b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1630/9/24,Hasswogh,Ting,,85b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1630/9/25,Loppen,Ting,,85b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1631/3/7,Wadtzsøe,Ting,,86a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1631/4/13,Wardøehuus,Ting,,86b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1631/4/27,Madtkurff,Ting,,91b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1631/4/29,Omgang,Ting,,92b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1631/5/4,Skøttenberg,Ting,,93a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1631/5/9,Suerholtt,Ting,,95a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1631/5/25,Loppen,Ting,,96a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1631/6/1,Hasswoeg,Ting,,98b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1631/6/7,Hammerfest,Ting,,99a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1631/6/13,Goesnes,Ting,,100a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1631/6/17,Killwigenn,Ting,,101a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1631/7/4,Wadtzsøe,Ting,,105a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1631/7/23,Kieberg,Ting,,107a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1631/8/25,Loppenn,Ting,,107b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1631/8/27,Hasswoeg,Ting,,108b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1631/9/12,Hammerfest,Ting,,109b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1631/10/1,Suerholt,Ting,,110a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1631/10/3,Skuttenberg,Ting,,110b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1631/10/17,Kiberg,Ting,,111a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1631/10/24,Wardøenn,Ting,,112a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1632/3/5,Wadtzsøe,Ting,,114b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1632/3/19,Wadtzsøe,Ting,,117b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1632/3/23,Kieberg,Ting,,118b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1632/6/11,Schyttenberg,Ting,,120b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1632/6/12,Suerholt,Ting,,120b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1632/6/20,Haswogh,Ting,,121a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1632/6/23,Loppen,Ting,,121b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1632/6/26,Hammerfest,Ting,,122a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1632/6/26,Goesnes,Ting,,122b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1632/7/3,Killuig,Ting,,124a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1632/9/10,Wardøehuus,Ting,,124b,Danmark,Jfuer Nielsenn,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1633/5/17,Loppen,Vårting,,129b,Danmark,Jørgen Knudsen,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1633/5/20,Haswogh,Vårting,,130b,Danmark,Jørgen Knudsen,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1633/5/24,Hammerfest,Vårting,,131a,Danmark,Jørgen Knudsen,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1633/6/1,Gosnes,Vårting,,131a,Danmark,Jørgen Knudsen,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1633/6/4,Kieluig,Vårting,,131b,Danmark,Jørgen Knudsen,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1633/6/14,Schøttingbergh,Vårting,,135a,Danmark,Jørgen Knudsen,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1633/6/17,Omgang,Vårting,,137a,Danmark,Jørgen Knudsen,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1633/6/20,Syltuig,Vårting,,137b,Danmark,Jørgen Knudsen,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1633/7/3,Wadtzsøe,Ting,,138a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1633/7/16,Wardøe,Ting,,138b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1633/8/14,Schyttenberg,Ting,,139b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-Tingbok,1633/8/29,Killuig,Ting,,140a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
-,,,,,,Danmark,,"Nordland og Finnmarks lagstol, nr. 1: Justisprotokoll 1647-1668",AV/SAT-A-5608/X/L0001 ,Ja,Nei,x,https://media.digitalarkivet.no/view/159337/1,x,x
-,,,,,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 8: Tingbok, 1648-1654",SATØ/S-0053/F/Fa/L0008,Nei,Nei,https://media.digitalarkivet.no/view/28723/2,x,x,x
-,,,,,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 9: Tingbok, 1654-1663",SATØ/S-0053/F/Fa/L0009,Nei,Nei,https://media.digitalarkivet.no/view/28724/2,x,x,x
-,,,,,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 10: Tingbok, 1654-1663",SATØ/S-0053/F/Fa/L0010,Nei,Nei,https://media.digitalarkivet.no/view/28725/3,x,x,x
-,,,,,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 11: Tingbok, 1664-1667",SATØ/S-0053/F/Fa/L0011,Nei,Nei,https://www.digitalarkivet.no/source/28726,x,x,x
-,,,,,,Danmark,,"Nordland og Finnmarks lagstol, nr. 2: Justisprotokoll 1666-1690 for Nordlandene",AV/SAT-A-5608/X/L0002,Nei,Nei,https://media.digitalarkivet.no/view/31405/1,x,x,x
-,,,,,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 12: Tingbok, 1668-1671",SATØ/S-0053/F/Fa/L0012,Nei,Nei,https://media.digitalarkivet.no/view/28727/4,x,x,x
-,,,,,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 13: Tingbok, 1671-1673",SATØ/S-0053/F/Fa/L0013,Nei,Nei,https://media.digitalarkivet.no/view/28728/3,x,x,x
-,,,,,,Danmark,,"Nordland og Finnmarks lagstol, nr. 3: Justisprotokoll 1671-1683 for Finnmark",AV/SAT-A-5608/X/L0003,Nei,Nei,https://media.digitalarkivet.no/view/31406/1,x,x,x
-,,,,,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 14: Tingbok, 1674-1676",SATØ/S-0053/F/Fa/L0014,Nei,Nei,https://media.digitalarkivet.no/view/28729/3,x,x,x
-,,,,,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 15: Tingbok, 1677-1678",SATØ/S-0053/F/Fa/L0015,Nei,Nei,https://media.digitalarkivet.no/view/28730/3,x,x,x
-,,,,,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 16: Tingbok, 1678-1679",SATØ/S-0053/F/Fa/L0016,Nei,Nei,https://media.digitalarkivet.no/view/28731/3,x,x,x
-,,,,,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 17: Tingbok, 1680-1682",SATØ/S-0053/F/Fa/L0017,Nei,Nei,https://media.digitalarkivet.no/view/28732/3,x,x,x
-,,,,,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 18: Tingbok, 1682-1683",SATØ/S-0053/F/Fa/L0018,Nei,Nei,https://media.digitalarkivet.no/view/28733/3,x,x,x
-,,,,,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 19: Tingbok, 1677-1685",SATØ/S-0053/F/Fa/L0019,Nei,Nei,https://media.digitalarkivet.no/view/28734/3,x,x,x
-,,,,,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 20: Tingbok, 1685",SATØ/S-0053/F/Fa/L0020,Nei,Nei,https://media.digitalarkivet.no/view/28735/3,x,x,x
-,,,,,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 21: Tingbok, 1685-1688",SATØ/S-0053/F/Fa/L0021,Nei,Nei,https://media.digitalarkivet.no/view/28736/3,x,x,x
-,,,,,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 22: Tingbok, 1688",SATØ/S-0053/F/Fa/L0022,Nei,Nei,https://media.digitalarkivet.no/view/28737/2,x,x,x
-,,,,,,Danmark,,"Nordland og Finnmarks lagstol, nr. 4: Justisprotokoll 1688-1691 for Nordlandene",AV/SAT-A-5608/X/L0004,Nei,Nei,https://media.digitalarkivet.no/view/31407/1,x,x,x
-,,,,,,Sverige,,"1688-1705, egentlig fra 1699, alle lappmarker",SE/HLA/1040125/A I/1,Ja,Nei,https://sok.riksarkivet.se/arkiv/q5uZVaKcMKIfVxountXXm1,x,x,x
-,,,,,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 23: Tingbok, 1689-1690",SATØ/S-0053/F/Fa/L0023,Nei,Nei,https://media.digitalarkivet.no/view/28738/2,x,x,x
-,,,,,,Danmark,,"Helgeland sorenskriveri, tingbok nr. 1, 1690-1693",AV/SAT-A-0004/1/1A/L0001,Nei,Nei,https://media.digitalarkivet.no/view/28717/2,x,x,x
-,,,,,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 24: Tingbok, 1691",SATØ/S-0053/F/Fa/L0024,Nei,Nei,https://media.digitalarkivet.no/view/28739/3,x,x,x
-,,,,,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 25: Tingbok, 1692-1695",SATØ/S-0053/F/Fa/L0025,Nei,Nei,https://media.digitalarkivet.no/view/28740/3,x,x,x
-,,,,,,Danmark,,"Lofoten sorenskriveri, tingbok nr. 1, 1693-1699 NB! Register",AV/SAT-A-0017/1/1/1A/L0001,Nei,Nei,https://media.digitalarkivet.no/view/28720/4,x,x,x
-,,,,,,Danmark,,"Helgeland sorenskriveri, tingbok nr. 2, 1693-1700",AV/SAT-A-0004/1/1A/L0002,Nei,Nei,https://media.digitalarkivet.no/view/28718/2,x,x,x
-,,,,,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 26: Tingbok, 1696-1698",SATØ/S-0053/F/Fa/L0026,Nei,Nei,https://media.digitalarkivet.no/view/28741/2,x,x,x
-,,,,,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 27: Tingbok, 1698-1701",SATØ/S-0053/F/Fa/L0027,Nei,Nei,https://media.digitalarkivet.no/view/28742/2,x,x,x
-,,,,,,Danmark,,"Helgeland sorenskriveri, tingbok nr. 3, 1700-1709",AV/SAT-A-0004/1/1A/L0003,Nei,Nei,https://media.digitalarkivet.no/view/28719/2,x,x,x
-,,,,,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 28: Tingbok, 1701-1703",SATØ/S-0053/F/Fa/L0028,Nei,Nei,https://media.digitalarkivet.no/view/31078/3,x,x,x
-,,,,,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 29: Tingbok, 1703-1705",SATØ/S-0053/F/Fa/L0029,Nei,Nei,https://media.digitalarkivet.no/view/31079/3,x,x,x
-,,,,,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 30: Tingbok, 1706",SATØ/S-0053/F/Fa/L0030,Nei,Nei,https://media.digitalarkivet.no/view/31080/3,x,x,x
-,,,,,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 31: Tingbok, 1706-1709",SATØ/S-0053/F/Fa/L0031,Nei,Nei,https://media.digitalarkivet.no/view/31081/3,x,x,x
-,,,,,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 32: Tingbok, 1706-1710",SATØ/S-0053/F/Fa/L0032,Nei,Nei,https://media.digitalarkivet.no/view/31082/3,x,x,x
-,,,,,,Sverige,,1706 – 1715 Alle lappmarker,SE/HLA/1040125/A I/2,Ja,Nei,https://sok.riksarkivet.se/arkiv/XwkyknUcmg7MhvhxTp8fH6,x,x,x
-,,,,,,Danmark,,"Lofoten sorenskriveri, tingbok nr. 2, 1706-1715",AV/SAT-A-0017/1/1/1A/L0002,Nei,Nei,https://media.digitalarkivet.no/view/31295/3,x,x,x
-,,,,,,Danmark,,"Tromsø sorenskriveri, tingbok nr. 1, 1707-1728",AV/SATØ-S-0262,Nei,Nei,https://media.digitalarkivet.no/view/31062/1,x,x,x
-,,,,,,Danmark,,"Nordland og Finnmarks lagstol, nr. 5: Justisprotokoll 1708-1726",AV/SAT-A-5608/X/L0005,Nei,Nei,https://media.digitalarkivet.no/view/31408/1,x,x,x
-,,,,,,Danmark,,"Helgeland sorenskriveri, tingbok nr. 4, 1709-1714",AV/SAT-A-0004/1/1A/L0004,Nei,Nei,https://media.digitalarkivet.no/view/31246/2,x,x,x
-,,,,,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 33: Tingbok, 1710-1711",SATØ/S-0053/F/Fa/L0033,Nei,Nei,https://media.digitalarkivet.no/view/31083/3,x,x,x
-,,,,,,Danmark,,"Vesterålen sorenskriveri, tingbok nr. 1, 1710-1737",AV/SAT-A-4180/1/1/1A/L0001,Nei,Nei,https://media.digitalarkivet.no/view/31300/3,x,x,x
-,,,,,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 34: Tingbok, 1712-1713",SATØ/S-0053/F/Fa/L0034,Nei,Nei,https://media.digitalarkivet.no/view/31084/3,x,x,x
-,,,,,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 35: Tingbok, 1713-1718",SATØ/S-0053/F/Fa/L0035,Nei,Nei,https://media.digitalarkivet.no/view/31085/3,x,x,x
-,,,,,,Danmark,,"Vesterålen sorenskriveri, tingbok nr. 2, 1716-1723",AV/SAT-A-4180/1/1/1A/L0002,Nei,Nei,https://media.digitalarkivet.no/view/31301/2,x,x,x
-,,,,,,Danmark,,"Helgeland sorenskriveri, tingbok nr. 6, 1717-1723",AV/SAT-A-0004/1/1A/L0005,Nei,Nei,https://media.digitalarkivet.no/view/31247/2,x,x,x
-,,,,,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 36: Tingbok, 1719-1722",SATØ/S-0053/F/Fa/L0036,Nei,Nei,https://media.digitalarkivet.no/view/31086/3,x,x,x
-,,,,,,Danmark,,"Salten sorenskriveri, tingbok nr. 1, 1719-1722",AV/SAT-A-4578/1/1/1A/L0001,Nei,Nei,https://media.digitalarkivet.no/view/31278/1,x,x,x
-,,,,,,Danmark,,"Salten sorenskriveri, tingbok nr. 2, 1722-1726",AV/SAT-A-4578/1/1/1A/L0002,Nei,Nei,https://media.digitalarkivet.no/view/31279/1,x,x,x
-,,,,,,Danmark,,"Helgeland sorenskriveri, tingbok nr. 7, 1723-1725",AV/SAT-A-0004/1/1A/L0006,Nei,Nei,https://media.digitalarkivet.no/view/31248/2,x,x,x
-,,,,,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 37: Tingbok, 1723-1726",SATØ/S-0053/F/Fa/L0037,Nei,Nei,https://media.digitalarkivet.no/view/31087/3,x,x,x
-,,,,,,Danmark,,"Senja sorenskriveri, tingbok nr. 1, 1723-1727",AV/SATØ-S-0260,Nei,Nei,https://media.digitalarkivet.no/view/31058/1,x,x,x
-,,,,,,Danmark,,"Helgeland sorenskriveri, tingbok nr. 8, 1726-1730",AV/SAT-A-0004/1/1A/L0007,Nei,Nei,https://media.digitalarkivet.no/view/31249/3,x,x,x
-,,,,,,Danmark,,"Salten sorenskriveri, tingbok nr. 3, 1726-1731",AV/SAT-A-4578/1/1/1A/L0003,Nei,Nei,https://media.digitalarkivet.no/view/31280/3,x,x,x
-,,,,,,Danmark,,"Lofoten sorenskriveri, tingbok nr. 3, 1726-1796",AV/SAT-A-0017/1/1/1A/L0003,Nei,Nei,https://media.digitalarkivet.no/view/31296/3,x,x,x
-,,,,,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 38: Tingbok, 1727-1729",SATØ/S-0053/F/Fa/L0038,Nei,Nei,https://media.digitalarkivet.no/view/31088/4,x,x,x
-,,,,,,Danmark,,"Senja sorenskriveri, tingbok nr. 2, 1727-1731",AV/SATØ-S-0260,Nei,Nei,https://media.digitalarkivet.no/view/31059/2,x,x,x
-,,,,,,Danmark,,"Tromsø sorenskriveri, tingbok nr. 2, 1729-1744",AV/SATØ-S-0262,Nei,Nei,https://media.digitalarkivet.no/view/31063/1,x,x,x
-,,,,,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 39: Tingbok, 1730-1731",SATØ/S-0053/F/Fa/L0039,Nei,Nei,https://media.digitalarkivet.no/view/31089/4,x,x,x
-,,,,,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 40: Tingbok, 1730-1733",SATØ/S-0053/F/Fa/L0040,Nei,Nei,https://media.digitalarkivet.no/view/31090/3,x,x,x
-,,,,,,Danmark,,"Helgeland sorenskriveri, tingbok nr. 9, 1730-1734",AV/SAT-A-0004/1/1A/L0008,Nei,Nei,https://media.digitalarkivet.no/view/31250/2,x,x,x
-,,,,,,Danmark,,"Nordland og Finnmarks lagstol, nr. 6: Justisprotokoll 1730-1740",AV/SAT-A-5608/X/L0006,Nei,Nei,https://media.digitalarkivet.no/view/31409/1,x,x,x
-,,,,,,Danmark,,"Lofoten sorenskriveri, tingbok nr. 4, 1730-1797",AV/SAT-A-0017/1/1/1A/L0004,Nei,Nei,https://media.digitalarkivet.no/view/31297/2,x,x,x
-,,,,,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 41: Tingbok, 1731-1735",SATØ/S-0053/F/Fa/L0041,Nei,Nei,https://media.digitalarkivet.no/view/31091/4,x,x,x
-,,,,,,Danmark,,"Salten sorenskriveri, tingbok nr. 4, 1731-1736",AV/SAT-A-4578/1/1/1A/L0004,Nei,Nei,https://media.digitalarkivet.no/view/31281/1,x,x,x
-,,,,,,Danmark,,"Senja sorenskriveri, tingbok nr. 3, 1731-1741",AV/SATØ-S-0260,Nei,Nei,https://media.digitalarkivet.no/view/31060/2,x,x,x
-,,,,,,Danmark,,"Helgeland sorenskriveri, tingbok nr. 10, 1734-1739",AV/SAT-A-0004/1/1A/L0009,Nei,Nei,https://media.digitalarkivet.no/view/31251/2,x,x,x
-,,,,,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 42: Tingbok, 1735-1738",SATØ/S-0053/F/Fa/L0042,Nei,Nei,https://media.digitalarkivet.no/view/31092/4,x,x,x
-,,,,,,Danmark,,"Salten sorenskriveri, tingbok nr. 5, 1736-1741",AV/SAT-A-4578/1/1/1A/L0005,Nei,Nei,https://media.digitalarkivet.no/view/31282/1,x,x,x
-,,,,,,Danmark,,"Helgeland sorenskriveri, tingbok nr. 11, 1737-1745",AV/SAT-A-0004/1/1A/L0010,Nei,Nei,https://media.digitalarkivet.no/view/31252/2,x,x,x
-,,,,,,Danmark,,"Vesterålen sorenskriveri, tingbok nr. 3, 1737-1748",AV/SAT-A-4180/1/1/1A/L0003,Nei,Nei,https://media.digitalarkivet.no/view/31302/3,x,x,x
-,,,,,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 43: Tingbok, 1739-1747",SATØ/S-0053/F/Fa/L0043,Nei,Nei,https://media.digitalarkivet.no/view/31093/3,x,x,x
-,,,,,,Danmark,,"Lofoten sorenskriveri, tingbok nr. 5, 1739-1752",AV/SAT-A-0017/1/1/1A/L0005,Nei,Nei,https://media.digitalarkivet.no/view/31298/3,x,x,x
-,,,,,,Danmark,,"Helgeland sorenskriveri, tingbok nr. 12a, 1740-1743",AV/SAT-A-0004/1/1A/L0011,Nei,Nei,https://media.digitalarkivet.no/view/31253/4,x,x,x
-,,,,,,Danmark,,"Nordland og Finnmarks lagstol, nr. 7: Justisprotokoll 1740-1761",AV/SAT-A-5608/X/L0007,Nei,Nei,https://media.digitalarkivet.no/view/31410/1,x,x,x
-,,,,,,Danmark,,"Salten sorenskriveri, tingbok nr. 6, 1741-1745",AV/SAT-A-4578/1/1/1A/L0006,Nei,Nei,https://media.digitalarkivet.no/view/31283/1,x,x,x
-,,,,,,Danmark,,"Senja sorenskriveri, tingbok nr. 4, 1741-1751",AV/SATØ-S-0260,Nei,Nei,https://media.digitalarkivet.no/view/31061/1,x,x,x
-,,,,,,Danmark,,"Helgeland sorenskriveri, tingbok nr. 12b, 1743-1745",AV/SAT-A-0004/1/1A/L0012,Nei,Nei,https://media.digitalarkivet.no/view/31254/2,x,x,x
-,,,,,,Danmark,,"Helgeland sorenskriveri, tingbok nr. 13, 1745-1749",AV/SAT-A-0004/1/1A/L0013,Nei,Nei,https://media.digitalarkivet.no/view/31255/2,x,x,x
-,,,,,,Danmark,,"Salten sorenskriveri, tingbok nr. 7, 1745-1750",AV/SAT-A-4578/1/1/1A/L0007,Nei,Nei,https://media.digitalarkivet.no/view/31284/1,x,x,x
-,,,,,,Danmark,,"Senja og Tromsø sorenskriveri, tingbok nr. 48, 1745-1760",AV/SATØ-SATØ-31/F/Fa/L0048,Nei,Nei,https://media.digitalarkivet.no/view/31064/1,x,x,x
-,,,,,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 44: Tingbok, 1748-1755",SATØ/S-0053/F/Fa/L0044,Nei,Nei,https://media.digitalarkivet.no/view/31094/4,x,x,x
-,,,,,,Danmark,,"Vesterålen sorenskriveri, tingbok nr. 5, 1748-1760",AV/SAT-A-4180/1/1/1A/L0005,Nei,Nei,https://media.digitalarkivet.no/view/31303/1,x,x,x
-,,,,,,Danmark,,"Helgeland sorenskriveri, tingbok nr. 14, 1749-1753",AV/SAT-A-0004/1/1A/L0014,Nei,Nei,https://media.digitalarkivet.no/view/31256/1,x,x,x
-,,,,,,Danmark,,"Salten sorenskriveri, tingbok nr. 8, 1750-1753",AV/SAT-A-4578/1/1/1A/L0008,Nei,Nei,https://media.digitalarkivet.no/view/31285/1,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
-,,,,,,,,,,,,x,x,x,x
+Record_type,Date,Year,Court_place,Court_type,Place,Folio,State,Creator,Useful_info,Reference,Transcribed,Tabulated,Digitized_link,Transcription_link,Table_link,Archival_portal_link
+Ting,1620/05/03,1620,Vardø,Lagting,,2a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,https://www.digitalarkivet.no/rg20090515640568,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1620/05/11,1620,Madkurffue,Lagting,,8b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1620/05/13,1620,Omgang,Lagting,,10b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1620/05/17,1620,Skøtningbergh,Lagting,,13b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1620/05/19,1620,Suerholt,Lagting,,15a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1620/05/26,1620,Hielmsøe,Lagting,,19b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1620/05/29,1620,Meefiørdt,Lagting,,21a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1620/06/02,1620,Hasuogh,Lagting,,22b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1620/06/06,1620,Loppen,Lagting,,24a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1621/04/17,1621,Wadtzøen,Vårting,,25b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1621/04/21,1621,Wardøe,Vårting,,26a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1621/05/11,1621,Omgang,Vårting,,29b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1621/05/18,1621,Skøtningb.,Vårting,,30b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1621/05/24,1621,Suerholt,Vårting,,31a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1621/05/26,1621,Kieluigen,Vårting,,32a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1621/07/24,1621,Wardøehus,Leidangsting,,32b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1621/08/01,1621,Matkuffue,Leidangsting,,33a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1621/08/09,1621,Omgangh,Leidangsting,,34a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1621/08/13,1621,Skøtningsbergh,Leidangsting,,36a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1621/08/17,1621,Kieluigen,Leidangsting,,38a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1621/08/20,1621,Stappen,Leidangsting,,39b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1621/08/23,1621,Hielmsøen,Leidangsting,,40b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1621/08/25,1621,Gaasnes,Leidangsting,,41a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1621/08/31,1621,Hammerfeste,Leidangsting,,42a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1621/09/06,1621,Hasuogh,Leidangsting,,45a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1621/09/11,1621,Søruerd,Leidangsting,,45b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1621/09/13,1621,Loppen,Leidangsting,,46a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1622/05/01,1622,Wadtzøen,Vårting,,47a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1622/05/02,1622,Wadtzøen,Vårting,,47a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1622/05/03,1622,Kibergh,Vårting,,47b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1622/05/07,1622,Wardøhus,Vårting,,48a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1623/07/03,1623,Wadsøen,Leidangsting,,49a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1623/07/10,1623,Wardøehus,Leidangsting,,49b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1623/07/19,1623,Matkurffue,Leidangsting,,51a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1623/07/22,1623,Omgangh,Leidangsting,,51b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1623/07/24,1623,Skøtningsbergh,Leidangsting,,52a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1623/07/26,1623,Suerholt,Leidangsting,,52b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1623/07/30,1623,Kieluigen,Leidangsting,,53a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1623/08/10,1623,Gaasnes,Leidangsting,,53b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1623/08/10,1623,Hammerfeste,Leidangsting,,54a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1623/08/10,1623,Søruerdt,Leidangsting,,54b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1623/08/10,1623,Hasuogh,Leidangsting,,55a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1623/08/23,1623,Loppen,Leidangsting,,55b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1623/07/04,1623,Wadtzøen,Leidangsting,,57a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1623/07/08,1623,Kibergh,Leidangsting,,58a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1623/07/18,1623,Wardøehus,Leidangsting,,59a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1623/08/13,1623,Skøtningbergh,Leidangsting,,62b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1623/08/14,1623,Suerholt,Leidangsting,,63a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1623/08/18,1623,Kieluigen,Leidangsting,,63b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1623/08/18,1623,Hielmsøen,Leidangsting,,64b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1623/08/18,1623,Hammerfeste,Leidangsting,,65a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1623/08/18,1623,Hasuogh,Leidangsting,,65a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1623/08/29,1623,Loppen,Leidangsting,,66a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1623/09/03,1623,Hammerfeste,Ting,,66b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1623/09/05,1623,Gaasnes,Leidangsting,,66b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1623/09/18,1623,Wardøehus,Høstting,,67a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1624/03/19,1624,Wadtzøen,Vårting,,69a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1624/04/02,1624,Wardøehus,Vårting,,71b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1624/04/13,1624,Matkurffue,Vårting,,73a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1624/04/19,1624,Skøtningsbergh,Vårting,,74b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1624/05/10,1624,Loppen,Vårting,,75b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1624/05/12,1624,Søruerdt,Vårting,,76a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1624/05/22,1624,Hammerfeste,Vårting,,77a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1624/05/26,1624,Gaasnes,Vårting,,78a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1624/05/29,1624,Hielmsøen,Vårting,,79a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1624/06/03,1624,Kieluigen,Vårting,,80a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1624/06/14,1624,Wardøehus,Sommerting,,82b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1624/06/25,1624,Kieluigen,Sommerting,,85b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1624/07/08,1624,Hasuogh,Leidangsting,,86b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1624/07/13,1624,Loppen,Sommerting,,90a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1624/08/05,1624,Skøtningb.,Sommerting,,90b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1624/08/07,1624,Omgangh,Sommerting,,91a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1624/08/28,1624,Wardøen,Høstting,,91b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1625/04/04,1625,Wadtzøen,Vårting,,93a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1625/04/22,1625,Wardøehus,Vårting,,93b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1625/05/20,1625,Wardøehus,Lagting,,96a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1625/05/30,1625,Mattkurffue,Lagting,,98b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1625/05/31,1625,Omgang,Lagting,,99a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1625/06/01,1625,Skøtningbergh,Lagting,,99b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1625/06/02,1625,Suerholt,Lagting,,100a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1625/06/03,1625,Kieluigen,Lagting,,100b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1625/06/08,1625, Hielmsøe,Lagting,,102a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1625/06/09,1625,Gaasnes,Lagting,,102b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1625/06/10,1625,Hammerfest,Lagting,,102b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1625/06/13,1625,Hasuogh,Ting,,103a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1625/06/14,1625,Loppenn,Ting,,103b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1625/08/19,1625,Wadtzøen,Høstting,,104b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1626/04/17,1626,Kiberg,Vårting,,106a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1626/05/01,1626,Wardøehus,Vårting,,107a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1626/05/20,1626,Matkurffue,Vårting,,107b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1626/05/22,1626,Omgangh,Vårting,,108b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1626/05/23,1626,Skøtningbergh,Vårting,,108b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1626/05/27,1626,Suerholt,Vårting,,109a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1626/05/31,1626,Kieluigh,Vårting,,109b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1626/07/05,1626,Hielmsøen,Vårting,,111b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1626/06/06,1626,Gaasnes,Vårting,,111b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1626/06/08,1626,Hammerfeste,Vårting,,112a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1626/06/09,1626,Hasuogh,Ting,,112b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1626/07/29,1626,Kiberg,Sommerting,,114a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1626/08/08,1626,Madkurffue,Sommerting,,114b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1626/08/09,1626,Omgangh,Leidangsting,,115b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1626/08/10,1626,Skøtningsbergh,Leidangsting,,116b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1626/08/14,1626,Suerholt,Leidangsting,,116b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1626/08/17,1626,Kieluigen,Leidangsting,,117a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1626/08/25,1626,Hielmsøe,Leidangsting,,119a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1626/09/05,1626,Hammerfeste,Høstting,,120b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1626/09/08,1626,Hasuogh,Høstting,,120b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1626/09/09,1626,Loppen,Ikke avholdt,,121a,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1626/10/11,1626,Vardøehus,Høstting,,121b,Danmark,Niels Jensen,,SATØ/S-0053/F/Fa/L0006,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1627/03/28,1627,Wardøehuus,Vårting,,2a,Danmark,Niels Knudtszønn,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1627/03/29,1627,Kieberg,Vårting,,3a,Danmark,Niels Knudtszønn,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1627/05/18,1627,Sørvær,Vårting,,4a,Danmark,Niels Knudtszønn,Mangler start. tent. dat.,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1627/05/30,1627,Hammerfeste,Ting,,9a,Danmark,Niels Knudtszønn,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1627/06/07,1627,Kielluig,Vårting,,9b,Danmark,Niels Knudtszønn,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1627/06/09,1627,Suerholt,Ting,,11a,Danmark,Niels Knudtszønn,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1627/06/29,1627,Wadtzsøe,Ting,,12a,Danmark,Niels Knudtszønn,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1627/06/24,1627,Wardøehuss,Sommerting,,12b,Danmark,Niels Knudtszønn,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1627/07/25,1627,Wardøehuss,Ting,,15b,Danmark,Niels Knudtszønn,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1627/08/02,1627,Madtkurff,Ting,,16a,Danmark,Niels Knudtszønn,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1627/08/07,1627,Schyttenberg,Ting,,17b,Danmark,Niels Knudtszønn,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1627/08/09,1627,Suerholt,Ting,,19a,Danmark,Niels Knudtszønn,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1627/08/13,1627,Killuig,Sommerting,,19b,Danmark,Niels Knudtszønn,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1627/08/27,1627,Loppen,Sommerting,,20a,Danmark,Niels Knudtszønn,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1627/09/03,1627,Hammerfest,ting,,20b,Danmark,Niels Knudtszønn,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1627/09/17,1627,Omgangh,ting,,21a,Danmark,Niels Knudtszønn,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1627/09/27,1627,Wardøeen,Høstting,,21a,Danmark,Niels Knudtszønn,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1627/10/05,1627,Kieberg,Høstting,,24a,Danmark,Niels Knudtszønn,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1628/01/08,1628,Kiberg,Opplesning,,25b,Danmark,Niels Knudtszønn,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1628/03/18,1628,Wadtzsøe,Vårting,,25b,Danmark,Niels Knudtszønn,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1628/03/28,1628,Wardøehuus,Vårting,,26a,Danmark,Niels Knudtszønn,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1628/04/02,1628,Kieberg,Vårting,,26b,Danmark,Niels Knudtszønn,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1628/04/03,1628,Wardøehuus,ting,,27a,Danmark,Niels Knudtszønn,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1628/04/26,1628,Madtkurff,vårting,,28a,Danmark,Niels Knudtszønn,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1628/04/29,1628,Skyttenberg,Opplesning,,29a,Danmark,Niels Knudtszønn,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1628/04/29,1628,Suerholtt,Vårting,,29b,Danmark,Niels Knudtszønn,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1628/5/1,1628,Killuig,Vårting,,30a,Danmark,Niels Knudtszønn,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1628/05/05,1628,Gaasnes,Vårting,,32a,Danmark,Niels Knudtszønn,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1628/05/12,1628,Hasuogh,Vårting,,32b,Danmark,Niels Knudtszønn,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1628/05/15,1628,Loppen,Vårting,,33a,Danmark,Niels Knudtszønn,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1628/07/25,1628,Madtkurff,Ting,,33b,Danmark,Niels Knudtszønn,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1628/08/07,1628,Loppenn,Ting,,34a,Danmark,Niels Knudtszønn,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1628/08/09,1628,Haswoeg,Ting,,35a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1628/08/21,1628,Hammerfest,Ting,,36b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1628/08/25,1628,Goesnes,Ting,,37a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1628/08/28,1628,Hielmesøenn,Ting,,38a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1628/09/02,1628,Killuig,Høstting,,37a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1628/09/05,1628,Suerholtt,Ting,,38b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1628/09/09,1628,Schøttenberg,Ting,,39a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1628/09/11,1628,Omgangh,Ting,,39b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1628/09/27,1628,Wardøehuus,Høstting,,40a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1628/09/30,1628,Wardøehuus,Høstting,,42a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1628/11/15,1628,Kiebergh,Ting,,43a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1628/11/21,1628,Wadtzsoe,Ting,,44a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1628/12/3,1628,Wardøehuus,Ting,,44b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1629/3/16,1629,Weranger,Ting,,45b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1629/3/24,1629,Wadtzsøe,Vårting,,46b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1629/3/26,1629,Kiberg,Vårting,,47a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1629/3/28,1629,Wardøehuus,Vårting,,47b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1629/5/4,1629,Madtkurff,Vårting,,50a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1629/5/11,1629,Skøttenberg,Vårting,,51b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1629/5/12,1629,Suerholtt,Vårting,,52a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1629/5/15,1629,Killuig,Vårting,,53b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1629/5/18,1629,Goesnes,Ting,,55b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1629/5/27,1629,Loppen,Ting,,56b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1629/6/1,1629,Hasswogh,Ting,,56b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1629/6/11,1629,Kieberg,Ting,,59b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1629/6/17,1629,Wardøehuus,Ting,,60a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1629/7/28,1629,Skyttenbergh,Ting,,62a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1629/7/29,1629,Suerholtt,Ting,,62b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1629/8/10,1629,Killuigen,Ting,,63b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1629/8/19,1629,Goesnes,Ting,,63b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1629/8/31,1629,Loppenn,Ting,,64b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1629/9/10,1629,Hammerfest,Ting,,65b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1629/9/25,1629,Omgang,Ting,,66a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1630/5/13,1630,Loppen,Ting,,67a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1630/5/20,1630,Hasswough,Ting,,68a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1630/5/27,1630,Hammerfest,Ting,,68b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1630/5/31,1630,Goesnes,Ting,,69b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1630/6/7,1630,Killwig,Ting,,70a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1630/6/12,1630,Suerholtt,Ting,,72b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1630/6/14,1630,Schyttenberg,Ting,,73a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1630/6/19,1630,Madtkurff,Ting,,75b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1630/6/22,1630,Wardøehuus,Ting,,76b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1630/7/6,1630,Wadtzsøe,Ting,,77b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1630/7/6,1630,Kiberg,Ting,,78b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1630/7/16,1630,Wardøehuus,Ting,,79a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1630/8/19,1630,Omgang,Ting,,82b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1630/8/19,1630,Suerholtt,Ting,,83a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1630/9/7,1630,Goesnes,Ting,,84b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1630/9/15,1630,Hammerfest,Ting,,84b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1630/9/24,1630,Hasswogh,Ting,,85b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1630/9/25,1630,Loppen,Ting,,85b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1631/3/7,1631,Wadtzsøe,Ting,,86a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1631/4/13,1631,Wardøehuus,Ting,,86b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1631/4/27,1631,Madtkurff,Ting,,91b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1631/4/29,1631,Omgang,Ting,,92b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1631/5/4,1631,Skøttenberg,Ting,,93a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1631/5/9,1631,Suerholtt,Ting,,95a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1631/5/25,1631,Loppen,Ting,,96a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1631/6/1,1631,Hasswoeg,Ting,,98b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1631/6/7,1631,Hammerfest,Ting,,99a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1631/6/13,1631,Goesnes,Ting,,100a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1631/6/17,1631,Killwigenn,Ting,,101a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1631/7/4,1631,Wadtzsøe,Ting,,105a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1631/7/23,1631,Kieberg,Ting,,107a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1631/8/25,1631,Loppenn,Ting,,107b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1631/8/27,1631,Hasswoeg,Ting,,108b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1631/9/12,1631,Hammerfest,Ting,,109b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1631/10/1,1631,Suerholt,Ting,,110a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1631/10/3,1631,Skuttenberg,Ting,,110b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1631/10/17,1631,Kiberg,Ting,,111a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1631/10/24,1631,Wardøenn,Ting,,112a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1632/3/5,1632,Wadtzsøe,Ting,,114b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1632/3/19,1632,Wadtzsøe,Ting,,117b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1632/3/23,1632,Kieberg,Ting,,118b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1632/6/11,1632,Schyttenberg,Ting,,120b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1632/6/12,1632,Suerholt,Ting,,120b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1632/6/20,1632,Haswogh,Ting,,121a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1632/6/23,1632,Loppen,Ting,,121b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1632/6/26,1632,Hammerfest,Ting,,122a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1632/6/26,1632,Goesnes,Ting,,122b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1632/7/3,1632,Killuig,Ting,,124a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1632/9/10,1632,Wardøehuus,Ting,,124b,Danmark,Jfuer Nielsenn,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1633/5/17,1633,Loppen,Vårting,,129b,Danmark,Jørgen Knudsen,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1633/5/20,1633,Haswogh,Vårting,,130b,Danmark,Jørgen Knudsen,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1633/5/24,1633,Hammerfest,Vårting,,131a,Danmark,Jørgen Knudsen,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1633/6/1,1633,Gosnes,Vårting,,131a,Danmark,Jørgen Knudsen,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1633/6/4,1633,Kieluig,Vårting,,131b,Danmark,Jørgen Knudsen,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1633/6/14,1633,Schøttingbergh,Vårting,,135a,Danmark,Jørgen Knudsen,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1633/6/17,1633,Omgang,Vårting,,137a,Danmark,Jørgen Knudsen,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1633/6/20,1633,Syltuig,Vårting,,137b,Danmark,Jørgen Knudsen,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1633/7/3,1633,Wadtzsøe,Ting,,138a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1633/7/16,1633,Wardøe,Ting,,138b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1633/8/14,1633,Schyttenberg,Ting,,139b,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Ting,1633/8/29,1633,Killuig,Ting,,140a,Danmark,Johan Borckenfeldt,,SATØ/S-0053/F/Fa/L0007,Ja,Nei,x,http://urn.nb.no/URN:NBN:no-nb_digibok_2014011606031,x,x
+Lagtingbok,,1647,Nordland og Finnmarks Lagstol,Diverse,Nord-Norge,,Danmark,,"Nordland og Finnmarks lagstol, nr. 1: Justisprotokoll 1647-1668",AV/SAT-A-5608/X/L0001 ,Ja,Nei,https://media.digitalarkivet.no/view/159337/1,x,x,x
+Tingbok,,1648,Finnmark Sorenskriveri,Diverse,Finnmark,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 8: Tingbok, 1648-1654",SATØ/S-0053/F/Fa/L0008,Nei,Nei,https://media.digitalarkivet.no/view/28723/2,x,x,x
+Tingbok,,1654,Finnmark Sorenskriveri,Diverse,Finnmark,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 9: Tingbok, 1654-1663",SATØ/S-0053/F/Fa/L0009,Nei,Nei,https://media.digitalarkivet.no/view/28724/2,x,x,x
+Tingbok,,1654,Finnmark Sorenskriveri,Diverse,Finnmark,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 10: Tingbok, 1654-1663",SATØ/S-0053/F/Fa/L0010,Nei,Nei,https://media.digitalarkivet.no/view/28725/3,x,x,x
+Tingbok,,1664,Finnmark Sorenskriveri,Diverse,Finnmark,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 11: Tingbok, 1664-1667",SATØ/S-0053/F/Fa/L0011,Nei,Nei,https://www.digitalarkivet.no/source/28726,x,x,x
+Lagtingbok,,1666,Nordland og Finnmarks Lagstol,Diverse,Nord-Norge,,Danmark,,"Nordland og Finnmarks lagstol, nr. 2: Justisprotokoll 1666-1690 for Nordlandene",AV/SAT-A-5608/X/L0002,Nei,Nei,https://media.digitalarkivet.no/view/31405/1,x,x,x
+Tingbok,,1668,Finnmark Sorenskriveri,Diverse,Finnmark,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 12: Tingbok, 1668-1671",SATØ/S-0053/F/Fa/L0012,Nei,Nei,https://media.digitalarkivet.no/view/28727/4,x,x,x
+Tingbok,,1671,Finnmark Sorenskriveri,Diverse,Finnmark,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 13: Tingbok, 1671-1673",SATØ/S-0053/F/Fa/L0013,Nei,Nei,https://media.digitalarkivet.no/view/28728/3,x,x,x
+Lagtingbok,,1671,Nordland og Finnmarks Lagstol,Diverse,Nord-Norge,,Danmark,,"Nordland og Finnmarks lagstol, nr. 3: Justisprotokoll 1671-1683 for Finnmark",AV/SAT-A-5608/X/L0003,Nei,Nei,https://media.digitalarkivet.no/view/31406/1,x,x,x
+Tingbok,,1674,Finnmark Sorenskriveri,Diverse,Finnmark,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 14: Tingbok, 1674-1676",SATØ/S-0053/F/Fa/L0014,Nei,Nei,https://media.digitalarkivet.no/view/28729/3,x,x,x
+Tingbok,,1677,Finnmark Sorenskriveri,Diverse,Finnmark,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 15: Tingbok, 1677-1678",SATØ/S-0053/F/Fa/L0015,Nei,Nei,https://media.digitalarkivet.no/view/28730/3,x,x,x
+Tingbok,,1678,Finnmark Sorenskriveri,Diverse,Finnmark,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 16: Tingbok, 1678-1679",SATØ/S-0053/F/Fa/L0016,Nei,Nei,https://media.digitalarkivet.no/view/28731/3,x,x,x
+Tingbok,,1680,Finnmark Sorenskriveri,Diverse,Finnmark,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 17: Tingbok, 1680-1682",SATØ/S-0053/F/Fa/L0017,Nei,Nei,https://media.digitalarkivet.no/view/28732/3,x,x,x
+Tingbok,,1682,Finnmark Sorenskriveri,Diverse,Finnmark,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 18: Tingbok, 1682-1683",SATØ/S-0053/F/Fa/L0018,Nei,Nei,https://media.digitalarkivet.no/view/28733/3,x,x,x
+Tingbok,,1677,Finnmark Sorenskriveri,Diverse,Finnmark,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 19: Tingbok, 1677-1685",SATØ/S-0053/F/Fa/L0019,Nei,Nei,https://media.digitalarkivet.no/view/28734/3,x,x,x
+Tingbok,,1685,Finnmark Sorenskriveri,Diverse,Finnmark,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 20: Tingbok, 1685",SATØ/S-0053/F/Fa/L0020,Nei,Nei,https://media.digitalarkivet.no/view/28735/3,x,x,x
+Tingbok,,1685,Finnmark Sorenskriveri,Diverse,Finnmark,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 21: Tingbok, 1685-1688",SATØ/S-0053/F/Fa/L0021,Nei,Nei,https://media.digitalarkivet.no/view/28736/3,x,x,x
+Tingbok,,1688,Finnmark Sorenskriveri,Diverse,Finnmark,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 22: Tingbok, 1688",SATØ/S-0053/F/Fa/L0022,Nei,Nei,https://media.digitalarkivet.no/view/28737/2,x,x,x
+Lagtingbok,,1688,Nordland og Finnmarks Lagstol,Diverse,Nord-Norge,,Danmark,,"Nordland og Finnmarks lagstol, nr. 4: Justisprotokoll 1688-1691 for Nordlandene",AV/SAT-A-5608/X/L0004,Nei,Nei,https://media.digitalarkivet.no/view/31407/1,x,x,x
+Tingbok,,1688,Alle lappmarker,Diverse,Svensk Lappmark,,Sverige,,"1688-1705, egentlig fra 1699, alle lappmarker",SE/HLA/1040125/A I/1,Ja,Nei,https://sok.riksarkivet.se/arkiv/q5uZVaKcMKIfVxountXXm1,x,x,x
+Tingbok,,1689,Finnmark Sorenskriveri,Diverse,Finnmark,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 23: Tingbok, 1689-1690",SATØ/S-0053/F/Fa/L0023,Nei,Nei,https://media.digitalarkivet.no/view/28738/2,x,x,x
+Tingbok,,1690,Helgeland Sorenskriveri,Diverse,Helgeland,,Danmark,,"Helgeland sorenskriveri, tingbok nr. 1, 1690-1693",AV/SAT-A-0004/1/1A/L0001,Nei,Nei,https://media.digitalarkivet.no/view/28717/2,x,x,x
+Tingbok,,1691,Finnmark Sorenskriveri,Diverse,Finnmark,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 24: Tingbok, 1691",SATØ/S-0053/F/Fa/L0024,Nei,Nei,https://media.digitalarkivet.no/view/28739/3,x,x,x
+Tingbok,,1692,Finnmark Sorenskriveri,Diverse,Finnmark,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 25: Tingbok, 1692-1695",SATØ/S-0053/F/Fa/L0025,Nei,Nei,https://media.digitalarkivet.no/view/28740/3,x,x,x
+Tingbok,,1693,Lofoten Sorenskriveri,Diverse,Lofoten,,Danmark,,"Lofoten sorenskriveri, tingbok nr. 1, 1693-1699 NB! Register",AV/SAT-A-0017/1/1/1A/L0001,Nei,Nei,https://media.digitalarkivet.no/view/28720/4,x,x,x
+Tingbok,,1693,Helgeland Sorenskriveri,Diverse,Helgeland,,Danmark,,"Helgeland sorenskriveri, tingbok nr. 2, 1693-1700",AV/SAT-A-0004/1/1A/L0002,Nei,Nei,https://media.digitalarkivet.no/view/28718/2,x,x,x
+Tingbok,,1696,Finnmark Sorenskriveri,Diverse,Finnmark,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 26: Tingbok, 1696-1698",SATØ/S-0053/F/Fa/L0026,Nei,Nei,https://media.digitalarkivet.no/view/28741/2,x,x,x
+Tingbok,,1698,Finnmark Sorenskriveri,Diverse,Finnmark,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 27: Tingbok, 1698-1701",SATØ/S-0053/F/Fa/L0027,Nei,Nei,https://media.digitalarkivet.no/view/28742/2,x,x,x
+Tingbok,,1700,Helgeland Sorenskriveri,Diverse,Helgeland,,Danmark,,"Helgeland sorenskriveri, tingbok nr. 3, 1700-1709",AV/SAT-A-0004/1/1A/L0003,Nei,Nei,https://media.digitalarkivet.no/view/28719/2,x,x,x
+Tingbok,,1701,Finnmark Sorenskriveri,Diverse,Finnmark,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 28: Tingbok, 1701-1703",SATØ/S-0053/F/Fa/L0028,Nei,Nei,https://media.digitalarkivet.no/view/31078/3,x,x,x
+Tingbok,,1703,Finnmark Sorenskriveri,Diverse,Finnmark,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 29: Tingbok, 1703-1705",SATØ/S-0053/F/Fa/L0029,Nei,Nei,https://media.digitalarkivet.no/view/31079/3,x,x,x
+Tingbok,,1706,Finnmark Sorenskriveri,Diverse,Finnmark,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 30: Tingbok, 1706",SATØ/S-0053/F/Fa/L0030,Nei,Nei,https://media.digitalarkivet.no/view/31080/3,x,x,x
+Tingbok,,1706,Finnmark Sorenskriveri,Diverse,Finnmark,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 31: Tingbok, 1706-1709",SATØ/S-0053/F/Fa/L0031,Nei,Nei,https://media.digitalarkivet.no/view/31081/3,x,x,x
+Tingbok,,1706,Finnmark Sorenskriveri,Diverse,Finnmark,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 32: Tingbok, 1706-1710",SATØ/S-0053/F/Fa/L0032,Nei,Nei,https://media.digitalarkivet.no/view/31082/3,x,x,x
+Tingbok,,1706,Alle lappmarker,Diverse,Svensk Lappmark,,Sverige,,1706 – 1715 Alle lappmarker,SE/HLA/1040125/A I/2,Ja,Nei,https://sok.riksarkivet.se/arkiv/XwkyknUcmg7MhvhxTp8fH6,x,x,x
+Tingbok,,1706,Lofoten Sorenskriveri,Diverse,Lofoten,,Danmark,,"Lofoten sorenskriveri, tingbok nr. 2, 1706-1715",AV/SAT-A-0017/1/1/1A/L0002,Nei,Nei,https://media.digitalarkivet.no/view/31295/3,x,x,x
+Tingbok,,1707,Tromsø Sorenskriveri,Diverse,Tromsø,,Danmark,,"Tromsø sorenskriveri, tingbok nr. 1, 1707-1728",AV/SATØ-S-0262,Nei,Nei,https://media.digitalarkivet.no/view/31062/1,x,x,x
+Lagtingbok,,1708,Nordland og Finnmarks Lagstol,Diverse,Nord-Norge,,Danmark,,"Nordland og Finnmarks lagstol, nr. 5: Justisprotokoll 1708-1726",AV/SAT-A-5608/X/L0005,Nei,Nei,https://media.digitalarkivet.no/view/31408/1,x,x,x
+Tingbok,,1709,Helgeland Sorenskriveri,Diverse,Helgeland,,Danmark,,"Helgeland sorenskriveri, tingbok nr. 4, 1709-1714",AV/SAT-A-0004/1/1A/L0004,Nei,Nei,https://media.digitalarkivet.no/view/31246/2,x,x,x
+Tingbok,,1710,Finnmark Sorenskriveri,Diverse,Finnmark,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 33: Tingbok, 1710-1711",SATØ/S-0053/F/Fa/L0033,Nei,Nei,https://media.digitalarkivet.no/view/31083/3,x,x,x
+Tingbok,,1710,Vesterålen Sorenskriveri,Diverse,Vesterålen,,Danmark,,"Vesterålen sorenskriveri, tingbok nr. 1, 1710-1737",AV/SAT-A-4180/1/1/1A/L0001,Nei,Nei,https://media.digitalarkivet.no/view/31300/3,x,x,x
+Tingbok,,1712,Finnmark Sorenskriveri,Diverse,Finnmark,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 34: Tingbok, 1712-1713",SATØ/S-0053/F/Fa/L0034,Nei,Nei,https://media.digitalarkivet.no/view/31084/3,x,x,x
+Tingbok,,1713,Finnmark Sorenskriveri,Diverse,Finnmark,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 35: Tingbok, 1713-1718",SATØ/S-0053/F/Fa/L0035,Nei,Nei,https://media.digitalarkivet.no/view/31085/3,x,x,x
+Tingbok,,1716,Vesterålen Sorenskriveri,Diverse,Vesterålen,,Danmark,,"Vesterålen sorenskriveri, tingbok nr. 2, 1716-1723",AV/SAT-A-4180/1/1/1A/L0002,Nei,Nei,https://media.digitalarkivet.no/view/31301/2,x,x,x
+Tingbok,,1717,Helgeland Sorenskriveri,Diverse,Helgeland,,Danmark,,"Helgeland sorenskriveri, tingbok nr. 6, 1717-1723",AV/SAT-A-0004/1/1A/L0005,Nei,Nei,https://media.digitalarkivet.no/view/31247/2,x,x,x
+Tingbok,,1719,Finnmark Sorenskriveri,Diverse,Finnmark,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 36: Tingbok, 1719-1722",SATØ/S-0053/F/Fa/L0036,Nei,Nei,https://media.digitalarkivet.no/view/31086/3,x,x,x
+Tingbok,,1719,Salten Sorenskriveri,Diverse,Salten,,Danmark,,"Salten sorenskriveri, tingbok nr. 1, 1719-1722",AV/SAT-A-4578/1/1/1A/L0001,Nei,Nei,https://media.digitalarkivet.no/view/31278/1,x,x,x
+Tingbok,,1722,Salten Sorenskriveri,Diverse,Salten,,Danmark,,"Salten sorenskriveri, tingbok nr. 2, 1722-1726",AV/SAT-A-4578/1/1/1A/L0002,Nei,Nei,https://media.digitalarkivet.no/view/31279/1,x,x,x
+Tingbok,,1723,Helgeland Sorenskriveri,Diverse,Helgeland,,Danmark,,"Helgeland sorenskriveri, tingbok nr. 7, 1723-1725",AV/SAT-A-0004/1/1A/L0006,Nei,Nei,https://media.digitalarkivet.no/view/31248/2,x,x,x
+Tingbok,,1723,Finnmark Sorenskriveri,Diverse,Finnmark,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 37: Tingbok, 1723-1726",SATØ/S-0053/F/Fa/L0037,Nei,Nei,https://media.digitalarkivet.no/view/31087/3,x,x,x
+Tingbok,,1723,Senja Sorenskriveri,Diverse,Senja,,Danmark,,"Senja sorenskriveri, tingbok nr. 1, 1723-1727",AV/SATØ-S-0260,Nei,Nei,https://media.digitalarkivet.no/view/31058/1,x,x,x
+Tingbok,,1726,Helgeland Sorenskriveri,Diverse,Helgeland,,Danmark,,"Helgeland sorenskriveri, tingbok nr. 8, 1726-1730",AV/SAT-A-0004/1/1A/L0007,Nei,Nei,https://media.digitalarkivet.no/view/31249/3,x,x,x
+Tingbok,,1726,Salten Sorenskriveri,Diverse,Salten,,Danmark,,"Salten sorenskriveri, tingbok nr. 3, 1726-1731",AV/SAT-A-4578/1/1/1A/L0003,Nei,Nei,https://media.digitalarkivet.no/view/31280/3,x,x,x
+Tingbok,,1726,Lofoten Sorenskriveri,Diverse,Lofoten,,Danmark,,"Lofoten sorenskriveri, tingbok nr. 3, 1726-1796",AV/SAT-A-0017/1/1/1A/L0003,Nei,Nei,https://media.digitalarkivet.no/view/31296/3,x,x,x
+Tingbok,,1727,Finnmark Sorenskriveri,Diverse,Finnmark,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 38: Tingbok, 1727-1729",SATØ/S-0053/F/Fa/L0038,Nei,Nei,https://media.digitalarkivet.no/view/31088/4,x,x,x
+Tingbok,,1727,Senja Sorenskriveri,Diverse,Senja,,Danmark,,"Senja sorenskriveri, tingbok nr. 2, 1727-1731",AV/SATØ-S-0260,Nei,Nei,https://media.digitalarkivet.no/view/31059/2,x,x,x
+Tingbok,,1729,Tromsø Sorenskriveri,Diverse,Tromsø,,Danmark,,"Tromsø sorenskriveri, tingbok nr. 2, 1729-1744",AV/SATØ-S-0262,Nei,Nei,https://media.digitalarkivet.no/view/31063/1,x,x,x
+Tingbok,,1730,Finnmark Sorenskriveri,Diverse,Finnmark,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 39: Tingbok, 1730-1731",SATØ/S-0053/F/Fa/L0039,Nei,Nei,https://media.digitalarkivet.no/view/31089/4,x,x,x
+Tingbok,,1730,Finnmark Sorenskriveri,Diverse,Finnmark,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 40: Tingbok, 1730-1733",SATØ/S-0053/F/Fa/L0040,Nei,Nei,https://media.digitalarkivet.no/view/31090/3,x,x,x
+Tingbok,,1730,Helgeland Sorenskriveri,Diverse,Helgeland,,Danmark,,"Helgeland sorenskriveri, tingbok nr. 9, 1730-1734",AV/SAT-A-0004/1/1A/L0008,Nei,Nei,https://media.digitalarkivet.no/view/31250/2,x,x,x
+Lagtingbok,,1730,Nordland og Finnmarks Lagstol,Diverse,Nord-Norge,,Danmark,,"Nordland og Finnmarks lagstol, nr. 6: Justisprotokoll 1730-1740",AV/SAT-A-5608/X/L0006,Nei,Nei,https://media.digitalarkivet.no/view/31409/1,x,x,x
+Tingbok,,1730,Lofoten Sorenskriveri,Diverse,Lofoten,,Danmark,,"Lofoten sorenskriveri, tingbok nr. 4, 1730-1797",AV/SAT-A-0017/1/1/1A/L0004,Nei,Nei,https://media.digitalarkivet.no/view/31297/2,x,x,x
+Tingbok,,1731,Finnmark Sorenskriveri,Diverse,Finnmark,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 41: Tingbok, 1731-1735",SATØ/S-0053/F/Fa/L0041,Nei,Nei,https://media.digitalarkivet.no/view/31091/4,x,x,x
+Tingbok,,1731,Salten Sorenskriveri,Diverse,Salten,,Danmark,,"Salten sorenskriveri, tingbok nr. 4, 1731-1736",AV/SAT-A-4578/1/1/1A/L0004,Nei,Nei,https://media.digitalarkivet.no/view/31281/1,x,x,x
+Tingbok,,1731,Senja Sorenskriveri,Diverse,Senja,,Danmark,,"Senja sorenskriveri, tingbok nr. 3, 1731-1741",AV/SATØ-S-0260,Nei,Nei,https://media.digitalarkivet.no/view/31060/2,x,x,x
+Tingbok,,1734,Helgeland Sorenskriveri,Diverse,Helgeland,,Danmark,,"Helgeland sorenskriveri, tingbok nr. 10, 1734-1739",AV/SAT-A-0004/1/1A/L0009,Nei,Nei,https://media.digitalarkivet.no/view/31251/2,x,x,x
+Tingbok,,1735,Finnmark Sorenskriveri,Diverse,Finnmark,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 42: Tingbok, 1735-1738",SATØ/S-0053/F/Fa/L0042,Nei,Nei,https://media.digitalarkivet.no/view/31092/4,x,x,x
+Tingbok,,1736,Salten Sorenskriveri,Diverse,Salten,,Danmark,,"Salten sorenskriveri, tingbok nr. 5, 1736-1741",AV/SAT-A-4578/1/1/1A/L0005,Nei,Nei,https://media.digitalarkivet.no/view/31282/1,x,x,x
+Tingbok,,1737,Helgeland Sorenskriveri,Diverse,Helgeland,,Danmark,,"Helgeland sorenskriveri, tingbok nr. 11, 1737-1745",AV/SAT-A-0004/1/1A/L0010,Nei,Nei,https://media.digitalarkivet.no/view/31252/2,x,x,x
+Tingbok,,1737,Vesterålen Sorenskriveri,Diverse,Vesterålen,,Danmark,,"Vesterålen sorenskriveri, tingbok nr. 3, 1737-1748",AV/SAT-A-4180/1/1/1A/L0003,Nei,Nei,https://media.digitalarkivet.no/view/31302/3,x,x,x
+Tingbok,,1739,Finnmark Sorenskriveri,Diverse,Finnmark,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 43: Tingbok, 1739-1747",SATØ/S-0053/F/Fa/L0043,Nei,Nei,https://media.digitalarkivet.no/view/31093/3,x,x,x
+Tingbok,,1739,Lofoten Sorenskriveri,Diverse,Lofoten,,Danmark,,"Lofoten sorenskriveri, tingbok nr. 5, 1739-1752",AV/SAT-A-0017/1/1/1A/L0005,Nei,Nei,https://media.digitalarkivet.no/view/31298/3,x,x,x
+Tingbok,,1740,Helgeland Sorenskriveri,Diverse,Helgeland,,Danmark,,"Helgeland sorenskriveri, tingbok nr. 12a, 1740-1743",AV/SAT-A-0004/1/1A/L0011,Nei,Nei,https://media.digitalarkivet.no/view/31253/4,x,x,x
+Lagtingbok,,1740,Nordland og Finnmarks Lagstol,Diverse,Nord-Norge,,Danmark,,"Nordland og Finnmarks lagstol, nr. 7: Justisprotokoll 1740-1761",AV/SAT-A-5608/X/L0007,Nei,Nei,https://media.digitalarkivet.no/view/31410/1,x,x,x
+Tingbok,,1741,Salten Sorenskriveri,Diverse,Salten,,Danmark,,"Salten sorenskriveri, tingbok nr. 6, 1741-1745",AV/SAT-A-4578/1/1/1A/L0006,Nei,Nei,https://media.digitalarkivet.no/view/31283/1,x,x,x
+Tingbok,,1741,Senja Sorenskriveri,Diverse,Senja,,Danmark,,"Senja sorenskriveri, tingbok nr. 4, 1741-1751",AV/SATØ-S-0260,Nei,Nei,https://media.digitalarkivet.no/view/31061/1,x,x,x
+Tingbok,,1743,Helgeland Sorenskriveri,Diverse,Helgeland,,Danmark,,"Helgeland sorenskriveri, tingbok nr. 12b, 1743-1745",AV/SAT-A-0004/1/1A/L0012,Nei,Nei,https://media.digitalarkivet.no/view/31254/2,x,x,x
+Tingbok,,1745,Helgeland Sorenskriveri,Diverse,Helgeland,,Danmark,,"Helgeland sorenskriveri, tingbok nr. 13, 1745-1749",AV/SAT-A-0004/1/1A/L0013,Nei,Nei,https://media.digitalarkivet.no/view/31255/2,x,x,x
+Tingbok,,1745,Salten Sorenskriveri,Diverse,Salten,,Danmark,,"Salten sorenskriveri, tingbok nr. 7, 1745-1750",AV/SAT-A-4578/1/1/1A/L0007,Nei,Nei,https://media.digitalarkivet.no/view/31284/1,x,x,x
+Tingbok,,1745,Senja og Troms Sorenskriveri,Diverse,Troms,,Danmark,,"Senja og Tromsø sorenskriveri, tingbok nr. 48, 1745-1760",AV/SATØ-SATØ-31/F/Fa/L0048,Nei,Nei,https://media.digitalarkivet.no/view/31064/1,x,x,x
+Tingbok,,1748,Finnmark Sorenskriveri,Diverse,Finnmark,,Danmark,,"Finnmark sorenskriveri, Rettergang, Justisprotokoller, nr. 44: Tingbok, 1748-1755",SATØ/S-0053/F/Fa/L0044,Nei,Nei,https://media.digitalarkivet.no/view/31094/4,x,x,x
+Tingbok,,1748,Vesterålen Sorenskriveri,Diverse,Vesterålen,,Danmark,,"Vesterålen sorenskriveri, tingbok nr. 5, 1748-1760",AV/SAT-A-4180/1/1/1A/L0005,Nei,Nei,https://media.digitalarkivet.no/view/31303/1,x,x,x
+Tingbok,,1749,Helgeland Sorenskriveri,Diverse,Helgeland,,Danmark,,"Helgeland sorenskriveri, tingbok nr. 14, 1749-1753",AV/SAT-A-0004/1/1A/L0014,Nei,Nei,https://media.digitalarkivet.no/view/31256/1,x,x,x
+Tingbok,,1750,Salten Sorenskriveri,Diverse,Salten,,Danmark,,"Salten sorenskriveri, tingbok nr. 8, 1750-1753",AV/SAT-A-4578/1/1/1A/L0008,Nei,Nei,https://media.digitalarkivet.no/view/31285/1,x,x,x
