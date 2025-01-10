@@ -1,7 +1,7 @@
 Census_type,Year,Geographic_area,Detail_level,State,Creator,Year_rough,Useful_info,Reference,Pagenumber,Digitized_link,Transcribed,Tabulated,Transcription_link,Table_link,Archival_portal_link
 Jordebok,1370,Troms,Eiendommer,Norge,,,,,,,Nei,Nei,https://www.dokpro.uio.no/cgi-bin/middelalder/diplom_vise_tekst.cgi?b=6025&s=n,x,x
-Jordebok,1433,Aslak bolts Jordebok,Eiendommer,,Aslak Bolt,1430-40,,AV/RA-EA-5965/F13/F13b/L0013,10-370,https://media.digitalarkivet.no/view/102948/10,Ja,Nei,https://urn.nb.no/URN:NBN:no-nb_digibok_2009030304091,x,x
-Jordebok,,Trondenes jordebok,Eiendommer,,[ukjent],1300-1400,Fire diplomer,,,,Ja,Nei,https://lenvik-museum.no/meny5/Trondenes/Didrik_Arup_Seip_Trondenes_Jordebok.pdf,x,x
+Jordebok,1433,Aslak bolts Jordebok,Eiendommer,Ikke statlig,Aslak Bolt,1430-40,,AV/RA-EA-5965/F13/F13b/L0013,10-370,https://media.digitalarkivet.no/view/102948/10,Ja,Nei,https://urn.nb.no/URN:NBN:no-nb_digibok_2009030304091,x,x
+Jordebok,1300,Trondenes jordebok,Eiendommer,Ikke statlig,[ukjent],1300-1400,"Fire diplomer, usikker datering",,,,Ja,Nei,https://lenvik-museum.no/meny5/Trondenes/Didrik_Arup_Seip_Trondenes_Jordebok.pdf,x,x
 Skattemanntall,1519,Troms,Fogderi,Norge,,,Uklart hvem som er oppført her,Skrifter utgitt for Kjeldeskriftfondet. @<17@> 1 : Norske Regnskaber og Jordebøger fra det 16de Aarhundrede (1514-1521) (s.374),164-167,x,Ja,Nei,https://urn.nb.no/URN:NBN:no-nb_digibok_2012121024002,x,x
 Skattemanntall,1519,Ingen (Nordland) og Tuvanes (Finnmark),Bygder,Norge,,,Uklart hvem som er oppført her,Skrifter utgitt for Kjeldeskriftfondet. 17 2 : Norske Regnskaber og Jordebøger fra det 16de Aarhundrede (1516-1521) s.534-5,129-131,x,Ja,Nei,https://urn.nb.no/URN:NBN:no-nb_digibok_2012121024004,x,x
 Skattemanntall,1520,Finnmark,Bygder,Norge,,,Ser ut til å være fiskevær,Skrifter utgitt for Kjeldeskriftfondet. 17 2 : Norske Regnskaber og Jordebøger fra det 16de Aarhundrede (1516-1521) s. 238,429-460,https://media.digitalarkivet.no/view/76233/211,Ja,Nei,https://urn.nb.no/URN:NBN:no-nb_digibok_2012121024004,x,x
@@ -210,7 +210,7 @@ Skattemanntall,1599,"Torne Lappmark, Finnmark, Troms, Salten",Finnebyer,Sverige,
 Skattemanntall,1599,Finnmark,Finnebyer,Norge,Kopi,,"Mye mer detaljert i Alta, mange plasser jeg ikke kjente igjen",RA/EA-4061/F/L0078,116-123,https://www.digitalarkivet.no/da20110216620118,Nei,Nei,x,x,x
 Skattemanntall,1599,"Indre Finnmark, Torneå, Varanger",Finnebyer,Sverige,Oluff Olson,1599-1601,Sjø- og fjellsamer,SE/RA/5121/5121.18/1601: 10,15,https://sok.riksarkivet.se/bildvisning/A0044629_00015#?c=&m=&s=&cv=14&xywh=758%2C940%2C5132%2C3158,Nei,Nei,x,x,x
 Skattemanntall,1599,"Finnmark, Troms, Salten",Finnebyer,Sverige,Jöns Olsson,,Sjøsamer,SE/RA/5121/5121.18/1600: 1,86,https://sok.riksarkivet.se/bildvisning/A0044626_00086#?c=&m=&s=&cv=85&xywh=2230%2C565%2C4266%2C2625,Nei,Nei,x,x,x
-Skattemanntall,,"Salten, Troms, Finnmark",Finnebyer,Norge,Hans Olufsen,1597-1601,Hans Olufsens relation om nordlandene,RA/EA-4061/F/L0078,309-323,https://www.digitalarkivet.no/da20110216620311,Nei,Nei,x,x,x
+Skattemanntall,1597,"Salten, Troms, Finnmark",Finnebyer,Norge,Hans Olufsen,1597-1601,"Hans Olufsens relation om nordlandene, usikker datering",RA/EA-4061/F/L0078,309-323,https://www.digitalarkivet.no/da20110216620311,Nei,Nei,x,x,x
 Skattemanntall,1599,Troms - Ofoten fjellet,Uklart,Norge,,,,RA/EA-4061/F/L0079,108-110,https://media.digitalarkivet.no/view/65987/108,Nei,Nei,x,x,x
 Skattemanntall,1599,Salten - Troms,Uklart,Norge,,,,RA/EA-4061/F/L0079,136-142,https://media.digitalarkivet.no/view/65987/137,Nei,Nei,x,x,x
 Skattemanntall,1599,Troms,Uklart,Norge,,,Ser ut til å ta to turer eller kopi,RA/EA-4061/F/L0079,142-144,https://media.digitalarkivet.no/view/65987/142,Nei,Nei,x,x,x
@@ -303,7 +303,7 @@ Skattemanntall,1613,"Pite, Lule, Ume, Angermanland Lappmark, Trøndelag, Helgela
 Skatt og Leidang,1614,"Senja, Troms",Bygder og Finnebyer,Norge,,,Samer og Nordmenn,RA/EA-5023/R/Rb/Rbz/L0006:,169,https://media.digitalarkivet.no/view/77109/169,Nei,Nei,x,x,x
 Skattemanntall,1614,Kemi og Torne Lappmark,Finnebyer,Sverige,Reinholt Steger,,Fjellsamer,SE/RA/5121/5121.18/1614: 10,47,https://sok.riksarkivet.se/bildvisning/A0044648_00047,Nei,Nei,x,x,x
 Manntall,1614,"Senja, Troms",Tingsted,Norge,,,Landskatt,RA/EA-5023/R/Rb/Rbz/L0007,49,https://media.digitalarkivet.no/view/77110/49,Nei,Nei,x,x,x
-,1614,Ytre Finnmark,Bygder,Norge,Claus Cagge,,Nordmenn,RA/EA-5023/R/Rb/Rbæ/L0003,53,https://media.digitalarkivet.no/view/77148/53,Nei,Nei,x,x,x
+Manntall,1614,Ytre Finnmark,Bygder,Norge,Claus Cagge,,Nordmenn,RA/EA-5023/R/Rb/Rbæ/L0003,53,https://media.digitalarkivet.no/view/77148/53,Nei,Nei,x,x,x
 Leidangsmanntall,1614,Ytre Finnmark,Finnebyer,Norge,Claus Cagge,,Sjøsamer,RA/EA-5023/R/Rb/Rbæ/L0003,78,https://www.digitalarkivet.no/rk20080922620813,Nei,Nei,x,x,x
 Leidangsmanntall,1614,Ytre Finnmark,Finnebyer,Norge,Claus Cagge,,Sjøsamer,RA/EA-5023/R/Rb/Rbæ/L0003,91,https://media.digitalarkivet.no/view/77148/91,Nei,Nei,x,x,x
 Skattemanntall,1614,Sør-Varanger,Finnebyer,Norge,Claus Cagge,,Østerhavsamer,RA/EA-5023/R/Rb/Rbæ/L0003,95,https://media.digitalarkivet.no/view/77148/95,Nei,Nei,x,x,x
@@ -527,7 +527,7 @@ Manntall,1658,Torne og Kemi Lappmark,Finnebyer,Sverige,"Johannes Tornberg & ""jo
 Skattemanntall,1659,Ytre Finnmark,Bygder,Norge,,,Drenger og Buemenn,RA/EA-5023/R/Rb/Rbæ/L0007,260-270,https://media.digitalarkivet.no/view/77152/260,Nei,Nei,x,x,x
 Manntall,1659,Torne og Kemi Lappmark,Finnebyer,Sverige,"Johannes Tornberg & ""johannes""",,Fjellsamer,SE/RA/55201/55201.30/7,116,https://sok.riksarkivet.se/bildvisning/A0055893_00116,Nei,Nei,x,x,x
 Leidangsmanntall,1659,Salten,Fjerdinger og bygder,Norge,,,uklart,RA/EA-5023/R/Rb/Rbz/L0039,172,https://media.digitalarkivet.no/view/77142/172,Nei,Nei,x,x,x
-,1659,Senja,Fjerdinger og bygder,Norge,,,Samer og Nordmenn,RA/EA-5023/R/Rb/Rbz/L0039,219,https://media.digitalarkivet.no/view/77142/219,Nei,Nei,x,x,x
+Leidangsmanntall,1659,Senja,Fjerdinger og bygder,Norge,,,Samer og Nordmenn,RA/EA-5023/R/Rb/Rbz/L0039,219,https://media.digitalarkivet.no/view/77142/219,Nei,Nei,x,x,x
 Skattemanntall,1660,Ytre Finnmark,Bygder,Norge,,,Drenger og Buemenn,RA/EA-5023/R/Rb/Rbæ/L0007,287-299,https://media.digitalarkivet.no/view/77152/287,Nei,Nei,x,x,x
 Manntall,1660,Torne og Kemi Lappmark,Finnebyer,Sverige,"Johannes Tornberg & ""johannes""",,Fjellsamer,SE/RA/55201/55201.30/8,85,https://sok.riksarkivet.se/bildvisning/A0055894_00085,Nei,Nei,x,x,x
 Landkommisjon,1661,"Nordland, Senja",,Norge,,,,RA/EA-4070/L/L0030/0001,3,https://media.digitalarkivet.no/view/38752/3,Nei,Nei,x,x,x
@@ -674,21 +674,21 @@ Skattemanntall,1684,Troms,Bygder,Norge,,,"Husmenn, drenger, konsumpsjon, folke, 
 Skattemanntall,1684,Øst-Finnmark,Bygder og Finnebyer,Norge,Ukjent,,Nordmenn og Samer,SATØ/S-1120/1Cn/L2879/0001/1681-1699,Ukjent,https://drive.google.com/file/d/1qrvP37eVDCJRxmxmZ65CflF7RjQ6SNW5/view?usp=drive_link,Nei,Nei,x,x,x
 Skattemanntall,1684,Øst-Finnmark,Finnebyer,Norge,ukjent,,Samer,SATØ/S-1120/1Cn/L2879/0001/1681-1699,ukjent,https://drive.google.com/file/d/1a8jiffP9RLFKH-CsXVLzfTc7HV9YRwWR/view?usp=drive_link,Nei,Nei,x,x,x
 Skattemanntall,1684,Torne og Kemi Lappmark,Finnebyer,Sverige,Oloff Heltnan,,Fjellsamer,SE/RA/55203/55203.29/22,87,https://sok.riksarkivet.se/bildvisning/A0001781_00087,Nei,Nei,x,x,x
-Skattemanntall,1685,Salten,Bygder,,,,"Odel, konsumpsjon, folkeskatt, rosstjeneste",RA/EA-6044/R/Rg/L0082,21,https://media.digitalarkivet.no/view/77472/21,Nei,Nei,x,x,x
-Jordebok,1685,Salten,Gårder,,,,Jordebok - Landskyld,RA/EA-6044/R/Rg/L0082,29,https://media.digitalarkivet.no/view/77472/49,Nei,Nei,x,x,x
-Leidangsmanntall,1685,Salten,Fjerdinger,,,,Leidangsmanntall,RA/EA-6044/R/Rg/L0082,61,https://media.digitalarkivet.no/view/77472/61,Nei,Nei,x,x,x
-Skatt og Leidang,1685,Salten,Finnebyer,,,,Sjøsamer,RA/EA-6044/R/Rg/L0082,77,https://media.digitalarkivet.no/view/77472/77,Nei,Nei,x,x,x
-Skattemanntall,1685,Senja,Bygder,,,,"Husmenn, værmenn, strandsittere, drenger, odel, konsumpsjon, folkeskatt",RA/EA-6044/R/Rg/L0082,172,https://media.digitalarkivet.no/view/77472/172,Nei,Nei,x,x,x
-Leidang,1685,Senja,Tingsteder,,,,Leidang,RA/EA-6044/R/Rg/L0082,208,https://media.digitalarkivet.no/view/77472/208,Nei,Nei,x,x,x
-Skattemanntall,1685,Troms,Bygder,,,,"Husmann, drenger, konsumpsjon, folkeskatt og rosstjeneste",RA/EA-6044/R/Rg/L0082,326,https://media.digitalarkivet.no/view/77472/326,Nei,Nei,x,x,x
+Skattemanntall,1685,Salten,Bygder,Norge,,,"Odel, konsumpsjon, folkeskatt, rosstjeneste",RA/EA-6044/R/Rg/L0082,21,https://media.digitalarkivet.no/view/77472/21,Nei,Nei,x,x,x
+Jordebok,1685,Salten,Gårder,Norge,,,Jordebok - Landskyld,RA/EA-6044/R/Rg/L0082,29,https://media.digitalarkivet.no/view/77472/49,Nei,Nei,x,x,x
+Leidangsmanntall,1685,Salten,Fjerdinger,Norge,,,Leidangsmanntall,RA/EA-6044/R/Rg/L0082,61,https://media.digitalarkivet.no/view/77472/61,Nei,Nei,x,x,x
+Skatt og Leidang,1685,Salten,Finnebyer,Norge,,,Sjøsamer,RA/EA-6044/R/Rg/L0082,77,https://media.digitalarkivet.no/view/77472/77,Nei,Nei,x,x,x
+Skattemanntall,1685,Senja,Bygder,Norge,,,"Husmenn, værmenn, strandsittere, drenger, odel, konsumpsjon, folkeskatt",RA/EA-6044/R/Rg/L0082,172,https://media.digitalarkivet.no/view/77472/172,Nei,Nei,x,x,x
+Leidang,1685,Senja,Tingsteder,Norge,,,Leidang,RA/EA-6044/R/Rg/L0082,208,https://media.digitalarkivet.no/view/77472/208,Nei,Nei,x,x,x
+Skattemanntall,1685,Troms,Bygder,Norge,,,"Husmann, drenger, konsumpsjon, folkeskatt og rosstjeneste",RA/EA-6044/R/Rg/L0082,326,https://media.digitalarkivet.no/view/77472/326,Nei,Nei,x,x,x
 Skattemanntall,1685,Torne og Kemi Lappmark,Finnebyer,Sverige,Jacop Grap,,Fjellsamer,SE/RA/55203/55203.29/23,51,https://sok.riksarkivet.se/bildvisning/A0001782_00051,Nei,Nei,x,x,x
 Skattemanntall,1685,Finnmark,Finnebyer,Norge,,,Samer,SATØ/S-1120/1Cn/L2879/0001/1681-1699,ukjent,https://drive.google.com/file/d/18Z-BCDH1XkFkDZ6DTHfqGvRY2v0wwf1b/view?usp=drive_link,Nei,Nei,x,x,x
-Skattemanntall,1686,Salten,Bygder,,,,"Husmenn, strandsittere, drenger, odel, konsumpsjon, folke, kopp og kveg",RA/EA-6044/R/Rg/L0085,41,https://media.digitalarkivet.no/view/77475/41,Nei,Nei,x,x,x
-Leidangsmanntall,1686,Salten,Fjerdinger,,,,Leidang,RA/EA-6044/R/Rg/L0085,101,https://media.digitalarkivet.no/view/77475/101,Nei,Nei,x,x,x
-Skatt og Leidang,1686,Salten,Finnebyer,,,,Sjøsamer,RA/EA-6044/R/Rg/L0085,117,https://media.digitalarkivet.no/view/77475/117,Nei,Nei,x,x,x
-Skattemanntall,1686,Senja,Bygder,,,,"Husmenn, værmenn, konsumpsjon, folke, kopp og kveg",RA/EA-6044/R/Rg/L0085,230,https://media.digitalarkivet.no/view/77475/230,Nei,Nei,x,x,x
-Skattemanntall,1686,Senja,Finnebyer,,,,Samer,RA/EA-6044/R/Rg/L0085,246,https://media.digitalarkivet.no/view/77475/246,Nei,Nei,x,x,x
-Skattemanntall,1686,Troms,Bygder,,,,"Husmann, konsumpsjon, folke, kopp og kvegskatt",RA/EA-6044/R/Rg/L0085,329,https://media.digitalarkivet.no/view/77475/329,Nei,Nei,x,x,x
+Skattemanntall,1686,Salten,Bygder,Norge,,,"Husmenn, strandsittere, drenger, odel, konsumpsjon, folke, kopp og kveg",RA/EA-6044/R/Rg/L0085,41,https://media.digitalarkivet.no/view/77475/41,Nei,Nei,x,x,x
+Leidangsmanntall,1686,Salten,Fjerdinger,Norge,,,Leidang,RA/EA-6044/R/Rg/L0085,101,https://media.digitalarkivet.no/view/77475/101,Nei,Nei,x,x,x
+Skatt og Leidang,1686,Salten,Finnebyer,Norge,,,Sjøsamer,RA/EA-6044/R/Rg/L0085,117,https://media.digitalarkivet.no/view/77475/117,Nei,Nei,x,x,x
+Skattemanntall,1686,Senja,Bygder,Norge,,,"Husmenn, værmenn, konsumpsjon, folke, kopp og kveg",RA/EA-6044/R/Rg/L0085,230,https://media.digitalarkivet.no/view/77475/230,Nei,Nei,x,x,x
+Skattemanntall,1686,Senja,Finnebyer,Norge,,,Samer,RA/EA-6044/R/Rg/L0085,246,https://media.digitalarkivet.no/view/77475/246,Nei,Nei,x,x,x
+Skattemanntall,1686,Troms,Bygder,Norge,,,"Husmann, konsumpsjon, folke, kopp og kvegskatt",RA/EA-6044/R/Rg/L0085,329,https://media.digitalarkivet.no/view/77475/329,Nei,Nei,x,x,x
 Skattemanntall,1686,Indre-Finnmark,Finnebyer,Norge,Ukjent,,Samer,SATØ/S-1120/1Cn/L2879/0001/1681-1699,Ukjent,https://drive.google.com/file/d/1pbGT-d2eCMN4VHSZQMqJBoxRmEOEg9AB/view?usp=drive_link,Nei,Nei,x,x,x
 Leidangsmanntall,1686,Øst-Finnmark,Bygder,Norge,Niels Knag,,Drenger og Buemenn,RA/EA-4092/R69/L4850,31,https://media.digitalarkivet.no/view/48948/31,Nei,Nei,x,x,x
 Leidangsmanntall,1686,Øst-Finnmark,Finnebyer,Norge,Niels Knag,,Sjøsamer,RA/EA-4092/R69/L4850,41,https://media.digitalarkivet.no/view/48948/41,Nei,Nei,x,x,x
@@ -781,10 +781,10 @@ Skattemanntall,1695,Finnmark,Finnebyer,Norge,Niels Knag,,Alle Samer,RA/EA-4092/R
 Leidangsmanntall,1695,Finnmark,Finnebyer,Norge,Niels Knag,,Sjøsamer,RA/EA-4092/R69/L4851,250,https://media.digitalarkivet.no/view/48949/250,Nei,Nei,x,x,x
 Skattemanntall,1696,Torne og Kemi Lappmark,Finnebyer,Sverige,Salomon Steigman,,Fjellsamer - datert feb. 1696!,SE/RA/55203/55203.29/31,22,https://sok.riksarkivet.se/bildvisning/A0001790_00022,Nei,Nei,x,x,x
 Skattemanntall,1696,Finnmark,Finnebyer,Norge,Peder Lilliensciold,,Fjellsamer og Russiske samer,SATØ/S-1120/1Cn/L2879/0001/1681-1699,Ukjent,https://drive.google.com/file/d/1NsmDJ8CawVzcMu92P3DrP58J0iuwENaX/view?usp=drive_link,Nei,Nei,x,x,x
-Jordebok,1696,Senja,Gårder,,Jørgen Jørgensen Aarhus,,Eiere og brukere,RA/EA-4092/R68/L4753/1694-1696,233,https://media.digitalarkivet.no/view/48851/233,Nei,Nei,x,x,x
-Skattemanntall,1696,Senja,Bygder,,Jørgen Jørgensen Aarhus,,"Drenger, husmenn, håntverkere, strandsittere, drenger, odel, konsump. folk",RA/EA-4092/R68/L4753/1694-1696,259,https://media.digitalarkivet.no/view/48851/259,Nei,Nei,x,x,x
-Jordebok,1696,Troms,Gårder,,Jørgen Jørgensen Aarhus,,Eiere og brukere,RA/EA-4092/R68/L4753/1694-1696,316,https://media.digitalarkivet.no/view/48851/316,Nei,Nei,x,x,x
-Skattemanntall,1696,Troms,Bygder,,Jørgen Jørgensen Aarhus,,"Drenger, husmenn, håntverkere, strandsittere, drenger, odel, konsump. folk",RA/EA-4092/R68/L4753/1694-1696,330,https://media.digitalarkivet.no/view/48851/330,Nei,Nei,x,x,x
+Jordebok,1696,Senja,Gårder,Norge,Jørgen Jørgensen Aarhus,,Eiere og brukere,RA/EA-4092/R68/L4753/1694-1696,233,https://media.digitalarkivet.no/view/48851/233,Nei,Nei,x,x,x
+Skattemanntall,1696,Senja,Bygder,Norge,Jørgen Jørgensen Aarhus,,"Drenger, husmenn, håntverkere, strandsittere, drenger, odel, konsump. folk",RA/EA-4092/R68/L4753/1694-1696,259,https://media.digitalarkivet.no/view/48851/259,Nei,Nei,x,x,x
+Jordebok,1696,Troms,Gårder,Norge,Jørgen Jørgensen Aarhus,,Eiere og brukere,RA/EA-4092/R68/L4753/1694-1696,316,https://media.digitalarkivet.no/view/48851/316,Nei,Nei,x,x,x
+Skattemanntall,1696,Troms,Bygder,Norge,Jørgen Jørgensen Aarhus,,"Drenger, husmenn, håntverkere, strandsittere, drenger, odel, konsump. folk",RA/EA-4092/R68/L4753/1694-1696,330,https://media.digitalarkivet.no/view/48851/330,Nei,Nei,x,x,x
 Skattemanntall,1697,Torne og Kemi Lappmark,Finnebyer,Sverige,Salomon Steigmann,,Fjellsamer - dat. apr. 1697,SE/RA/55203/55203.29/32,102,https://sok.riksarkivet.se/bildvisning/A0001791_00102,Nei,Nei,x,x,x
 Skattemanntall,1697,Finnmark,Finnebyer,Norge,Hans Bondixssen/ Niels Hansen,,Alle Samer,RA/EA-4092/R69/L4851,298,https://media.digitalarkivet.no/view/48949/298,Ja,Ja,x,https://docs.google.com/spreadsheets/d/1tiGo3NmupLeLJJPbGQMTOOpw5erGtiJQ90WmdfGg3sM/edit?usp=sharing,x
 Leidangsmanntall,1697,Finnmark,Finnebyer,Norge,Niels Hansen,,Sjøsamer,RA/EA-4092/R69/L4851,315,https://media.digitalarkivet.no/view/48949/315,Nei,Nei,x,x,x
@@ -877,138 +877,138 @@ Skattemanntall,1707,Senja,Bygder,Norge,Jacob Rosenvinge,,"Odelskatt, rosstjenest
 Jordebok,1707,Troms,Gårder,Norge,Jacob Rosenvinge,,Eiere og brukere,RA/EA-4092/R68/L4756,336,https://media.digitalarkivet.no/view/48854/336,Nei,Nei,x,x,x
 Skattemanntall,1707,Troms,Bygder,Norge,Jacob Rosenvinge,,"Odelskatt, rosstjeneste, vergemenn og selfosterkarle",RA/EA-4092/R68/L4756,349,https://media.digitalarkivet.no/view/48854/349,Nei,Nei,x,x,x
 Leidangsmanntall,1707,Senja,Bygder og fogderi,Norge,,,Samer og Nordmenn,RA/EA-4092/R68/L4756,363,https://media.digitalarkivet.no/view/48854/363,Nei,Nei,x,x,x
-Fogderegnskap (?),1707,Troms,,,,,,RA/EA-4092/R68/L4756/1705-1707,,https://media.digitalarkivet.no/view/48854/217,Nei,Nei,x,x,x
+Fogderegnskap (?),1707,Troms,,Norge,,,,RA/EA-4092/R68/L4756/1705-1707,,https://media.digitalarkivet.no/view/48854/217,Nei,Nei,x,x,x
 Skattemanntall,1708,Finnmark,Finnebyer,Norge,Hans Solgaard,,ØsterhavsSamer og Fjellsamer,RA/EA-4092/R69/L4853,119,https://media.digitalarkivet.no/view/48952/120,Nei,Nei,x,x,x
 Leidang- & Skattemanntall,1708,Finnmark,Bygder og Finnebyer,Norge,Hans Solgaard,,Sjøsamer og Nordmenn,RA/EA-4092/R69/L4853,127,https://media.digitalarkivet.no/view/48952/127,Nei,Nei,x,x,x
 Landwaren,1708,Finnmark,Husholdning,Norge,Hans Solgaard,,Liste over de bønder som bor på sørøya,RA/EA-4092/R69/L4853,153,x,Nei,Nei,x,x,x
 Skattemanntall,1708,Finnmark,Finnebyer,Norge,Ukjent,,ØsterhavsSamer og Fjellsamer,SATØ/S-1120/1Cn/L2879/0002/1706-1716,Ukjent,https://drive.google.com/file/d/15e0I82S-mRJHATVbWKUx1lxmXRj64LUo/view?usp=drive_link,Nei,Nei,x,x,x
-Fogderegnskap (?),1708,Troms,,,,,,RA/EA-4092/R68/L4757/1708-1710,,https://media.digitalarkivet.no/view/48855/11,Nei,Nei,x,x,x
+Fogderegnskap (?),1708,Troms,,Norge,,,,RA/EA-4092/R68/L4757/1708-1710,,https://media.digitalarkivet.no/view/48855/11,Nei,Nei,x,x,x
 Skattemanntall,1709,Finnmark,Finnebyer,Norge,Hans Solgaard,,ØsterhavsSamer og Fjellsamer,RA/EA-4092/R69/L4853,9,https://media.digitalarkivet.no/view/48953/9,Nei,Nei,x,x,x
 Leidang- & Skattemanntall,1709,Finnmark,Bygder og Finnebyer,Norge,Hans Solgaard,,Sjøsamer og Nordmenn,RA/EA-4092/R69/L4853,19,https://media.digitalarkivet.no/view/48953/19,Nei,Nei,x,x,x
 Landwaren,1709,Finnmark,Husholdning,Norge,Hans Solgaard,,Liste over de bønder som bor på sørøya,RA/EA-4092/R69/L4853,46,x,Nei,Nei,x,x,x
 Skattemanntall,1709,Finnmark,Finnebyer,Norge,Ukjent,,ØsterhavsSamer og Fjellsamer,SATØ/S-1120/1Cn/L2879/0002/1706-1716,Ukjent,https://drive.google.com/file/d/1Kr31fK_hMczBqKtKb0-Bsk10Y7drx0ad/view?usp=drive_link,Nei,Nei,x,x,x
-Fogderegnskap (?),1709,Troms,,,,,,RA/EA-4092/R68/L4757/1708-1710,,https://media.digitalarkivet.no/view/48855/157,Nei,Nei,x,x,x
+Fogderegnskap (?),1709,Troms,,Norge,,,,RA/EA-4092/R68/L4757/1708-1710,,https://media.digitalarkivet.no/view/48855/157,Nei,Nei,x,x,x
 Skattemanntall,1710,Finnmark,Finnebyer,Norge,Hans Solgaard,,ØsterhavsSamer og Fjellsamer,RA/EA-4092/R69/L4853,206,https://media.digitalarkivet.no/view/48953/207,Nei,Nei,x,x,x
 Leidang- & Skattemanntall,1710,Finnmark,Bygder og Finnebyer,Norge,Hans Solgaard,,Sjøsamer og Nordmenn,RA/EA-4092/R69/L4853,215,https://media.digitalarkivet.no/view/48953/215,Nei,Nei,x,x,x
 Landwaren,1710,Finnmark,Husholdning,Norge,Hans Solgaard,,Liste over de bønder som bor på sørøya,RA/EA-4092/R69/L4853,242,x,Nei,Nei,x,x,x
-Fogderegnskap (?),1710,Troms,,,,,,RA/EA-4092/R68/L4757/1708-1710,,https://media.digitalarkivet.no/view/48855/232,Nei,Nei,x,x,x
+Fogderegnskap (?),1710,Troms,,Norge,,,,RA/EA-4092/R68/L4757/1708-1710,,https://media.digitalarkivet.no/view/48855/232,Nei,Nei,x,x,x
 Skattemanntall,1710,Finnmark,Finnebyer,Norge,Ukjent,,ØsterhavsSamer og Fjellsamer,SATØ/S-1120/1Cn/L2879/0002/1706-1716,Ukjent,https://drive.google.com/file/d/1Dwx0xILtvV4XXnmc5tmOPj6eKp2dERvm/view?usp=drive_link,Nei,Nei,x,x,x
 Skattemanntall,1711,Finnmark,Finnebyer,Norge,Hans Solgaard,,ØsterhavsSamer og Fjellsamer,RA/EA-4092/R69/L4853,331,https://media.digitalarkivet.no/view/48953/332,Nei,Nei,x,x,x
 Leidang- & Skattemanntall,1711,Finnmark,Bygder og Finnebyer,Norge,Hans Solgaard,,Sjøsamer og Nordmenn,RA/EA-4092/R69/L4853,340,https://media.digitalarkivet.no/view/48953/341,Nei,Nei,x,x,x
 Landwaren,1711,Finnmark,Husholdning,Norge,Hans Solgaard,,Liste over de bønder som bor på sørøya,RA/EA-4092/R69/L4853,368,x,Nei,Nei,x,x,x
 Skattemanntall,1711,Finnmark,Finnebyer,Norge,Ukjent,,ØsterhavsSamer og Fjellsamer,SATØ/S-1120/1Cn/L2879/0002/1706-1716,Ukjent,https://drive.google.com/file/d/1d6vOWvD7--UYo2jomMr_Mp6Tf5EkcA-U/view?usp=drive_link,Nei,Nei,x,x,x
 Skattemanntall,1711,Torne og Kemi Lappmark,Finnebyer,Sverige,Salomon Steigmann,,Fjellsamer,SE/RA/55203/55203.29/46,241,https://sok.riksarkivet.se/bildvisning/A0001805_00241,Nei,Nei,x,x,x
-Fogderegnskap (?),1711,Troms,,,,,,RA/EA-4092/R68/L4758/1711-1712,,https://media.digitalarkivet.no/view/48856/14,Nei,Nei,x,x,x
+Fogderegnskap (?),1711,Troms,,Norge,,,,RA/EA-4092/R68/L4758/1711-1712,,https://media.digitalarkivet.no/view/48856/14,Nei,Nei,x,x,x
 Skattemanntall,1712,Finnmark,Finnebyer,Norge,Hans Solgaard,,ØsterhavsSamer og Fjellsamer,RA/EA-4092/R69/L4853,528,https://media.digitalarkivet.no/view/48953/529,Nei,Nei,x,x,x
 Leidang- & Skattemanntall,1712,Finnmark,Bygder og Finnebyer,Norge,Hans Solgaard,,Sjøsamer og Nordmenn,RA/EA-4092/R69/L4853,537,https://media.digitalarkivet.no/view/48953/537,Nei,Nei,x,x,x
 Landwaren,1712,Finnmark,Husholdning,Norge,Hans Solgaard,,Liste over de bønder som bor på sørøya,RA/EA-4092/R69/L4853,565,x,Nei,Nei,x,x,x
 Skattemanntall,1712,Finnmark,Finnebyer,Norge,Ukjent,,ØsterhavsSamer og Fjellsamer,SATØ/S-1120/1Cn/L2879/0002/1706-1716,Ukjent,https://drive.google.com/file/d/1bVxtW0uCD9YxFoK9y1Zxtb3s5YRBdd9g/view?usp=drive_link,Nei,Nei,x,x,x
-Fogderegnskap (?),1712,Troms,,,,,,RA/EA-4092/R68/L4758/1711-1712,,https://media.digitalarkivet.no/view/48856/322,Nei,Nei,x,x,x
+Fogderegnskap (?),1712,Troms,,Norge,,,,RA/EA-4092/R68/L4758/1711-1712,,https://media.digitalarkivet.no/view/48856/322,Nei,Nei,x,x,x
 Skattemanntall,1713,Troms,Bygder og Finnebyer,Norge,Andreas Tønder,,Sjøsamer og Nordmenn,RA/EA-4092/R68/L4759,96,https://www.digitalarkivet.no/rk10101508282096,Nei,Nei,x,x,x
 Skattemanntall,1713,Finnmark,Finnebyer,Norge,Hans Solgaard,,ØsterhavsSamer og Fjellsamer,RA/EA-4092/R69/L4856,13,https://media.digitalarkivet.no/view/48954/14,Nei,Nei,x,x,x
 Leidang- & Skattemanntall,1713,Finnmark,Bygder og Finnebyer,Norge,Hans Solgaard,,Sjøsamer og Nordmenn,RA/EA-4092/R69/L4856,22,https://media.digitalarkivet.no/view/48954/22,Nei,Nei,x,x,x
 Landwaren,1713,Finnmark,Husholdning,Norge,Hans Solgaard,,Liste over de bønder som bor på sørøya,RA/EA-4092/R69/L4856,49,x,Nei,Nei,x,x,x
 Skattemanntall,1713,Finnmark,Finnebyer,Norge,Ukjent,,ØsterhavsSamer og Fjellsamer,SATØ/S-1120/1Cn/L2879/0002/1706-1716,Ukjent,https://drive.google.com/file/d/12dfzDwiy7sVI0HOHDAAXDy71bNJ_rnvS/view?usp=drive_link,Nei,Nei,x,x,x
-Fogderegnskap (?),1713,Troms,,,,,,RA/EA-4092/R68/L4759/1713-,,https://media.digitalarkivet.no/view/48857/27,Nei,Nei,x,x,x
+Fogderegnskap (?),1713,Troms,,Norge,,,,RA/EA-4092/R68/L4759/1713-,,https://media.digitalarkivet.no/view/48857/27,Nei,Nei,x,x,x
 Skattemanntall,1714,Finnmark,Finnebyer,Norge,Hans Solgaard,,ØsterhavsSamer og Fjellsamer,RA/EA-4092/R69/L4856,203,https://media.digitalarkivet.no/view/48954/204,Nei,Nei,x,x,x
 Leidang- & Skattemanntall,1714,Finnmark,Bygder og Finnebyer,Norge,Hans Solgaard,,Sjøsamer og Nordmenn,RA/EA-4092/R69/L4856,212,https://media.digitalarkivet.no/view/48954/212,Nei,Nei,x,x,x
 Landwaren,1714,Finnmark,Husholdning,Norge,Hans Solgaard,,Liste over de bønder som bor på sørøya,RA/EA-4092/R69/L4856,239,x,Nei,Nei,x,x,x
 Skattemanntall,1714,Finnmark,Finnebyer,Norge,Ukjent,,ØsterhavsSamer og Fjellsamer,SATØ/S-1120/1Cn/L2879/0002/1706-1716,Ukjent,https://drive.google.com/file/d/10jsU_X9oH1XFSzFdV-8Udq1Ke7c37fRI/view?usp=drive_link,Nei,Nei,x,x,x
-Fogderegnskap (?),1714,Troms,,,,,,RA/EA-4092/R68/L4760/1714-,,https://media.digitalarkivet.no/view/48858/31,Nei,Nei,x,x,x
+Fogderegnskap (?),1714,Troms,,Norge,,,,RA/EA-4092/R68/L4760/1714-,,https://media.digitalarkivet.no/view/48858/31,Nei,Nei,x,x,x
 Skattemanntall,1715,Finnmark,Finnebyer,Norge,Hans Solgaard,,ØsterhavsSamer og Fjellsamer,RA/EA-4092/R69/L4856,389,https://media.digitalarkivet.no/view/48954/390,Nei,Nei,x,x,x
 Leidang- & Skattemanntall,1715,Finnmark,Bygder og Finnebyer,Norge,Hans Solgaard,,Sjøsamer og Nordmenn,RA/EA-4092/R69/L4856,398,https://media.digitalarkivet.no/view/48954/398,Nei,Nei,x,x,x
-Fogderegnskap (?),1715,Troms,,,,,,RA/EA-4092/R68/L4761/1715-,,https://media.digitalarkivet.no/view/48859/28,Nei,Nei,x,x,x
+Fogderegnskap (?),1715,Troms,,Norge,,,,RA/EA-4092/R68/L4761/1715-,,https://media.digitalarkivet.no/view/48859/28,Nei,Nei,x,x,x
 Landwaren,1715,Finnmark,Husholdning,Norge,Hans Solgaard,,Liste over de bønder som bor på sørøya,RA/EA-4092/R69/L4856,425,x,Nei,Nei,x,x,x
 Skattemanntall,1716,Finnmark,Finnebyer,Norge,Hans Solgaard,,ØsterhavsSamer og Fjellsamer,RA/EA-4092/R69/L4857,19,https://media.digitalarkivet.no/view/48955/20,Nei,Nei,x,x,x
 Leidang- & Skattemanntall,1716,Finnmark,Bygder og Finnebyer,Norge,Hans Solgaard,,Sjøsamer og Nordmenn,RA/EA-4092/R69/L4857,28,https://media.digitalarkivet.no/view/48955/28,Nei,Nei,x,x,x
 Landwaren,1716,Finnmark,Husholdning,Norge,Hans Solgaard,,Liste over de bønder som bor på sørøya,RA/EA-4092/R69/L4857,57,x,Nei,Nei,x,x,x
 Skattemanntall,1716,Finnmark,Finnebyer,Norge,Ukjent,,ØsterhavsSamer og Fjellsamer,SATØ/S-1120/1Cn/L2879/0002/1706-1716,Ukjent,https://drive.google.com/file/d/1aMa_4xrNag-FJyA_CQLIHsohwnQzA7PB/view?usp=drive_link,Nei,Nei,x,x,x
 Skattemanntall,1716,Finnmark,Finnebyer,Norge,Ukjent,,ØsterhavsSamer og Fjellsamer,SATØ/S-1120/1Cn/L2879/0002/1706-1716,Ukjent,https://drive.google.com/file/d/19HRHOp9p5Dbmw_1UAQ-K8i52VM5N6Ifz/view?usp=drive_link,Nei,Nei,x,x,x
-Fogderegnskap (?),1716,Troms,,,,,,RA/EA-4092/R68/L4762/1716-,,https://media.digitalarkivet.no/view/48860/20,Nei,Nei,x,x,x
+Fogderegnskap (?),1716,Troms,,Norge,,,,RA/EA-4092/R68/L4762/1716-,,https://media.digitalarkivet.no/view/48860/20,Nei,Nei,x,x,x
 Skattemanntall,1717,Finnmark,Finnebyer,Norge,Hans Solgaard,,ØsterhavsSamer og Fjellsamer,RA/EA-4092/R69/L4857,207,https://media.digitalarkivet.no/view/48955/208,Nei,Nei,x,x,x
 Leidang- & Skattemanntall,1717,Finnmark,Bygder og Finnebyer,Norge,Hans Solgaard,,Sjøsamer og Nordmenn,RA/EA-4092/R69/L4857,216,https://media.digitalarkivet.no/view/48955/216,Nei,Nei,x,x,x
 Landwaren,1717,Finnmark,Husholdning,Norge,Hans Solgaard,,Liste over de bønder som bor på sørøya,RA/EA-4092/R69/L4857,248,x,Nei,Nei,x,x,x
-Fogderegnskap (?),1717,Troms,,,,,,RA/EA-4092/R68/L4763/1717-,,https://media.digitalarkivet.no/view/48861/47,Nei,Nei,x,x,x
+Fogderegnskap (?),1717,Troms,,Norge,,,,RA/EA-4092/R68/L4763/1717-,,https://media.digitalarkivet.no/view/48861/47,Nei,Nei,x,x,x
 Skattemanntall,1718,Finnmark,Finnebyer,Norge,Hans Solgaard,,ØsterhavsSamer og Fjellsamer,RA/EA-4092/R69/L4857,439,https://media.digitalarkivet.no/view/48955/440,Nei,Nei,x,x,x
 Leidang- & Skattemanntall,1718,Finnmark,Bygder og Finnebyer,Norge,Hans Solgaard,,Sjøsamer og Nordmenn,RA/EA-4092/R69/L4857,448,https://media.digitalarkivet.no/view/48955/448,Nei,Nei,x,x,x
 Landwaren,1718,Finnmark,Husholdning,Norge,Hans Solgaard,,Liste over de bønder som bor på sørøya,RA/EA-4092/R69/L4857,477,x,Nei,Nei,x,x,x
-Fogderegnskap (?),1718,Troms,,,,,,RA/EA-4092/R68/L4764/1718-,,https://media.digitalarkivet.no/view/48862/27,Nei,Nei,x,x,x
-Fogderegnskap (?),1719,Finnmark,,,,,På Riksarkivet,RA/EA-4092/R69/L4858/1719-1720,,x,Nei,Nei,x,x,x
-Fogderegnskap (?),1719,Troms,,,,,,RA/EA-4092/R68/L4765/1719-,,x,Nei,Nei,x,x,x
-Fogderegnskap (?),1720,Finnmark,,,,,På Riksarkivet,RA/EA-4092/R69/L4858/1719-1720,,x,Nei,Nei,x,x,x
-Fogderegnskap (?),1720,Troms,,,,,,RA/EA-4092/R68/L4766/1720-,,x,Nei,Nei,x,x,x
-Fogderegnskap (?),1721,Finnmark,,,,,På Riksarkivet, RA/EA-4092/R69/L4859/1721-1722,,x,Nei,Nei,x,x,x
-Fogderegnskap (?),1721,Troms,,,,,,RA/EA-4092/R68/L4767/1721-,,x,Nei,Nei,x,x,x
-Fogderegnskap (?),1722,Finnmark,,,,,På Riksarkivet, RA/EA-4092/R69/L4859/1721-1722,,x,Nei,Nei,x,x,x
-Fogderegnskap (?),1722,Troms,,,,,,RA/EA-4092/R68/L4768/1722-,,x,Nei,Nei,x,x,x
-Matrikkel,1723,,,,,,Matrikkelen fra 1723,,,,,,x,x,x
-Fogderegnskap (?),1723,Finnmark,,,,,På Riksarkivet, RA/EA-4092/R69/L4860/1723-1724,,x,Nei,Nei,x,x,x
-Fogderegnskap (?),1723,Troms,,,,,,RA/EA-4092/R68/L4769/1723-,,x,Nei,Nei,x,x,x
-Fogderegnskap (?),1724,Finnmark,,,,,På Riksarkivet, RA/EA-4092/R69/L4860/1723-1724,,x,Nei,Nei,x,x,x
-Fogderegnskap (?),1724,Troms,,,,,,RA/EA-4092/R68/L4770/1724-,,x,Nei,Nei,x,x,x
-Fogderegnskap (?),1724,Troms,,,,,,RA/EA-4092/R68/L4771/1724-,,x,Nei,Nei,x,x,x
-Fogderegnskap (?),1725,Finnmark,,,,,På Riksarkivet, RA/EA-4092/R69/L4861/1725-1726,,x,Nei,Nei,x,x,x
-Fogderegnskap (?),1725,Troms,,,,,,RA/EA-4092/R68/L4772/1725-,,x,Nei,Nei,x,x,x
-Fogderegnskap (?),1726,Finnmark,,,,,På Riksarkivet, RA/EA-4092/R69/L4861/1725-1726,,x,Nei,Nei,x,x,x
-Fogderegnskap (?),1726,Troms,,,,,,RA/EA-4092/R68/L4773/1726-,,x,Nei,Nei,x,x,x
-Fogderegnskap (?),1727,Finnmark,,,,,På Riksarkivet,RA/EA-4092/R69/L4862/1727-1728,,x,Nei,Nei,x,x,x
-Fogderegnskap (?),1727,Troms,,,,,,RA/EA-4092/R68/L4774/1727-,,x,Nei,Nei,x,x,x
-Fogderegnskap (?),1728,Finnmark,,,,,På Riksarkivet,RA/EA-4092/R69/L4862/1727-1728,,x,Nei,Nei,x,x,x
+Fogderegnskap (?),1718,Troms,,,,,"Ukatalogisert, På Riksarkivet",RA/EA-4092/R68/L4764/1718-,,https://media.digitalarkivet.no/view/48862/27,Nei,Nei,x,x,x
+Fogderegnskap (?),1719,Finnmark,,,,,"Ukatalogisert, På Riksarkivet",RA/EA-4092/R69/L4858/1719-1720,,x,Nei,Nei,x,x,x
+Fogderegnskap (?),1719,Troms,,,,,"Ukatalogisert, På Riksarkivet",RA/EA-4092/R68/L4765/1719-,,x,Nei,Nei,x,x,x
+Fogderegnskap (?),1720,Finnmark,,,,,"Ukatalogisert, På Riksarkivet",RA/EA-4092/R69/L4858/1719-1720,,x,Nei,Nei,x,x,x
+Fogderegnskap (?),1720,Troms,,,,,"Ukatalogisert, På Riksarkivet",RA/EA-4092/R68/L4766/1720-,,x,Nei,Nei,x,x,x
+Fogderegnskap (?),1721,Finnmark,,,,,"Ukatalogisert, På Riksarkivet", RA/EA-4092/R69/L4859/1721-1722,,x,Nei,Nei,x,x,x
+Fogderegnskap (?),1721,Troms,,,,,"Ukatalogisert, På Riksarkivet",RA/EA-4092/R68/L4767/1721-,,x,Nei,Nei,x,x,x
+Fogderegnskap (?),1722,Finnmark,,,,,"Ukatalogisert, På Riksarkivet", RA/EA-4092/R69/L4859/1721-1722,,x,Nei,Nei,x,x,x
+Fogderegnskap (?),1722,Troms,,,,,"Ukatalogisert, På Riksarkivet",RA/EA-4092/R68/L4768/1722-,,x,Nei,Nei,x,x,x
+Matrikkel,1723,Nord-Norge,,,,,"Matrikkelen fra 1723, ikke funnet eller katalogisert, men den finnes. ",,,,,,x,x,x
+Fogderegnskap (?),1723,Finnmark,,,,,"Ukatalogisert, På Riksarkivet", RA/EA-4092/R69/L4860/1723-1724,,x,Nei,Nei,x,x,x
+Fogderegnskap (?),1723,Troms,,,,,"Ukatalogisert, På Riksarkivet",RA/EA-4092/R68/L4769/1723-,,x,Nei,Nei,x,x,x
+Fogderegnskap (?),1724,Finnmark,,,,,"Ukatalogisert, På Riksarkivet", RA/EA-4092/R69/L4860/1723-1724,,x,Nei,Nei,x,x,x
+Fogderegnskap (?),1724,Troms,,,,,"Ukatalogisert, På Riksarkivet",RA/EA-4092/R68/L4770/1724-,,x,Nei,Nei,x,x,x
+Fogderegnskap (?),1724,Troms,,,,,"Ukatalogisert, På Riksarkivet",RA/EA-4092/R68/L4771/1724-,,x,Nei,Nei,x,x,x
+Fogderegnskap (?),1725,Finnmark,,,,,"Ukatalogisert, På Riksarkivet", RA/EA-4092/R69/L4861/1725-1726,,x,Nei,Nei,x,x,x
+Fogderegnskap (?),1725,Troms,,,,,"Ukatalogisert, På Riksarkivet",RA/EA-4092/R68/L4772/1725-,,x,Nei,Nei,x,x,x
+Fogderegnskap (?),1726,Finnmark,,,,,"Ukatalogisert, På Riksarkivet", RA/EA-4092/R69/L4861/1725-1726,,x,Nei,Nei,x,x,x
+Fogderegnskap (?),1726,Troms,,,,,"Ukatalogisert, På Riksarkivet",RA/EA-4092/R68/L4773/1726-,,x,Nei,Nei,x,x,x
+Fogderegnskap (?),1727,Finnmark,,,,,"Ukatalogisert, På Riksarkivet",RA/EA-4092/R69/L4862/1727-1728,,x,Nei,Nei,x,x,x
+Fogderegnskap (?),1727,Troms,,,,,"Ukatalogisert, På Riksarkivet",RA/EA-4092/R68/L4774/1727-,,x,Nei,Nei,x,x,x
+Fogderegnskap (?),1728,Finnmark,,,,,"Ukatalogisert, På Riksarkivet",RA/EA-4092/R69/L4862/1727-1728,,x,Nei,Nei,x,x,x
 Skattemanntall,1728,Finnmark,Finnebyer,Norge,Ukjent,,ØsterhavsSamer og Fjellsamer,SATØ/S-1120/1Cn/L2879/0003/1728-1734,Ukjent,https://drive.google.com/file/d/15xtoo0pmY-nkXdfjanlw9c1NPJVBFKPC/view?usp=drive_link,Nei,Nei,x,x,x
-Fogderegnskap (?),1728,Troms,,,,,,RA/EA-4092/R68/L4775/1728-,,x,Nei,Nei,x,x,x
-Fogderegnskap (?),1728,Troms,,,,,,RA/EA-4092/R68/L4776/1728-,,x,Nei,Nei,x,x,x
-Fogderegnskap (?),1729,Finnmark,,,,,På Riksarkivet,RA/EA-4092/R69/L4863/1729-1730,,x,Nei,Nei,x,x,x
+Fogderegnskap (?),1728,Troms,,,,,"Ukatalogisert, På Riksarkivet",RA/EA-4092/R68/L4775/1728-,,x,Nei,Nei,x,x,x
+Fogderegnskap (?),1728,Troms,,,,,"Ukatalogisert, På Riksarkivet",RA/EA-4092/R68/L4776/1728-,,x,Nei,Nei,x,x,x
+Fogderegnskap (?),1729,Finnmark,,,,,"Ukatalogisert, På Riksarkivet",RA/EA-4092/R69/L4863/1729-1730,,x,Nei,Nei,x,x,x
 Skattemanntall,1729,Finnmark,Finnebyer og bygder,Norge,Ukjent,,ØsterhavsSamer og Fjellsamer,SATØ/S-1120/1Cn/L2879/0003/1728-1734,Ukjent,https://drive.google.com/file/d/1LXzfgnDSG-n8ecW_rKoG94UKbAzaWnND/view?usp=drive_link,Nei,Nei,x,x,x
-Fogderegnskap (?),1729,Troms,,,,,,RA/EA-4092/R68/L4777/1729-,,x,Nei,Nei,x,x,x
-Fogderegnskap (?),1729,Troms,,,,,,RA/EA-4092/R68/L4778/1729-,,x,Nei,Nei,x,x,x
-Fogderegnskap (?),1730,Finnmark,,,,,På Riksarkivet,RA/EA-4092/R69/L4863/1729-1730,,x,Nei,Nei,x,x,x
-Fogderegnskap (?),1730,Troms,,,,,,RA/EA-4092/R68/L4779/1730-,,x,Nei,Nei,x,x,x
-Fogderegnskap (?),1730,Troms,,,,,,RA/EA-4092/R68/L4780/1730-,,x,Nei,Nei,x,x,x
-Fogderegnskap (?),1731,Finnmark,,,,,På Riksarkivet,RA/EA-4092/R69/L4864/1731-,,x,Nei,Nei,x,x,x
+Fogderegnskap (?),1729,Troms,,,,,"Ukatalogisert, På Riksarkivet",RA/EA-4092/R68/L4777/1729-,,x,Nei,Nei,x,x,x
+Fogderegnskap (?),1729,Troms,,,,,"Ukatalogisert, På Riksarkivet",RA/EA-4092/R68/L4778/1729-,,x,Nei,Nei,x,x,x
+Fogderegnskap (?),1730,Finnmark,,,,,"Ukatalogisert, På Riksarkivet",RA/EA-4092/R69/L4863/1729-1730,,x,Nei,Nei,x,x,x
+Fogderegnskap (?),1730,Troms,,,,,"Ukatalogisert, På Riksarkivet",RA/EA-4092/R68/L4779/1730-,,x,Nei,Nei,x,x,x
+Fogderegnskap (?),1730,Troms,,,,,"Ukatalogisert, På Riksarkivet",RA/EA-4092/R68/L4780/1730-,,x,Nei,Nei,x,x,x
+Fogderegnskap (?),1731,Finnmark,,,,,"Ukatalogisert, På Riksarkivet",RA/EA-4092/R69/L4864/1731-,,x,Nei,Nei,x,x,x
 Skattemanntall,1731,Finnmark,Finnebyer og bygder,Norge,Ukjent,,Samer og Nordmenn,SATØ/S-1120/1Cn/L2879/0003/1728-1734,Ukjent,https://drive.google.com/file/d/1Qhqhyu_ixe6s6lTwkzhGUtwSJ_oVXOpy/view?usp=drive_link,Nei,Nei,x,x,x
-Fogderegnskap (?),1731,Troms,,,,,,RA/EA-4092/R68/L4781/1731-,,x,Nei,Nei,x,x,x
-Fogderegnskap (?),1731,Troms,,,,,,RA/EA-4092/R68/L4782/1731-,,x,Nei,Nei,x,x,x
-Fogderegnskap (?),1732,Finnmark,,,,,På Riksarkivet,RA/EA-4092/R69/L4865/1732-,,x,Nei,Nei,x,x,x
-Fogderegnskap (?),1732,Troms,,,,,,RA/EA-4092/R68/L4783/1732-,,x,Nei,Nei,x,x,x
-Fogderegnskap (?),1733,Finnmark,,,,,På Riksarkivet,RA/EA-4092/R69/L4866/1733-,,x,Nei,Nei,x,x,x
+Fogderegnskap (?),1731,Troms,,,,,"Ukatalogisert, På Riksarkivet",RA/EA-4092/R68/L4781/1731-,,x,Nei,Nei,x,x,x
+Fogderegnskap (?),1731,Troms,,,,,"Ukatalogisert, På Riksarkivet",RA/EA-4092/R68/L4782/1731-,,x,Nei,Nei,x,x,x
+Fogderegnskap (?),1732,Finnmark,,,,,"Ukatalogisert, På Riksarkivet",RA/EA-4092/R69/L4865/1732-,,x,Nei,Nei,x,x,x
+Fogderegnskap (?),1732,Troms,,,,,"Ukatalogisert, På Riksarkivet",RA/EA-4092/R68/L4783/1732-,,x,Nei,Nei,x,x,x
+Fogderegnskap (?),1733,Finnmark,,,,,"Ukatalogisert, På Riksarkivet",RA/EA-4092/R69/L4866/1733-,,x,Nei,Nei,x,x,x
 Skattemanntall,1733,Finnmark,Finnebyer,Norge,Ukjent,,ØsterhavsSamer og Fjellsamer,SATØ/S-1120/1Cn/L2879/0003/1728-1734,Ukjent,https://drive.google.com/file/d/11Lded8UEGwETxoEhgDGpoj6ea9HrMgJ4/view?usp=drive_link,Nei,Nei,x,x,x
-Fogderegnskap (?),1733,Troms,,,,,,RA/EA-4092/R68/L4784/1733-,,x,Nei,Nei,x,x,x
-Fogderegnskap (?),1734,Finnmark,,,,,På Riksarkivet,RA/EA-4092/R69/L4867/1734-,,x,Nei,Nei,x,x,x
+Fogderegnskap (?),1733,Troms,,,,,"Ukatalogisert, På Riksarkivet",RA/EA-4092/R68/L4784/1733-,,x,Nei,Nei,x,x,x
+Fogderegnskap (?),1734,Finnmark,,,,,"Ukatalogisert, På Riksarkivet",RA/EA-4092/R69/L4867/1734-,,x,Nei,Nei,x,x,x
 Skattemanntall,1734,Finnmark,Finnebyer,Norge,Ukjent,,ØsterhavsSamer og Fjellsamer,SATØ/S-1120/1Cn/L2879/0003/1728-1734,Ukjent,https://drive.google.com/file/d/1n-xjYe79hoIjwtY4Fdwdy_gPe7sqkdl8/view?usp=drive_link,Nei,Nei,x,x,x
-Fogderegnskap (?),1734,Troms,,,,,,RA/EA-4092/R68/L4785/1734-,,x,Nei,Nei,x,x,x
-Fogderegnskap (?),1735,Finnmark,,,,,På Riksarkivet,RA/EA-4092/R69/L4868/1735-,,x,Nei,Nei,x,x,x
-Fogderegnskap (?),1735,Troms,,,,,,RA/EA-4092/R68/L4786/1735-,,x,Nei,Nei,x,x,x
-Fogderegnskap (?),1736,Finnmark,,,,,På Riksarkivet,RA/EA-4092/R69/L4869/1736-1737,,x,Nei,Nei,x,x,x
-Fogderegnskap (?),1736,Troms,,,,,,RA/EA-4092/R68/L4787/1736-,,x,Nei,Nei,x,x,x
-Fogderegnskap (?),1737,Finnmark,,,,,På Riksarkivet,RA/EA-4092/R69/L4869/1736-1737,,x,Nei,Nei,x,x,x
-Fogderegnskap (?),1737,Troms,,,,,,RA/EA-4092/R68/L4788/1737-,,x,Nei,Nei,x,x,x
-Fogderegnskap (?),1738,Finnmark,,,,,På Riksarkivet,RA/EA-4092/R69/L4870/1738-,,x,Nei,Nei,x,x,x
-Fogderegnskap (?),1738,Troms,,,,,,RA/EA-4092/R68/L4789/1738-,,x,Nei,Nei,x,x,x
-Fogderegnskap (?),1739,Finnmark,,,,,På Riksarkivet,RA/EA-4092/R69/L4871/1739-,,x,Nei,Nei,x,x,x
-Fogderegnskap (?),1739,Troms,,,,,,RA/EA-4092/R68/L4790/1739-,,x,Nei,Nei,x,x,x
-Fogderegnskap (?),1740,Finnmark,,,,,På Riksarkivet,RA/EA-4092/R69/L4872/1740-1741,,x,Nei,Nei,x,x,x
+Fogderegnskap (?),1734,Troms,,,,,"Ukatalogisert, På Riksarkivet",RA/EA-4092/R68/L4785/1734-,,x,Nei,Nei,x,x,x
+Fogderegnskap (?),1735,Finnmark,,,,,"Ukatalogisert, På Riksarkivet",RA/EA-4092/R69/L4868/1735-,,x,Nei,Nei,x,x,x
+Fogderegnskap (?),1735,Troms,,,,,"Ukatalogisert, På Riksarkivet",RA/EA-4092/R68/L4786/1735-,,x,Nei,Nei,x,x,x
+Fogderegnskap (?),1736,Finnmark,,,,,"Ukatalogisert, På Riksarkivet",RA/EA-4092/R69/L4869/1736-1737,,x,Nei,Nei,x,x,x
+Fogderegnskap (?),1736,Troms,,,,,"Ukatalogisert, På Riksarkivet",RA/EA-4092/R68/L4787/1736-,,x,Nei,Nei,x,x,x
+Fogderegnskap (?),1737,Finnmark,,,,,"Ukatalogisert, På Riksarkivet",RA/EA-4092/R69/L4869/1736-1737,,x,Nei,Nei,x,x,x
+Fogderegnskap (?),1737,Troms,,,,,"Ukatalogisert, På Riksarkivet",RA/EA-4092/R68/L4788/1737-,,x,Nei,Nei,x,x,x
+Fogderegnskap (?),1738,Finnmark,,,,,"Ukatalogisert, På Riksarkivet",RA/EA-4092/R69/L4870/1738-,,x,Nei,Nei,x,x,x
+Fogderegnskap (?),1738,Troms,,,,,"Ukatalogisert, På Riksarkivet",RA/EA-4092/R68/L4789/1738-,,x,Nei,Nei,x,x,x
+Fogderegnskap (?),1739,Finnmark,,,,,"Ukatalogisert, På Riksarkivet",RA/EA-4092/R69/L4871/1739-,,x,Nei,Nei,x,x,x
+Fogderegnskap (?),1739,Troms,,,,,"Ukatalogisert, På Riksarkivet",RA/EA-4092/R68/L4790/1739-,,x,Nei,Nei,x,x,x
+Fogderegnskap (?),1740,Finnmark,,,,,"Ukatalogisert, På Riksarkivet",RA/EA-4092/R69/L4872/1740-1741,,x,Nei,Nei,x,x,x
 Jordebok,1740,"Torne, Indre Finnmark, Kemi",Husholdning,Sverige,,,Fjellsamer,SE/HLA/1030007/G III a/4 (1740),113-,https://sok.riksarkivet.se/bildvisning/H0000015_00113,Nei,Nei,x,x,x
-Fogderegnskap (?),1740,Troms,,,,,,RA/EA-4092/R68/L4791/1740-,,x,Nei,Nei,x,x,x
-Fogderegnskap (?),1741,Finnmark,,,,,På Riksarkivet,RA/EA-4092/R69/L4872/1740-1741,,x,Nei,Nei,x,x,x
-Fogderegnskap (?),1741,Troms,,,,,,RA/EA-4092/R68/L4792/1741-,,x,Nei,Nei,x,x,x
-Fogderegnskap (?),1742,Finnmark,,,,,På Riksarkivet,RA/EA-4092/R69/L4873/1742-1743,,x,Nei,Nei,x,x,x
-Fogderegnskap (?),1742,Troms,,,,,,RA/EA-4092/R68/L4793/1742-,,x,Nei,Nei,x,x,x
-Fogderegnskap (?),1743,Finnmark,,,,,På Riksarkivet,RA/EA-4092/R69/L4873/1742-1743,,x,Nei,Nei,x,x,x
-Fogderegnskap (?),1743,Troms,,,,,,RA/EA-4092/R68/L4794/1743-,,x,Nei,Nei,x,x,x
-Fogderegnskap (?),1744,Finnmark,,,,,På Riksarkivet,RA/EA-4092/R69/L4874/1744-1745,,x,Nei,Nei,x,x,x
-Fogderegnskap (?),1744,Troms,,,,,,RA/EA-4092/R68/L4795/1744-,,x,Nei,Nei,x,x,x
-Fogderegnskap (?),1745,Finnmark,,,,,På Riksarkivet,RA/EA-4092/R69/L4874/1744-1745,,x,Nei,Nei,x,x,x
-Fogderegnskap (?),1745,Troms,,,,,,RA/EA-4092/R68/L4796/1745-,,x,Nei,Nei,x,x,x
-Fogderegnskap (?),1745,Troms,,,,,,RA/EA-4092/R68/L4797/1745-,,x,Nei,Nei,x,x,x
-Fogderegnskap (?),1746,Finnmark,,,,,På Riksarkivet,RA/EA-4092/R69/L4875/1746-1747,,x,Nei,Nei,x,x,x
-Fogderegnskap (?),1746,Troms,,,,,,RA/EA-4092/R68/L4798/1746-,,x,Nei,Nei,x,x,x
-Fogderegnskap (?),1747,Finnmark,,,,,På Riksarkivet,RA/EA-4092/R69/L4875/1746-1747,,x,Nei,Nei,x,x,x
-Fogderegnskap (?),1747,Troms,,,,,,RA/EA-4092/R68/L4799/1747-,,x,Nei,Nei,x,x,x
-Fogderegnskap (?),1748,Finnmark,,,,,På Riksarkivet,RA/EA-4092/R69/L4876/1748-1749,,x,Nei,Nei,x,x,x
-Fogderegnskap (?),1748,Troms,,,,,,RA/EA-4092/R68/L4800/1748-,,x,Nei,Nei,x,x,x
-Fogderegnskap (?),1749,Troms,,,,,,RA/EA-4092/R68/L4801/1749-1750,,x,Nei,Nei,x,x,x
-Fogderegnskap (?),1750,Troms,,,,,,RA/EA-4092/R68/L4801/1749-1750,,x,Nei,Nei,x,x,x
+Fogderegnskap (?),1740,Troms,,,,,"Ukatalogisert, På Riksarkivet",RA/EA-4092/R68/L4791/1740-,,x,Nei,Nei,x,x,x
+Fogderegnskap (?),1741,Finnmark,,,,,"Ukatalogisert, På Riksarkivet",RA/EA-4092/R69/L4872/1740-1741,,x,Nei,Nei,x,x,x
+Fogderegnskap (?),1741,Troms,,,,,"Ukatalogisert, På Riksarkivet",RA/EA-4092/R68/L4792/1741-,,x,Nei,Nei,x,x,x
+Fogderegnskap (?),1742,Finnmark,,,,,"Ukatalogisert, På Riksarkivet",RA/EA-4092/R69/L4873/1742-1743,,x,Nei,Nei,x,x,x
+Fogderegnskap (?),1742,Troms,,,,,"Ukatalogisert, På Riksarkivet",RA/EA-4092/R68/L4793/1742-,,x,Nei,Nei,x,x,x
+Fogderegnskap (?),1743,Finnmark,,,,,"Ukatalogisert, På Riksarkivet",RA/EA-4092/R69/L4873/1742-1743,,x,Nei,Nei,x,x,x
+Fogderegnskap (?),1743,Troms,,,,,"Ukatalogisert, På Riksarkivet",RA/EA-4092/R68/L4794/1743-,,x,Nei,Nei,x,x,x
+Fogderegnskap (?),1744,Finnmark,,,,,"Ukatalogisert, På Riksarkivet",RA/EA-4092/R69/L4874/1744-1745,,x,Nei,Nei,x,x,x
+Fogderegnskap (?),1744,Troms,,,,,"Ukatalogisert, På Riksarkivet",RA/EA-4092/R68/L4795/1744-,,x,Nei,Nei,x,x,x
+Fogderegnskap (?),1745,Finnmark,,,,,"Ukatalogisert, På Riksarkivet",RA/EA-4092/R69/L4874/1744-1745,,x,Nei,Nei,x,x,x
+Fogderegnskap (?),1745,Troms,,,,,"Ukatalogisert, På Riksarkivet",RA/EA-4092/R68/L4796/1745-,,x,Nei,Nei,x,x,x
+Fogderegnskap (?),1745,Troms,,,,,"Ukatalogisert, På Riksarkivet",RA/EA-4092/R68/L4797/1745-,,x,Nei,Nei,x,x,x
+Fogderegnskap (?),1746,Finnmark,,,,,"Ukatalogisert, På Riksarkivet",RA/EA-4092/R69/L4875/1746-1747,,x,Nei,Nei,x,x,x
+Fogderegnskap (?),1746,Troms,,,,,"Ukatalogisert, På Riksarkivet",RA/EA-4092/R68/L4798/1746-,,x,Nei,Nei,x,x,x
+Fogderegnskap (?),1747,Finnmark,,,,,"Ukatalogisert, På Riksarkivet",RA/EA-4092/R69/L4875/1746-1747,,x,Nei,Nei,x,x,x
+Fogderegnskap (?),1747,Troms,,,,,"Ukatalogisert, På Riksarkivet",RA/EA-4092/R68/L4799/1747-,,x,Nei,Nei,x,x,x
+Fogderegnskap (?),1748,Finnmark,,,,,"Ukatalogisert, På Riksarkivet",RA/EA-4092/R69/L4876/1748-1749,,x,Nei,Nei,x,x,x
+Fogderegnskap (?),1748,Troms,,,,,"Ukatalogisert, På Riksarkivet",RA/EA-4092/R68/L4800/1748-,,x,Nei,Nei,x,x,x
+Fogderegnskap (?),1749,Troms,,,,,"Ukatalogisert, På Riksarkivet",RA/EA-4092/R68/L4801/1749-1750,,x,Nei,Nei,x,x,x
+Fogderegnskap (?),1750,Troms,,,,,"Ukatalogisert, På Riksarkivet",RA/EA-4092/R68/L4801/1749-1750,,x,Nei,Nei,x,x,x
 Manntall,1751,Finnmark,Finnebyer,Norge,Ukjent,,ØsterhavsSamer og Fjellsamer,SATØ/S-1120/1Cn/L2879/0003/1728-1734,Ukjent,https://drive.google.com/file/d/1Cvs2vn2iLrS_d_CFFx-6FydzJk-PmLK2/view?usp=drive_link,Nei,Nei,x,x,x
 Manntall,1762,Finnmark,Finnebyer og Bygder,Norge,Ukjent,,Samer og Nordmenn,SATØ/S-1120/1Cn/L2879/0003/1728-1734,Ukjent,https://drive.google.com/file/d/11TPyzZfdSj55DpbJO-qHaJYUHBryITkj/view?usp=drive_link,Nei,Nei,x,x,x
 Manntall,1796,Sør-Troms,Bygder,Norge,Ukjent,,Nordmenn,SATØ/S-1120/1Cn/L2879/0003/1728-1734,Ukjent,https://drive.google.com/file/d/1lgPROzJCyFTDwgylZeTlt9P19AcQe9qY/view?usp=drive_link,Nei,Nei,x,x,x
-Manntall,1609,Salten,,Norge,,,"Skap 9, pakke 130: Manntall over bønder og samer i Salten len som møtte med våpen 1609",AV/RA-EA-4061/F/L0025,,https://media.digitalarkivet.no/view/65934/308,Nei,Nei,x,x,x
+Manntall,1609,Salten,,Norge,,,Manntall over bønder og samer i Salten len som møtte med våpen 1609,AV/RA-EA-4061/F/L0025,,https://media.digitalarkivet.no/view/65934/308,Nei,Nei,x,x,x
