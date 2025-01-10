@@ -4,9 +4,10 @@ title: "Historical Sources from the High North (Pre-1750)"
 # You can also add `author_profile: true` if you want a sidebar author box 
 # and you've set up _data/authors. For now, let's keep it simple.
 ---
+## Historical Sources from the High North (Pre-1750):
 
 Welcome to an ever-growing treasure trove of historical source material from the northernmost 
-reaches of Fenno-Scandinavia, all dating back prior to 1750! ❄️📜 Whether you’re a researcher, a student, 
+reaches of Fenno-Scandinavia, all dating back to before 1750! ❄️📜 Whether you’re a researcher, a student, 
 or simply curious, I hope these documents ignite new insights into this fascinating region. 
 If you discover missing sources or have suggestions, please reach out and help this archive thrive. 🙌✨
 
@@ -21,13 +22,12 @@ multiple national archives, making any research a profound hazzle.
 ![Map of the Region]({{ '/assets/img/Provinces_of_interest.png' | relative_url }})
 
 
-## Contact
-Vetle Lars Wisløff Sandring  
-[https://uit.no/ansatte/person?p_document_id=731704](https://uit.no/ansatte/person?p_document_id=731704)
+## Contributors/ Contact
+Vetle Lars Wisløff Sandring:  [https://uit.no/ansatte/person?p_document_id=731704](https://uit.no/ansatte/person?p_document_id=731704)
 
 ## How to Use 🔎
 1. **Grab the Goods**  
-   Download the CSV files from this repository or view them directly in your browser for a quick overview.
+   Download the CSV files from these pages or view them directly in your browser for a quick overview.
 
 2. **Look at the sources**  
    Most entries have a link to the digitized document. If not, use the archival reference code to find it yourself.
@@ -37,7 +37,7 @@ Vetle Lars Wisløff Sandring
    If you’re using these sources for research, **note the date** you accessed them.
 
 4. **Incomplete by Nature**  
-   There’s no way to guarantee every possible record is included here. 
+   There’s no way to guarantee every possible record is included here. I also find errors every time I look for them. 
    Consider this a perpetual work in progress!
 
 ## Progress ⏳
