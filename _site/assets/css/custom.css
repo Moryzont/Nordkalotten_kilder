@@ -2,29 +2,32 @@
 body {
   margin: 0;
   padding: 0;
-
   color: #2e2e2e;
   font-family: "Merriweather", Georgia, serif;
   line-height: 1.7;
   font-size: 18px;
 
-  /* 1) The main background color */
+  /* Base background color */
   background-color: #e7e7e7;
 
-  /* 2) The background image reference */
-  background-image: url("/Nordkalotten_kilder/assets/img/background.webp");
+  /* Combine a radial gradient overlay with your background image */
+  background-image: 
+    radial-gradient(circle at top right, rgba(231, 231, 231, 0) 0%, #e7e7e7 600px),
+    url("/Nordkalotten_kilder/assets/img/background.webp");
 
-  /* 3) Position the image top-right */
-  background-position: top right;
+  /* Position the gradient and image */
+  background-position: top right, top right;
+  
+  /* Do not repeat the background */
+  background-repeat: no-repeat, no-repeat;
 
-  /* 4) Don’t repeat it */
-  background-repeat: no-repeat;
+  /* Fix the background image in place */
+  background-attachment: fixed;
 
-
-
-  /* 6) Control size - 600px wide, keep aspect ratio */
-  background-size: 600px auto;
+  /* Control image size; gradient scales automatically */
+  background-size: 600px auto, 600px auto;
 }
+
 
 
 
