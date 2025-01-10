@@ -153,11 +153,81 @@ table thead th {
   border: none !important;
 }
 
+#dynamic-table_filter {
+  margin-bottom: 1.5em !important; /* Increased space below the search bar */
+}
 
 
-/* If using DataTables "table-striped" class, 
-   it might override or conflict with these rules, 
-   but generally these rules add onto it. */
+#dynamic-table_filter label {
+  display: flex;
+  align-items: center;
+}
+
+#dynamic-table_filter label input {
+  margin-left: 0.5em; /* Space between label and input */
+  padding: 0.5em;      /* Optional: Better spacing inside input */
+  font-size: 14px;     /* Optional: Adjust font size */
+}
+
+
+
+/* Style the search input field */
+#dynamic-table_filter input {
+  padding: 0.5em !important;      /* Adjust inner padding of the input */
+  font-size: 14px !important;     /* Smaller font size for input */
+  margin-top: 0.5em !important;   /* Additional space above the input if needed */
+  /* Add other styling if desired */
+}
+
+
+
+/* KNAPPP. */
+
+.btn {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  font-size: 12px;
+  font-weight: 600;
+  color: #2e2e2e;
+  background-color: #e7e7e7; 
+  text-decoration: none;
+  border-radius: 2px;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.btn.no-link {
+  background-color: #e7e7e7; /* Same background as buttons, or change as desired */
+  color: #2e2e2e;            /* Text color for "No link" placeholders */
+  /* You can add more customizations here if needed */
+}
+.btn.no-link:hover {
+  background-color: #2e2e2e; /* red on hover */
+  color:#e7e7e7;
+}
+.btn:hover {
+  background-color: #0056b3; /* Darker blue on hover */
+}
+
+.download-btn {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  font-size: 14px;
+  font-weight: 600;
+  color: #fff;
+  background-color: #007bff; /* Blue background for download button */
+  text-decoration: none;
+  border-radius: 4px;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.download-btn:hover {
+  background-color: #0056b3; /* Darker blue on hover */
+}
+
 
 /* If you have a bottom or top scrollbar,
    you can style them further if needed. 

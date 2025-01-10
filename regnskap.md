@@ -5,8 +5,23 @@ title: "Accounts until 1750"
 <h1>Accounts until 1750</h1>
 
 <p>
-  This page loads the .csv file found in the github repo. The search only works for the whole table, sadly. You can sort the table by clicking on the header. You do not see the whole table, so you have to scroll horizontally to see the whole. I recommend downloading it though.
+   Welcome to the accounts table. You can explore the table below, or just download it. The data is available as a .csv file, which you can open in excel or other programs like that. 
+ <p>
+<p>
+
+   The table below can be sorted by clicking on the header, of the column you want to sort. The table is to large to bee seen in its entirety, so you have to scroll horizontally to see the whole table. I recommend downloading it though. 
+<p>
+<p>
+
+   This table contains roughly 3000 rows, so it might take some time if your computer is bad. 
 </p>
+<p>
+
+<a href="{{ '/Sources_by_type/Regnskap_inventar.csv' | relative_url }}" download class="download-btn">
+  Download Accounts CSV
+</a>
+<p>
+
 
 <!-- Main table container -->
 <div id="table-container" style="overflow-x:auto; border:1px solid #ccc;">
@@ -37,64 +52,48 @@ document.addEventListener('DOMContentLoaded', function() {
       console.log("Sample row:", results.data[0]);
       console.log("Fields (headers):", results.meta.fields);
 
-      // 2. Dynamically create DataTables column definitions from the CSV headers
-      // e.g., an array of { title: fieldName, data: fieldName }
-      const dynamicColumns = results.meta.fields.map(field => {
-        return {
-          title: field, // column header text
-          data: field   // property name in each row of data
-        };
-      });
+     // 2. Dynamically create DataTables column definitions from the CSV headers
+const dynamicColumns = results.meta.fields.map(field => {
+  // Basic column setup for each field
+  let col = {
+    title: field,
+    data: field
+  };
 
-      // 3. Initialize DataTables
-      // We’ll attach to #dynamic-table
-      // Let DataTables generate the <thead> from column info we pass
-      const table = $('#dynamic-table').DataTable({
-        data: results.data,       // entire array of objects from CSV
-        columns: dynamicColumns,  // generated from CSV headers
-        scrollX: true,            // horizontal scroll
-        autoWidth: false,
-        paging: false,
-        searching: true,
-        ordering: true,
-        info: false,
-        // "dom" can be customized if you want "Bfrtip" or other DataTables UI
-        dom: 'frtip',  // 'f' filter, 'r' processing display, 't' table, 'i' info, 'p' pagination
-        initComplete: function() {
-          console.log("DataTables initComplete. Rows:", this.api().rows().count());
-        }
-      });
+if (["Digitized_link", "Transcription_link", "Table_link", "Archival_portal_link"].includes(field)) {
+  col.render = function(url) {
+    if (!url || url.trim().toLowerCase() === 'x') {
+  return `<span class="btn no-link"></i> No link</span>`;
+}
+    return `<a href="${url}" target="_blank" class="btn btn-sm btn-primary">Link</a>`;
+  };
+}
 
-      // 4. If you want a global search, DataTables has a search box built in
-      //    or you can place a custom search input somewhere else.
+  return col;
+});
 
-      // 5. Optional top-scroll sync
-      syncTopScrollbar();
+// 3. Initialize DataTables with dynamic columns
+const table = $('#dynamic-table').DataTable({
+  data: results.data,       
+  columns: dynamicColumns,  
+  scrollX: true,            
+  autoWidth: false,
+  paging: false,
+  searching: true,
+  ordering: true,
+  info: false,
+  dom: 'frtip',
+  initComplete: function() {
+            console.log("DataTables initComplete. Rows:", this.api().rows().count());
+            // Set placeholder text for global search input
+            $('div.dataTables_filter input').attr('placeholder', 'Type here to search');
+    
+  }
+});
+
+
     }
   });
 });
 
-// Optional: Sync top scrollbar with table container
-function syncTopScrollbar() {
-  const topScroll = document.getElementById('top-scrollbar');
-  const topScrollContent = document.getElementById('top-scroll-content');
-  const tableContainer = document.getElementById('table-container');
-  const dynamicTable = document.getElementById('dynamic-table');
-
-  function updateScrollWidths() {
-    const w = dynamicTable.scrollWidth;
-    topScrollContent.style.width = w + 'px';
-  }
-
-  topScroll.addEventListener('scroll', () => {
-    tableContainer.scrollLeft = topScroll.scrollLeft;
-  });
-  tableContainer.addEventListener('scroll', () => {
-    topScroll.scrollLeft = tableContainer.scrollLeft;
-  });
-
-  // Give DataTables time to finalize layout
-  setTimeout(updateScrollWidths, 1000);
-  window.addEventListener('resize', updateScrollWidths);
-}
 </script>

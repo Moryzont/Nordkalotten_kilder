@@ -6,8 +6,16 @@ title: "Census and tax records"
 <h1>Census and tax records</h1>
 
 <p>
-  This page loads the .csv file found in the github repo. The search only works for the whole table, sadly. You can sort the table by clicking on the header. You do not see the whole table, so you have to scroll horizontally to see the whole. I recommend downloading it though.
+  Welcome to the census and tax records table. You can explore the table below, or just download it. The data is available as a .csv file, which you can open in excel or other programs like that. 
+  
+   The table below can be sorted by clicking on the header, of the column you want to sort. The table is to large to bee seen in its entirety, so you have to scroll horizontally to see the whole table. I recommend downloading it though. 
 </p>
+
+
+<a href="{{ '/Sources_by_type/Manntall.csv' | relative_url }}" download class="download-btn">
+  Download Manntall CSV
+</a>
+
 
 
 <!-- Main table container -->
@@ -47,15 +55,15 @@ const dynamicColumns = results.meta.fields.map(field => {
     data: field
   };
 
-  // If the field matches one of the URL columns, add a custom renderer
-  if (["Digitized_link", "Transcription_link", "Table_link", "Archival_portal_link"].includes(field)) {
-    col.render = function(url) {
-      if (!url || url.trim().toLowerCase() === 'x') {
-        return `<span class="text-danger"><i class="fas fa-frown"></i> No link</span>`;
-      }
-      return `<a href="${url}" target="_blank" class="btn btn-sm btn-primary">Link</a>`;
-    };
-  }
+if (["Digitized_link", "Transcription_link", "Table_link", "Archival_portal_link"].includes(field)) {
+  col.render = function(url) {
+    if (!url || url.trim().toLowerCase() === 'x') {
+  return `<span class="btn no-link"></i> No link</span>`;
+}
+    return `<a href="${url}" target="_blank" class="btn btn-sm btn-primary">Link</a>`;
+  };
+}
+
   return col;
 });
 
@@ -71,7 +79,9 @@ const table = $('#dynamic-table').DataTable({
   info: false,
   dom: 'frtip',
   initComplete: function() {
-    console.log("DataTables initComplete. Rows:", this.api().rows().count());
+            console.log("DataTables initComplete. Rows:", this.api().rows().count());
+            // Set placeholder text for global search input
+            $('div.dataTables_filter input').attr('placeholder', 'Type here to search');
     
   }
 });
