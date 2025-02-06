@@ -6,8 +6,8 @@ Adevehr;Ávjovárri;Finneby;Svensk_Finnmark;7697317.08;878091.89;Plassert på de
 Adever;Ávjovárri;Finneby;Svensk_Finnmark;7697317.08;878091.89;Plassert på den gamle markedsplassen, etter konsultasjon med Siv og Mikkel. Samiske stedsnavn.
 Adewehr;Ávjovárri;Finneby;Svensk_Finnmark;7697317.08;878091.89;Plassert på den gamle markedsplassen, etter konsultasjon med Siv og Mikkel. Samiske stedsnavn.
 Adwehr;Ávjovárri;Finneby;Svensk_Finnmark;7697317.08;878091.89;Plassert på den gamle markedsplassen, etter konsultasjon med Siv og Mikkel. Samiske stedsnavn.
-Alten;Alta_Tingsted;Tingsted;Alta_Tingsted;7790281.01;802062.86;Plassert på Kirken i Talvik
-Altens Tingsted;Alta_Tingsted;Tingsted;Alta_Tingsted;7790281.01;802062.86;Plassert på Kirken i Talvik
+Alten;Alta_Tingsted_TO;Tingsted;Alta_Tingsted;7790281.01;802062.86;Plassert på Kirken i Talvik
+Altens Tingsted;Alta_Tingsted_TO;Tingsted;Alta_Tingsted;7790281.01;802062.86;Plassert på Kirken i Talvik
 Andersbye;Andersby;Bygd;Vadsø_Tingsted;7842202.58;1050139.99;Plassert på nesset, ved bosetningsfunn på samme sted
 Andsnæs;Andsnes;Bygd;Loppa_Tingsted;7804138.65;735028.71;Plassert på dagens posisjon, midt i veikrysset
 Andsnes;Andsnes;Bygd;Loppa_Tingsted;7804138.65;735028.71;Plassert på dagens posisjon, midt i veikrysset
@@ -99,12 +99,12 @@ Hafuesund;Havøysund;Bygd;Kjelvik_Tingsted;7904957.9;849839.79;Plassert på dage
 Hafvesund;Havøysund;Bygd;Kjelvik_Tingsted;7904957.9;849839.79;Plassert på dagens posisjon
 Hammerfest;Hammerfest;Bygd;Hammerfest_Tingsted;7862751.74;819824;Plassert på dagens posisjon
 Hammerfest paa Qualøen;Hammerfest;Bygd;Hammerfest_Tingsted;7862751.74;819824;Plassert på dagens posisjon
-Hammerfest Tingsted;Hammerfest_Tingsted;Tingsted;Hammerfest_Tingsted;7862751.74;819824;Plassert på dagens posisjon
+Hammerfest Tingsted;Hammerfest_Tingsted_TO;Tingsted;Hammerfest_Tingsted;7862751.74;819824;Plassert på dagens posisjon
 Hasvig;Hasvik;Bygd;Hasvåg_Tingsted;7835836.19;766427.2;Plassert på dagens posisjon
 Hasvog;Hasvåg;Bygd;Hasvåg_Tingsted;7837347.87;765539.38;Plassert på dagens posisjon
-Hasvog Tingsted;Hasvåg_Tingsted;Tingsted;Hasvåg_Tingsted;7837347.87;765539.38;Plassert på dagens posisjon
+Hasvog Tingsted;Hasvåg_Tingsted_TO;Tingsted;Hasvåg_Tingsted;7837347.87;765539.38;Plassert på dagens posisjon
 Haswig;Hasvik;Bygd;Hasvåg_Tingsted;7835836.19;766427.2;Plassert på dagens posisjon
-Haswog Tingsted;Hasvåg_Tingsted;Tingsted;Hasvåg_Tingsted;7837347.87;765539.38;Plassert på dagens posisjon
+Haswog Tingsted;Hasvåg_Tingsted_TO;Tingsted;Hasvåg_Tingsted;7837347.87;765539.38;Plassert på dagens posisjon
 Havdalen;Havdal;Bygd;Loppa_Tingsted;7817324.66;762145.74;Plassert på dagens posisjon, flere tufter på lidar 
 Havesund;Havøysund;Bygd;Kjelvik_Tingsted;7904957.9;849839.79;Plassert på dagens posisjon
 Hellefiord;Hellefjord;Bygd;Hammerfest_Tingsted;7866613.97;804907.9;Plassert på dagens posisjon
@@ -119,7 +119,7 @@ Indiager;Anárjávri;Finneby;Svensk_Finnmark;7691363.28;980027.85;Plassert ved d
 Indiager Finne Bye;Anárjávri;Finneby;Svensk_Finnmark;7691363.28;980027.85;Plassert ved dagens Inari
 Indre Porsanger;Siskkit_Porsáŋgguvuotna;Finneby;Kjelvik_Tingsted;7820766.89;881330.95;Plassert midt i indre porsangerfjord
 Indre Tanne;Siskkit_Deanu;Finneby;Svensk_Finnmark;7845662.51;994247.15;Plassert i Seida, dette er en svært unøyaktig plassering. 
-Ingens Tingsted;Ingøy_Tingsted;Tingsted;Ingøy_Tingsted;7911042.43;826636.5;Plassert på dagens Ingøy tettsted
+Ingens Tingsted;Ingøy_Tingsted_TO;Tingsted;Ingøy_Tingsted;7911042.43;826636.5;Plassert på dagens Ingøy tettsted
 Inggen;Ingøy;Bygd;Ingøy_Tingsted;7911042.43;826636.5;Plassert på dagens Ingøy tettsted
 Inggen, kielvig, Maasøe;Magerøya;Tingsted;Ingøy_Tingsted, Kjelvik_Tingsted, Måsøy_Tingsted;7911978.38;885399.12;Dette er en samling av flere tingssted i Adelaermanntallet. lokasjonen er satt i sentrum av Magerøya
 Jnd: Porsanger;Siskkit_Porsáŋgguvuotna;Finneby;Kjelvik_Tingsted;7820766.89;881330.95;Plassert midt i indre porsangerfjord
@@ -129,7 +129,7 @@ Jndre og Yttre Porsanger;Porsáŋgguvuotna;Finneby;Kjelvik_Tingsted;7844198.48;8
 Jndre og yttre Porsanger;Porsáŋgguvuotna;Finneby;Kjelvik_Tingsted;7844198.48;885783.22;Plassert midt i fjorden ved Kistrand.
 Jndre Porsanger;Siskkit_Porsáŋgguvuotna;Finneby;Kjelvik_Tingsted;7820766.89;881330.95;Plassert midt i indre porsangerfjord
 Jngen;Ingøy;Bygd;Ingøy_Tingsted;7911042.43;826636.5;Plassert på dagens Ingøy tettsted
-Jngens Tingsted;Ingøy_Tingsted;Tingsted;Ingøy_Tingsted;7911042.43;826636.5;Plassert på dagens Ingøy tettsted
+Jngens Tingsted;Ingøy_Tingsted_TO;Tingsted;Ingøy_Tingsted;7911042.43;826636.5;Plassert på dagens Ingøy tettsted
 Jux Bye;Dálvadas;Finneby;Svensk_Finnmark;7779154.7;929961.99;Plassert på Dálvadas etter konsultasjon med Siv
 Juxby;Dálvadas;Finneby;Svensk_Finnmark;7779154.7;929961.99;Plassert på Dálvadas etter konsultasjon med Siv
 JuxBye;Dálvadas;Finneby;Svensk_Finnmark;7779154.7;929961.99;Plassert på Dálvadas etter konsultasjon med Siv
@@ -145,18 +145,18 @@ Kautken;Guovdageaidnu;Finneby;Svensk_Finnmark;7675824.34;821021.15;Plassert på 
 Kautscen;Guovdageaidnu;Finneby;Svensk_Finnmark;7675824.34;821021.15;Plassert på kirken
 Kautschen;Guovdageaidnu;Finneby;Svensk_Finnmark;7675824.34;821021.15;Plassert på kirken
 Kiberg;Kiberg;Bygd;Kiberg_Tingsted;7876678.45;1096204.09;Plassert på dagens sted
-Kiberg Annex og Tingsted;Kiberg_Tingsted;Tingsted;Kiberg_Tingsted;7876678.45;1096204.09;Plassert på dagens sted
-Kiberg Tingsted;Kiberg_Tingsted;Tingsted;Kiberg_Tingsted;7876678.45;1096204.09;Plassert på dagens sted
+Kiberg Annex og Tingsted;Kiberg_Tingsted_TO;Tingsted;Kiberg_Tingsted;7876678.45;1096204.09;Plassert på dagens sted
+Kiberg Tingsted;Kiberg_Tingsted_TO;Tingsted;Kiberg_Tingsted;7876678.45;1096204.09;Plassert på dagens sted
 Kiefiorden;Kifjord;Bygd;Kjøllefjord_Tingsted;7914709.62;949716.93;Plassert ved dagens bebyggelse innerst i Kifjorden. Lite kulturminner og ikke så mange tufter på Lidar
 Kielsnes;Klokkarnes;Bygd;Alta_Tingsted;7790205.27;802517.76;Plassert her da dette var det nærmeste neset til kjelsberget. Det kan like gjerne være Tinahaugen. 
 Kieluig;Kjelvik;Bygd;Kjelvik_Tingsted;7914585.94;901773.78;Plassert på dagens sted
 Kielvig;Kjelvik;Bygd;Kjelvik_Tingsted;7914585.94;901773.78;Plassert på dagens sted
-Kielvig Tingsted;Kjelvik_Tingsted;Tingsted;Kjelvik_Tingsted;7914585.94;901773.78;Plassert på dagens sted
-Kielvigs Tingsted;Kjelvik_Tingsted;Tingsted;Kjelvik_Tingsted;7914585.94;901773.78;Plassert på dagens sted
+Kielvig Tingsted;Kjelvik_Tingsted_TO;Tingsted;Kjelvik_Tingsted;7914585.94;901773.78;Plassert på dagens sted
+Kielvigs Tingsted;Kjelvik_Tingsted_TO;Tingsted;Kjelvik_Tingsted;7914585.94;901773.78;Plassert på dagens sted
 Kielvik;Kjelvik;Bygd;Kjelvik_Tingsted;7914585.94;901773.78;Plassert på dagens sted
 Kiolefiord;Kjøllefjord;Bygd;Kjøllefjord_Tingsted;7917094.28;947261.11;Plassert på dagens sted
-Kiolefiord Tingsted;Kjøllefjord_Tingsted;Tingsted;Kjøllefjord_Tingsted;7917094.28;947261.11;Plassert på dagens sted
-Kiolefiords Tingsted;Kjøllefjord_Tingsted;Tingsted;Kjøllefjord_Tingsted;7917094.28;947261.11;Plassert på dagens sted
+Kiolefiord Tingsted;Kjøllefjord_Tingsted_TO;Tingsted;Kjøllefjord_Tingsted;7917094.28;947261.11;Plassert på dagens sted
+Kiolefiords Tingsted;Kjøllefjord_Tingsted_TO;Tingsted;Kjøllefjord_Tingsted;7917094.28;947261.11;Plassert på dagens sted
 Kiøllefiord;Kjøllefjord;Bygd;Kjøllefjord_Tingsted;7917094.28;947261.11;Plassert på dagens sted
 Klub og Qualsund;Klubbu_Ráhkkerávju;Finneby;Hammerfest_Tingsted;7849763.47;835787.41;Plassert midt mellom klubben og kvalsund
 Klub og Qvalsund;Klubbu_Ráhkkerávju;Finneby;Hammerfest_Tingsted;7849763.47;835787.41;Plassert midt mellom klubben og kvalsund
@@ -189,9 +189,9 @@ Lochrefiord;Ytre_Lokkarfjorden;Bygd;Alta_Tingsted;7808353.38;783213.17;Plassert 
 Lochrefiorden;Ytre_Lokkarfjorden;Bygd;Alta_Tingsted;7808353.38;783213.17;Plassert i ytre Lokkarfjorden, flere tufter her enn i indre Lokkarfjord
 Lockrefiord;Ytre_Lokkarfjorden;Bygd;Alta_Tingsted;7808353.38;783213.17;Plassert i ytre Lokkarfjorden, flere tufter her enn i indre Lokkarfjord
 Lopen;Loppa;Bygd;Loppa_Tingsted;7816037.82;741966.96;Plassert på kirken
-Lopens Tingsted;Loppa_Tingsted;Tingsted;Loppa_Tingsted;7816037.82;741966.96;Plassert på kirken
+Lopens Tingsted;Loppa_Tingsted_TO;Tingsted;Loppa_Tingsted;7816037.82;741966.96;Plassert på kirken
 Loppen;Loppa;Bygd;Loppa_Tingsted;7816037.82;741966.96;Plassert på kirken
-Loppens Tingsted;Loppa_Tingsted;Tingsted;Loppa_Tingsted;7816037.82;741966.96;Plassert på kirken
+Loppens Tingsted;Loppa_Tingsted_TO;Tingsted;Loppa_Tingsted;7816037.82;741966.96;Plassert på kirken
 Loppøen;Loppa;Bygd;Loppa_Tingsted;7816037.82;741966.96;Plassert på kirken
 Lybesby;Davvesiida;Finneby;Kjøllefjord_Tingsted;7873754.68;943005.35;Plassert på kirken
 Lybesbye;Davvesiida;Finneby;Kjøllefjord_Tingsted;7873754.68;943005.35;Plassert på kirken
@@ -202,7 +202,7 @@ Lybsbye;Davvesiida;Finneby;Kjøllefjord_Tingsted;7873754.68;943005.35;Plassert p
 Lybsbye Finne Bye;Davvesiida;Finneby;Kjøllefjord_Tingsted;7873754.68;943005.35;Plassert på kirken
 Maasøe;Måsøy_kirke;Bygd;Måsøy_Tingsted;7908268.23;861719.38;Plassert på kirken
 Maasøe Annex;Måsøy_kirke;Bygd;Måsøy_Tingsted;7908268.23;861719.38;Plassert på kirken
-Maasøe Tingsted;Måsøy_Tingsted;Tingsted;Måsøy_Tingsted;7908268.23;861719.38;Plassert på kirken
+Maasøe Tingsted;Måsøy_Tingsted_TO;Tingsted;Måsøy_Tingsted;7908268.23;861719.38;Plassert på kirken
 Maassøe;Måsøy_kirke;Bygd;Måsøy_Tingsted;7908268.23;861719.38;Plassert på kirken
 Madekurf;Makkaur;Bygd;Vardø_Tingsted;7913266.11;1049325.84;Plassert på dagens Makkaur
 Madkurf;Makkaur;Bygd;Vardø_Tingsted;7913266.11;1049325.84;Plassert på dagens Makkaur
@@ -224,7 +224,7 @@ Nordstiernevog;Midtbukta;Bygd;Hasvåg_Tingsted;7823740.28;782633.06;Plassert i h
 Nusfiord;Nuvsvåg;Bygd;Loppa_Tingsted;7811594.63;767584.91;Plassert i dagens Nusvåg grunnet mengden tufter
 Nysfiord;Nuvsvåg;Bygd;Loppa_Tingsted;7811594.63;767584.91;Plassert i dagens Nusvåg grunnet mengden tufter
 Omgang;Omgang;Bygd;Omgang_Tingsted;7930830.45;987761.2;Plassert på dagens Omgang
-Omgangs Tingsted;Omgang_Tingsted;Bygd;Omgang_Tingsted;7930830.45;987761.2;Plassert på dagens Omgang
+Omgangs Tingsted;Omgang_Tingsted_TO;Bygd;Omgang_Tingsted;7930830.45;987761.2;Plassert på dagens Omgang
 Øskarfiord;Kolsokker;Bygd;Loppa_Tingsted;7796944.55;777648.71;Plassert innenfor Øsekarsnesset. flere tufter her. 
 Oxfiord;Øksfjord;Bygd;Loppa_Tingsted;7809324.57;776766.26;Plassert på dagens Øksfjord
 Øxfiord;Øksfjord;Bygd;Loppa_Tingsted;7809324.57;776766.26;Plassert på dagens Øksfjord
@@ -312,7 +312,7 @@ Tyebye;Kiby;Bygd;Vadsø_Tingsted;7841614.34;1060439.64;Plassert på Kiby, selv o
 Ulfiord;Gammelvær_Loppa;Bygd;Loppa_Tingsted;7816902.44;762832.45;Plassert ytterst i fjorden ved Gammelværet, flere tufter her. 
 Vadsø;Vadsø;Bygd;Vadsø_Tingsted;7841795.88;1056344.71;Plassert på dagens sted
 Vardø;Vardø;Bygd;Vardø_Tingsted;7886981.05;1097597.7;Plassert på dagens sted
-Waardø tingsted;Vardø_Tingsted;Tingsted;Vardø_Tingsted;7886981.05;1097597.7;Plassert på dagens sted
+Waardø tingsted;Vardø_Tingsted_TO;Tingsted;Vardø_Tingsted;7886981.05;1097597.7;Plassert på dagens sted
 Waardøe;Vardø;Bygd;Vardø_Tingsted;7886981.05;1097597.7;Plassert på dagens sted
 Waardøe Tingsted;Vardø_Tingsted;Tingsted;Vardø_Tingsted;7886981.05;1097597.7;Plassert på dagens sted
 Wæhranger;Várjavuonna;Finneby;Vadsø_Tingsted;7842925.18;1053391.33;Plassert veldig omtrentlig. 
@@ -321,9 +321,9 @@ Wanefiord;Gammelvær_Magerøya;Bygd;Måsøy_Tingsted;7914368.03;878576.83;Plasse
 Wannefiord;Gammelvær_Magerøya;Bygd;Måsøy_Tingsted;7914368.03;878576.83;Plassert ved gammelvær, mange tufter på lidar
 Waranger;Várjavuonna;Finneby;Vadsø_Tingsted;7842925.18;1053391.33;Plassert veldig omtrentlig. 
 Wardøe;Vardø;Bygd;Vardø_Tingsted;7886981.05;1097597.7;Plassert på dagens sted
-Wardøe Tingsted;Vardø_Tingsted;Tingsted;Vardø_Tingsted;7886981.05;1097597.7;Plassert på dagens sted
-Wasøe Annex og Tingsted;Vadsø_Tingsted;Tingsted;Vadsø_Tingsted;7841795.88;1056344.71;Plassert på dagens sted
-Wasøe Tingsted;Vadsø_Tingsted;Tingsted;Vadsø_Tingsted;7841795.88;1056344.71;Plassert på dagens sted
+Wardøe Tingsted;Vardø_Tingsted_TO;Tingsted;Vardø_Tingsted;7886981.05;1097597.7;Plassert på dagens sted
+Wasøe Annex og Tingsted;Vadsø_Tingsted_TO;Tingsted;Vadsø_Tingsted;7841795.88;1056344.71;Plassert på dagens sted
+Wasøe Tingsted;Vadsø_Tingsted_TO;Tingsted;Vadsø_Tingsted;7841795.88;1056344.71;Plassert på dagens sted
 Wehranger;Várjavuonna;Finneby;Vadsø_Tingsted;7842925.18;1053391.33;Plassert veldig omtrentlig. 
 Weinæs;Sáltesávju;Finneby;Kjøllefjord_Tingsted;7880219.92;925743.82;Plassert ved kirken
 Weines;Sáltesávju;Finneby;Kjøllefjord_Tingsted;7880219.92;925743.82;Plassert ved kirken
