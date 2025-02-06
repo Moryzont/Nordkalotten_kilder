@@ -1,0 +1,855 @@
+Prefix,Fornavn,Patronym,Tilnavn,Alder og størrelse,Forrige_år,Skatteklasse,Medhandler,Fødested,Etnonym,Ankomstmetode,Hustru,Barn,SteB.,Fstr.B,Tjenere,Søsken,Mor,Far,ukjt.,Tot. hushold,År i Finnmark,merk.,Tellingsområde,Dato,Folio,Ref. utrans.,Referanse transkribert,Side trans.,År
+,Christen,Robertzen,,,,,Hans Dreyer,Vardø,,Fra Finnmark,1,2,,,,,,,,4,,,Wardøe Tingsted,,26,https://www.digitalarkivet.no/db50000075400029,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,185,1690
+,Jacob,Gilbretzen,,,,,Hans Dreyer,Qvindeheret,,Hyrt fra Bergen,1,1,,,,,,,,3,40,,Wardøe Tingsted,,26,https://www.digitalarkivet.no/db50000075400029,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,185,1690
+,Olle,Engelbretzen,,,,,Hans Dreyer,Nordland,,fra Nordland,1,4,,,,,,,,6,24,,Wardøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,185,1690
+,Mads,Jensen,,,,,Hans Dreyer,Christiania,,med Nordlandsfr,1,1,,,,,,,,3,24,,Wardøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,185,1690
+,Niels,Tommesen,,,,,Hans Dreyer,Bergen,,Hyrt fra Bergen,1,3,,,,,,,,5,18,,Wardøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,185,1690
+,Simen,Joensen,,,,,Hans Dreyer,Sunnfiord,,Hyrt fra Bergen,1,1,,,,,,,,3,20,,Wardøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,185,1690
+,Jens,Nielsen,,,,,Hans Dreyer,Helgeland,,med Nordlandsfr,1,,,1,,,,,,3,24,,Wardøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,185,1690
+,Peder,Einersen,,,,,Forlatt,Haranger,,Jens Ørbech fra Bergen,1,,,2,,,,,,4,38,,Wardøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,185,1690
+,Lavritz,Villumsen,,,,,Forlatt,Qvindeherret,,Hyrt fra Bergen,,,,,,,,,,1,27,,Wardøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,186,1690
+,Johanes,Olsen,,,,,Forlatt,Stavanger,,Hyrt fra Bergen,1,,,1,,,,,,3,23,,Wardøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,186,1690
+,Guldbrad,Jensen,,,,,Forlatt,Stavanger,,Hyrt fra Bergen,1,2,,,,,,,,4,36,,Wardøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,186,1690
+,Olle,Berentzen,,,,,Forlatt,Bergenhuus,,Hyrt fra Bergen,1,,,,,,,,,2,19,,Wardøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,186,1690
+,David,Andersen,,,,,Forlatt,Stavanger,,Hyrt fra Bergen,1,4,,,,,,,,6,12,,Wardøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,186,1690
+,Knud,Siversen,,,,,Forlatt,Stavanger,,Hyrt fra Bergen,1,2,,,,,,,,4,13,,Wardøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,186,1690
+,Robert,Robertzen,,,,,Forlatt,Skottland,,Hyrt fra Bergen,1,,1,1,,,,,,4,42,,Wardøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,186,1690
+Slodtz,Johan,Olsen,,,,,Forlatt,Christiania,,Hyrt fra Bergen,,1,,,,,,,,2,38,,Wardøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,186,1690
+,Rasmus,Adriansen,,,,,Forlatt,Der i landet,,Fra Finnmark,1,2,,,,,,,,4,,,Wardøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,186,1690
+,Joen,Nielsen,,,,,Forlatt,Trunheim,,Hyrt fra Bergen,1,,,,,,,,,2,30,,Wardøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,186,1690
+,Olle,Nielsen,,,,,Forlatt,Helgeland,,Med hiemlandsfr,1,2,,,,,,,,4,15,,Wardøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,186,1690
+,Niels,Tøresen,,,,,Forlatt,Bergen,,fra Nordland,1,4,,,,,,,,6,24,,Wardøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,186,1690
+,Daniel,Olsen,,,,,Forlatt,Bergenhuus len,,Hyrt av amtmann Orning,1,1,,,,,,,,3,32,,Wardøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,186,1690
+,Bendix,Pedersen,,,,,Forlatt,Bergenhuus len,,Med Nordlandsfr,1,,1,,,,,,,3,19,,Wardøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,186,1690
+,Johanis,Kaaresen,,,,,Forlatt,Bergenhuus len,,Hyrt av amtmann Orning,,2,,,,,,,,3,29,,Wardøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,186,1690
+,Jens,Knudsen,,,,,Forlatt,Stavanger len,,Hyrt av amtmann Orning,1,3,,,,,,,,5,29,,Wardøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,186,1690
+,Joen,Mickelsen,,,,,Forlatt,Nordhorlehen,,Hyrt fra Nordland,1,,,,,,,,,2,20,,Wardøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,186,1690
+,Olle,Tørgersen,,,,,Forlatt,Stavanger,,fra Nordland,1,2,,,,,,,,4,23,,Wardøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,186,1690
+,Olle,Pedersen,,,,,Forlatt,Bergen,,Hyrt av prosten Moses Sørensen,,2,,,,,,,,3,20,,Wardøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,187,1690
+,Siver,Johansen,,,,,Forlatt,Bergen,,på egenhånd,1,1,,,,,,,,3,vet ikke,,Wardøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,187,1690
+,Olle,Salvesen,,,,,Forlatt,Bergen,,Hyrt av Jens Ørbech,,3,,,,,,,,4,30,,Wardøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,187,1690
+,Olle,Jørgensen,,,,,Forlatt,Nordfiord,,Hyrt av Jens Ørbech,,2,,,,,,,,3,32,,Wardøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,187,1690
+,Fredrik,Sørensen,,,,,Forlatt,der i landet,,Fra Finnmark,1,1,,,1,,,,,4,,,Wardøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,187,1690
+,Niels,Rasmussen,,,,,Forlatt,Bergen,,Hyrt av Lars Sørensen,1,,,,,,,,,2,5,,Wardøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,187,1690
+,Reinert,Andersen,,,,,Forlatt,Sundfiord,,Hyrt fra Bergen,1,2,,,,,,,,4,9,,Wardøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,187,1690
+,Abel,Knudsen,,,,,Forlatt,Nordland,,Hyrt av prosten Moses Sørensen,1,,,,,,,,,2,5,,Wardøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,187,1690
+,Siver,Sørensen,,,,,Forlatt,der i landet,,Fra Finnmark,1,1,,,,,,,,3,,,Wardøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,187,1690
+,Olle,Olsen,,,,,Forlatt,Sundmør,,Hyrt av sorenskriver Bygvad ,1,,,,,,,,,2,25,,Wardøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,187,1690
+,Tollak,Anfindsen,,,,,Forlatt,Sundfior,,Hyrt fra Bergen,1,,,,,,,,,2,40,,Wardøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,187,1690
+,Olle,Hansen,Skyddtzskafer,,,Skyssskaffer,Forlatt,Nordland,,Hyrt fra Nordland,1,1,,,,,,,,3,19,,Wardøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,187,1690
+,Jacob,Sørensen,underfogd,,,Underfogd,Forlatt,Bergen,,Hyrt av Hans Jensen Ørbech,1,5,,,3,,,,,10,32,,Wardøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,187,1690
+,Rasmus,Pedersen,Klocker,,,Klokker,Forlatt,Danmark,,på egenhånd,1,5,,,,,,,,7,ukjent,,Wardøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,187,1690
+,Peder,Christensen,,,,,Forlatt,Stavanger,,Hyrt av Eiler Sers,1,2,,,,,,,,4,20,,Wardøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,187,1690
+,Jens,Arnesen,,,,,Forlatt,Vardø,,Fra Finnmark,1,2,,,,,,,,4,,,Wardøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,187,1690
+,Erik,,Find,,,,Forlatt,Nordland,Find,på egenhånd,1,1,,,,1,,,,4,ukjent,,Wardøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,187,1690
+,Hans,Pedersen,,,,,Forlatt,der i landet,,Fra Finnmark,1,,,1,,,,,,3,,,Wardøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,187,1690
+,Anfind,Tollaksen,,,,,Forlatt,Sunfiord,,Hyrt fra Bergen,1,3,,,,,,,,5,19,,Wardøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,188,1690
+,Joen,Knudsen,,,,,Forlatt,Bergenshus,,Hyrt fra Bergen,,3,,,,,,,,4,9,,Wardøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,188,1690
+,Povel,Olsen,,,,,Forlatt,Jemtland,,Svensk dessertør,1,,,1,,,,,,3,19,,Wardøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,188,1690
+,Peder,Olsen,,,,,Forlatt,Helgeland,,Med Nordlandsfr,1,5,,,,,,,,7,ukjent,,Wardøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,188,1690
+hr,Moses,Sørensen,Prousten,,,Prest,Andre Bosittende,,,,1,,,,1,,,,5,8,ukjent,,Wardøe Tingsted,,80,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,189,1690
+,Lauritz,Nielsen,Bygvad,,,Sorenskriver,Andre Bosittende,,,,,,,,,,,,4,5,ukjent,,Wardøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,189,1690
+,Christen,Jacobsen,Handelssvein f/ Hans Dreyer,,,Kjøpmann,Andre Bosittende,,,,1,1,,,,,,,,3,ukjent,,Wardøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,189,1690
+,Lauritz,Sørensen,Faag kjøpmann f/ Henrich Jansen,,,Kjøpmann,Andre Bosittende,,,,1,,,,,,,,8,10,ukjent,,Wardøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,189,1690
+,Bendt,Andersen,Archeliemester m/ Soldater,,,Offiseer,Andre Bosittende,,,,,,,,,,,,,1,ukjent,,Wardøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,189,1690
+,Trund,Knudsen,,,,,Hans Dreyer,Ryfylke,,Hyrt av Hans Christensen fra Bergen,1,3,,,,,,,,5,29,,Kiberg Tingsted,,85,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,189,1690
+,Niels,Pedersen,Sandskier,,,,Hans Dreyer,Vadsø,,Fra Finnmark,1,,,,,,,,,2,,,Kiberg Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,189,1690
+,Askild,Colbensen,,,,,Hans Dreyer,Sundfiord,,hyrt av Hans Christensen,1,1,,,,,,,,3,25,,Kiberg Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,189,1690
+,Gunder,Ollufsen,,,,,Hans Dreyer,Ryfylke,,hyrt av Hans Christensen,1,,,1,,,,,,3,22,,Kiberg Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,189,1690
+,Anders,Tollefsen,,,,,Hans Dreyer,Sundfiord,,hyrt av Hans Christensen,1,2,,,,,,,,4,34,,Kiberg Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,189,1690
+,David,Olsen,,,,,Hans Dreyer,Bergen,,hyrt av Hans Christensen,1,2,,,,,,,,4,20,,Kiberg Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,189,1690
+,Halvor,Pedersen,,,,,Hans Dreyer,Stavanger ,,Hyrt fra Bergen,1,3,,,,,,,,5,19,,Kiberg Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,189,1690
+,Hellie,Mickelsen,,,,,Hans Dreyer,Ryfylke,,hyrt av Hans Christensen,1,,,1,,,,,,3,32,,Kiberg Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,189,1690
+,Villum,Siversen,,,,,Hans Dreyer,Ryfylke,,hyrt av Hans Christensen,1,1,,1,,,,,,4,15,,Kiberg Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,190,1690
+,Olle,Christensen,,,,,Hans Dreyer,Bergen,,Hyrt av Else Nielsdatter,1,4,,,,,,,,6,28,,Kiberg Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,190,1690
+,Olle,Aamundsen,,,,,Hans Dreyer,Vadsø,,Fra Finnmark,1,2,,,,,,,,4,,,Kiberg Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,190,1690
+,Joen,Nielsen,,,,,Hans Dreyer,Indre Sogn,,Hyrt av Lars Christensen,1,1,,,,,,,,3,33,,Kiberg Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,190,1690
+,Torkild,Ellingsen,,,,,Hans Dreyer,Sundhordelehen,,Hyrt av Iver Christensen,1,,,,2,,,,,4,11,,Kiberg Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,190,1690
+,Niels,Axelsen,,,,,Hans Dreyer,Kiberg,,Fra Finnmark,1,,,,,,,,,2,,,Kiberg Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,190,1690
+,Baard,Knudsen,,,,,Hans Dreyer,Sundhorlen,,På egenhånd,1,,,,1,,,,,3,24,,Kiberg Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,190,1690
+,Biørn,Johansen,,,,,Hans Dreyer,Qvindeherret,,Hyrt av Christopfer Erhorn,1,2,,,1,,,,,5,8,,Kiberg Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,190,1690
+,Anders,Troelsen,,,,,Forlatt,Sundfiord,,Hyrt av Torop fra Bergen,1,4,,,,,,,,6,19,,Kiberg Tingsted,,94,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,190,1690
+,Allef,Nielsen,,,,,Forlatt,Bergen,,Hyrt av Tønis Jansen,1,1,,1,,,,,,4,26,,Kiberg Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,190,1690
+,Gunder,Seebiørnsen,,,,,Forlatt,Bergen,,Hyrt av Tønis Jansen,1,2,,,,,,,,4,27,,Kiberg Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,190,1690
+unge,Peter,Olsen,,Unge,,,Forlatt,Sundhorlehn,,Hyrt av Ifuer Christensen,1,,,,,,,,,2,25,,Kiberg Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,190,1690
+gl.,Peder,Pedersen,,Gamle,,,Forlatt,Nordfiord,,Hyrt av Peter Luden,1,3,,,,,,,,5,33,,Kiberg Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,190,1690
+,Lavritz,Nielsen,,,,,Forlatt,Trunheim,,På egenhånd,1,,,,,,,,,2,36,,Kiberg Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,190,1690
+,Lavritz,Joensen,,,,,Forlatt,Sundfiord,,Hyrt av Povel Qvist,1,4,,,,,,,,6,19,,Kiberg Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,190,1690
+,Tøris,Tøresen,,,,,Forlatt,Sundfiord,,Hyrt av Henrich Sers,1,,,,,,,,,2,18,,Kiberg Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,190,1690
+,Olle,Olsen,Jølster,,,,Forlatt,Sundfiord,,Hyrt av Ifuer Christensen,1,2,,,,,,,,4,18,,Kiberg Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,190,1690
+,Elling,Lavritzen,,,,,Forlatt,Indre Sogn,,Hyrt av Iver Christensen,1,4,,,,,,,,6,10,,Kiberg Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,191,1690
+,Peder,Olsen,,,,,Forlatt,Sundfiord,,Hyrt fra Bergen,,,,,,,,,,1,54,,Kiberg Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,191,1690
+,Anders,Abelsen,,,,,Forlatt,Ryfylke,,Hyrt fra Bergen,1,1,,,,,,,,3,32,,Kiberg Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,191,1690
+,Halvor,Povelsen,,,,,Forlatt,Sundfiord,,Hyrt av Ludvig Midelstorf,1,1,,,,,,,,3,38,,Kiberg Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,191,1690
+,Olle,Rasmussen,,,,,Forlatt,Norhorlehen,,Skichet dit fra Bergen,2,,,,,,,,,3,18,,Kiberg Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,191,1690
+,Johanis,Gundersen,,,,,Forlatt,Bergen,,Hyrt av Jens Brochmand,1,3,,,,,,,,5,29,,Kiberg Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,191,1690
+,Siver,Nielsen,,,,,Forlatt,Ryfylke,,Hyrt av Lars Mandrup,1,2,,,,,,,,4,21,,Kiberg Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,191,1690
+,Søfren,Jensen,,,,,Forlatt,Sundmør,,hyrt av Tønus Jansen,1,5,,,,,,,,7,30,,Kiberg Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,191,1690
+,Peter,Mogensen,,,,,Forlatt,Sundhorlehen,,Hyrt fra Bergen av Søren Jensen,1,1,,,,,,,,3,34,,Kiberg Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,191,1690
+,Niels,Pedersen,,,,,Forlatt,Sundmør,,Hyrt av Tønis Jansen,1,3,,,,,,,,5,25,,Kiberg Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,191,1690
+,Gunder,Rasmussen,,,,,Forlatt,Ekkerøy,,Fra Finnmark,1,4,,,,,,,,6,,,Kiberg Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,191,1690
+,Knud,Johansen,,,,,Forlatt,Sundhorlehn,,Hyrt fra Bergen,1,2,,,,,,,,4,23,,Kiberg Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,191,1690
+,Olle,Jacobsen,,,,,Forlatt,Salten,,På egenhånd,1,3,,,,,,,,5,4,,Kiberg Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,191,1690
+,Aamund,Aamundsen,,,,,Forlatt,Ryfylke,,Hyrt av Iver Christensen,1,2,,,,,,,,4,9,,Kiberg Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,191,1690
+,Rolandt,Olsen,,,,,Forlatt,Bergen,,hyrt av Peter Luden,1,2,,,,,,,,4,9,,Kiberg Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,191,1690
+,Aamund,Nielsen,,,,,Forlatt,Bergen,,hyrt av Luden,1,2,,,,,,,,4,5,,Kiberg Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,191,1690
+Vnge,Peder,Pedersen,,Unge,,,Forlatt,Sundmør,,hyrt av Jacov Andersen,1,1,,,,,,,,3,9,,Kiberg Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,191,1690
+,Arne,Hansen,,,,,Forlatt,Sundfior,,Hyrt av en kjøpmann i Kiberg,1,,,1,,,,,,3,43,,Kiberg Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,191,1690
+Vnge,Jens,Tieransen,,Unge,,,Forlatt,Ryfylke,,Hyrt av Moses Sørensen,1,,,,,,,,,2,32,,Kiberg Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,192,1690
+,Torkild,Aslachsen,,,,,Forlatt,Jedern,,Hyrt fra Bergen,1,,,,,,,,,2,12,,Kiberg Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,192,1690
+,Halvor,Iversen,,,,,Forlatt,Kiberg,,Fra Finnmark,1,,,,,,,,,2,,,Kiberg Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,192,1690
+,Jens,Erlandsen,,,,,Forlatt,Helgeland,,Hyrt av Jørgen Friss,1,,,,,,,,,2,34,,Kiberg Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,192,1690
+,Halvor,Torstensen,,,,,Forlatt,Haranger,,Hyrt av Iver Christensen,1,,,,,,,,,2,19,,Kiberg Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,192,1690
+,Hans,Knudsen,,,,,Forlatt,Bergen,,hyrt av Povel Qvist,1,,,,,,,,,2,26,,Kiberg Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,192,1690
+,Erik,Olsen,,,,,Forlatt,Sundfiord,,hyrt av Povel Qvist,,5,,1,,,,,,7,19,,Kiberg Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,192,1690
+,Olle,Johansen,,,,,Forlatt,Sundhorlen,,Hyrt fra Bergen,1,2,,,,,,,,4,25,,Kiberg Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,192,1690
+,Simen,Olsen,,,,,Forlatt,Jølster,,Hyrt fra Nordland,1,1,,,,,,,,3,4,,Kiberg Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,192,1690
+,Olle,Pedersen,Klocker,,,Klokker,Forlatt,Stavanger,,Hyrt fra Bergen,1,,,,1,,,,,3,34,,Kiberg Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,192,1690
+,Trund,Knudsen,,,,,Forlatt,Nordland,,Hyrt fra Bergen,,3,,,1,,,,,5,18,,Kiberg Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,192,1690
+,Mickel,Jensen,underfogd,,,Underfogd,Andre Bosittende,ukjent,,,1,8,,,1,,,,,11,ukjent,,Kiberg Tingsted,,102,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,192,1690
+,Claus,,Natler Kjøpsvend f/ Hans Dreyer,,,Kjøpmann,Andre Bosittende,ukjent,,,,,,,,,,,4,5,ukjent ,,Kiberg Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,192,1690
+,Peter,,Luden,,,Kjøpmann,Andre Bosittende,ukjent,,,1,,,,,,,,6,8,ukjent ,,Kiberg Tingsted,,118,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,193,1690
+,Hening,Olsen,,,,,Hans Dreyer,Ekkerøy,,Fra Finnmark,1,4,,,,,,,,6,,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,193,1690
+,Olle,Olsen,,,,,Hans Dreyer,Vadsø,,Fra Finnmark,1,2,,,,,,,,4,,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,193,1690
+,Bendix,Bedixsen,,,,,Hans Dreyer,Sundfiord,,Hyrt fra Bergen,1,2,,,,,,,,4,50,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,193,1690
+,Lars,Evensen,,,,,Hans Dreyer,Ryfylke,,Hyrt fra Bergen,1,4,,,,,,,,6,38,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,193,1690
+,Aamund,Larsen,,,,,Hans Dreyer,Kiberg,,Hyrt fra Bergen,1,2,,,,,,,,4,,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,193,1690
+,Knud,Henrichsen,,,,,Hans Dreyer,Ekkerøy,,Fra Finnmark,1,,2,,,,,,,4,,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,193,1690
+,Olle,Henrichsen,,,,,Hans Dreyer,Ekkerøy,,Fra Finnmark,,,,,,,,,,1,,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,193,1690
+,Rasmus,Axselsen,,,,,Hans Dreyer,Kiberg,,Fra Finnmark,1,1,,,,,,,,3,,,Wasøe Tingsted,,123,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,193,1690
+,Anders,Nielsen,,,,,Hans Dreyer,Nordfiord,,Hyrt fra Bergen,1,,,,1,,,,,3,12,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,193,1690
+,Rasmus,Johansen,,,,,Nils Olsen,Vardø,,Fra Finnmark,1,2,,1,,,,,,5,,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,193,1690
+,Theopfelus,Andersen,,,,,Nils Olsen,Stavanger,,Hyrt fra Bergen,1,5,,1,,,,,,8,22,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,193,1690
+,Erik,Pedersen,,,,,Nils Olsen,Vadsø,,Fra Finnmark,1,5,,,1,,,,,8,,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,194,1690
+,Tord,Thostensen,,,,,Nils Olsen,Ryfylke,,Hyrt fra Bergen,1,5,,,,,,,,7,22,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,194,1690
+,Gunder,Andersen,,,,,Nils Olsen,Vadsø,,Fra Finnmark,1,2,,,,,,,,4,,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,194,1690
+,Rasmus,Olsen,,,,,Nils Olsen,Nordfjord,,Hyrt av Daniel Volpmand fra Bergen,1,4,,,,,,,,6,20,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,194,1690
+,Magnus,Eriksen,,,,,Nils Olsen,Sogn,,Hyrt av Henrich Jansen,1,2,,,1,,,,,5,10,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,194,1690
+,Olle,Willatzen,,,,,Nils Olsen,Vadsø,,Fra Finnmark,1,,,1,,,,,,3,,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,194,1690
+,Anders,Villatzen,,,,,Nils Olsen,Vadsø,,Fra Finnmark,1,4,,,,2,,,,8,,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,194,1690
+,Gutorm,Robertzen,,,,,Nils Olsen,Nordfjord,,Hyrt fra Bergen,1,3,,,,,,,,5,16,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,194,1690
+,Bottel,Rasmussen,,,,,Nils Olsen,Sogn,,Hyrt fra Bergen av Christoger Erhorn,1,,,1,,,,,,3,20,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,194,1690
+,Anders,Torsen,,,,,Nils Olsen,Varanger,,Fra Finnmark,1,1,,,,,,,,3,,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,194,1690
+,Olle,Juntesen,,,,,Nils Olsen,Sverige,,Ukjent,1,3,,,,,,,,5,,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,194,1690
+,Nick,Melckorsen,,,,,Nils Olsen,Varanger,,Fra Finnmark,1,3,,,,,,,,5,,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,194,1690
+,Aslach,Juntsen,,,,,Nils Olsen,Varanger,,Fra Finnmark,,,,,,,,,,1,,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,194,1690
+,Toer,Andersen,,,,,Nils Olsen,Varanger,,Fra Finnmark,1,1,,,,,,,,3,,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,194,1690
+,Nicke,Annotzen,,,,,Nils Olsen,Juxby,,Fra Finnmark,1,4,,,,,,,,6,,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,194,1690
+,Olle,Andersen,,,,,Anders Bastiansen,Sundfiord,,af sig self,1,5,,3,2,,,,,12,19,,Wasøe Tingsted,,132,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,194,1690
+,Mickel,Torgiersen,,,,,Anders Bastiansen,Ryfylke,,hyrt til landet af Jens Ørbech,1,,,2,,,,,,4,41,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,194,1690
+,Jens,Torstensen,,,,,Anders Bastiansen,Bergen,,med Nordlandsfarer,1,1,,,,,,,,3,24,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,194,1690
+,Peder,Arentzen,,,,,Anders Bastiansen,Ryflyche,,Hyrt af Anders Berentzen fra Bergen,1,2,,,,,,,,4,20,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,194,1690
+,Olle,Pedersen,Smell,,,,Anders Bastiansen,Nordland,,hyrt av Brochmand,1,,,1,,,,,,3,16,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,195,1690
+,Jacob,Nielsen,,,,,Anders Bastiansen,Nordland,,hyrt af Anders Bastiansen,1,1,,,,,,,,3,10,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,195,1690
+,Eilert,Jacobsen,,,,,Anders Bastiansen,Eggersund,,hyrt af Anders Bastiansen,1,3,,,,,,,,5,16,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,195,1690
+,Jens,Olsen,,,,,Anders Bastiansen,Nordland,,kommen did med Nordlandsfarer,1,5,,,,,,,,7,4,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,195,1690
+,Anders,Torsen,,,,,Anders Bastiansen,Varanger,Finn,Fra Finnmark,1,1,,,,,,,,3,,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,195,1690
+,Niels,Nielsen,,,,,Anders Bastiansen,der i landet,Finn,Fra Finnmark,1,2,,,,,,1,,5,,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,195,1690
+,Nicke,Olsen,,,,,Anders Bastiansen,Juxby,Finn,Fra Finnmark,1,4,,,,,,,,6,,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,195,1690
+,Iver,Nielsen,,,,,Anders Bastiansen,Aritzby,Finn,Fra Finnmark,1,5,,,,,,,,7,,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,195,1690
+,Joen,Minnesen,,,,,Anders Bastiansen,Veranger,Finn,Fra Finnmark,1,1,,,,,,,,3,,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,195,1690
+,Anders,Hansen,,,,,Anders Bastiansen,Qvenneland,Finn,Ukjent,1,8,,,,,,,,10,,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,195,1690
+,Minne,Minesen,,,,,Anders Bastiansen,Varanger,Finn,Fra Finnmark,1,2,,,,,,,,4,,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,195,1690
+,Henrik,Saresen,,,,,Anders Bastiansen,Indeager,Finn,Fra Finnmark,1,2,,,,,,,,4,,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,195,1690
+,Tude,Andersen,,,,,Anders Bastiansen,Veranger,Finn,Fra Finnmark,1,2,,,,,,,,4,,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,195,1690
+,Olle,Pedersen,,,,,Anders Bastiansen,Koutke,Finn,Fra Finnmark,1,4,,,,,,,,6,,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,195,1690
+,Peder,Natsøn,,,,,Anders Bastiansen,Indeager,Finn,Fra Finnmark,1,1,,,,,,,,3,,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,195,1690
+,Peder,Pedersen,,,,,Anders Bastiansen,Varanger,Finn,Fra Finnmark,1,2,,,,,,,,4,,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,195,1690
+,Olle,Nielsen,,,,,Anders Bastiansen,Veranger,Finn,Fra Finnmark,0,,,,,,,,,1,,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,195,1690
+,Povel,Christensen,,,,,Otte Bang,Bergen,Nordmand,Hyrt fra Bergen,1,2,,,,,,,,4,38,,Wasøe Tingsted,,140,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,195,1690
+,Olle,Hansen,,,,,Otte Bang,Nordfiord,Nordmand,hyrt af Jacob Andersen,1,2,,,1,,,,,5,11,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,195,1690
+,Olle,Pedersen,,,,,Otte Bang,Køge,Nordmand,hyrt fra Bergen,1,,,,,,,,,2,22,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,195,1690
+,Niels,Nielsen,,,,,Otte Bang,Mastrand,Nordmand,hyrt fra Bergen,1,4,,,,,,,,6,24,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,196,1690
+,Jacob,Gundersen,,,,,Otte Bang,Vatzøen,Nordmand,,,,,,,,,,,1,,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,196,1690
+,Olle,Mathiesen,,,,,Otte Bang,Sundhordlehn,Nordmand,hyrt fra Bergen,1,1,,,1,,,,,4,33,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,196,1690
+,Peder,Joensen,,,,,Otte Bang,Nordland,Nordmand,Sat sig self ned der i landet,,1,,1,,,,,1,4,60,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,196,1690
+,Baattel,Andersen,,,,,Otte Bang,Sogn,Nordmand,Hyrt fra Bergen,1,5,,,1,,,,,8,22,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,196,1690
+,Albert,Halvorsen,,,,,Otte Bang,Bergen,Nordmand,Hyrt fra Bergen,,2,,,,,,,,3,25,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,196,1690
+,Erik,Siversen,,,,,Otte Bang,Trunhiem,Nordmand,hyrt fra Bergen,1,4,,,,,,,,6,15,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,196,1690
+,Olle,Olsen,,,,,Otte Bang,Bergenhus lehn,Nordmand,hyrt fra Bergen,1,,2,1,,,,,,5,12,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,196,1690
+,Mickel,Monsen,,,,,Otte Bang,Nordfiord,Nordmand,hyrt af Jacob Andersen,1,2,,,,,,,,4,9,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,196,1690
+,Vilum,Hansen,,,,,Otte Bang,Lister lehn,Nordmand,hyrt fra Bergen,1,,,,,,,,,2,24,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,196,1690
+,Joen,Erichsen,,,,,Otte Bang,Bergen,Nordmand,hyrt af Niels Qvist,1,,,1,,,,,,3,16,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,196,1690
+,Tygge,Erichsen,,,,,Otte Bang,Vatzøen,Nordmand,,1,1,,1,,,,,,4,,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,196,1690
+,Arne,Erichsen,,,,,Otte Bang,Nordfiord,Nordmand,hyrt fra Bergen,1,6,,,,,,,,8,22,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,196,1690
+,Mickel,Rasmussen,,,,,Otte Bang,Echerøe,Nordmand,,1,5,,,,,,,,7,,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,196,1690
+,Henrik,Larsen,,,,,Otte Bang,,Nordmand,,,,,,,,,,,1,,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,196,1690
+,Tord,Jacobsen,,,,,Otte Bang,Sundfiord,Nordmand,hyrt fra Bergen,1,2,,,,,,,,4,32,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,196,1690
+,Olle,Aamundsen,,,,,Otte Bang,Sundmør,Nordmand,hyrt fra Bergen af Jacob Andersen,1,2,,,,,,,,4,5,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,196,1690
+,Henrich,Aamundsen,,,,,Otte Bang,Seningen,Finn,,1,2,,,,,,,,4,,,Wasøe Tingsted,,145,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,196,1690
+,Joen,Andersen,,,,,Otte Bang,Seeningen,Finn,,1,4,,,,,,,,6,,,Wasøe Tingsted,,146,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,196,1690
+Vnge,Aslach,Pedersen,,Unge,,,Otte Bang,Varanger,Finn,,1,,,,,,,,,2,,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,196,1690
+,Iver,Nielsen,,,,,Otte Bang,Varanger,Finn,,1,4,,,,,,,,6,,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,197,1690
+,Peder,Annotsen,,,,,Otte Bang,Tanen,Finn,,1,3,,,,,,,,5,,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,197,1690
+,Maritha,Nielsdatter,,,,,Otte Bang,,Finn,,,,,,,,,,,1,,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,197,1690
+Vnge,Niels,Nielsen,,Unge,,,Otte Bang,Varanger,Finn,,1,2,,,,,,,,4,,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,197,1690
+,Clemmend,Nielsen,,,,,Otte Bang,Varanger,Finn,,1,,,,,,,,,2,,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,197,1690
+Vnge,Peder,Henrichsen,,Unge,,,Otte Bang,Varanger,Finn,,1,,,,,,,,,2,,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,197,1690
+,Siver,Gundersen,,,,,Otte Bang,Tanen,Finn,,1,2,,,3,,,,,7,,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,197,1690
+,Anders,Erichsen,,,,,Otte Bang,Varanger,Finn,,1,1,,,,,,,,3,,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,197,1690
+,Rim,Annotzen,,,,,Otte Bang,Varanger,Finn,,,,,,,1,1,,,3,,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,197,1690
+,Mathias,Andersen,,,,,Otte Bang,Qvenland,Finn,,,,,,,,,,,1,,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,197,1690
+,Birgitta,Haagensdaatter,,,,,Otte Bang,,Finn,,,,,,,,,,,1,,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,197,1690
+,Niels,Iversen,,,,,Otte Bang,Varanger,Finn,,1,1,,,,,,,,3,,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,197,1690
+,Sabbe,Pedersen,,,,,Otte Bang,Varanger,Finn,,1,,,,,,,,,2,,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,197,1690
+,Maritte,Pederssatter,,,,,Otte Bang,,Finn,,,,,,,,,,,1,,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,197,1690
+,Otte,,Bang,,,,,,,,,,,,,,,,15,16,,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,197,1690
+,Hans,Povelsen,,,,,Forlatt,Tannebay,Nordmand,,1,1,,1,1,,,,,5,,,Wasøe Tingsted,,153,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,197,1690
+,Olle,Povelsen,,,,,Forlatt,Tannebaj,Nordmand,,1,3,,,,,,,,5,,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,197,1690
+,Claus,Vickesen,,,,,Forlatt,Bergen,Nordmand,kommen til landet med sine forældre,1,1,,,,,,,,3,23,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,197,1690
+,Hans,Gabrielsen,,,,,Forlatt,Bergen,Nordmand,hyrt af Christofer Erhorn,1,4,,1,,,,,,7,19,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,197,1690
+,Claus,Olsen,,,,,Forlatt,Eckeren,Nordmand,,1,3,,,,,,,,5,,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,197,1690
+,Anders,Nielsen,,,,,Forlatt,Kiberg,Nordmand,,1,,,2,1,,,,,5,,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,197,1690
+,Joen,Joensen,,,,,Forlatt,Stavanger,Nordmand,Hyrt fra Bergen,1,1,,,1,,,,,4,32,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,197,1690
+,Sørn,Olsen,,,,,Forlatt,Eckerøen,Nordmand,,1,1,,2,,,,,,5,,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,197,1690
+,Joen,Larsen,,,,,Forlatt,Vatzøen,Nordmand,,1,,,2,,,,,,4,,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,198,1690
+,Anders,Lauritzen,,,,,Forlatt,Vardøen,Nordmand,,1,1,,,,,,,,3,,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,198,1690
+,Mickel,Larsen,,,,,Forlatt,Romsdalen,Nordmand,satt sig selver ned i landet,1,3,,1,,,,,,6,47,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,198,1690
+,Olle,Nielsen,,,,,Forlatt,Vardøe,Nordmand,,1,,,,1,,,,,3,,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,198,1690
+,Niels,Bastiansen,,,,,Forlatt,Sundhorlehen,Nordmand,hyrt fra Bergen,1,,,1,,,,,,3,41,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,198,1690
+,Iver,Olsen,,,,,Forlatt,Bergen,Nordmand,hyrt fra Bergen,1,2,,,,,,,,4,26,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,198,1690
+,Christofer,Olsen,,,,,Forlatt,Trundhiem,Nordmand,hyrt fra Bergen af Henrich Jansen,1,,,,,,,,,2,10,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,198,1690
+,Povel,Mortensen,,,,,Forlatt,Vatzøen,Nordmand,,1,1,,,,1,1,,,5,,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,198,1690
+,Christen,Povelsen,,,,,Forlatt,Vatzøe,Nordmand,,1,,1,,,,,,,3,,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,198,1690
+,Mads,Henrichsen,,,,,Forlatt,der i landet,Nordmand,,1,,,,,,,,,2,,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,198,1690
+,Olle,Reinholtzen,,,,,Forlatt,Nordland,Nordmand,Sat sig self der ned i landet,1,1,,,,,,,,3,3,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,198,1690
+,Olle,Eriksen,,,,,Forlatt,Stavanger,Nordmand,hyrt fra Bergen,1,,,,,,,,,2,43,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,198,1690
+,Halvor,Torsen,,,,,Forlatt,Ryfylche,Nordmand,hyrt fra Bergen,1,2,,,,,,,,4,41,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,198,1690
+,Siver,Monsen,,,,,Forlatt,Nordland,Nordmand,hyrt fra Bergen,1,,,2,,,,,,4,34,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,198,1690
+,Bastian,Tolefsen,,,,,Forlatt,der i landet,Nordmand,,1,3,,,,,,,,5,,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,198,1690
+,Olle,Olsen,Smel,,,,Forlatt,Trunhiem,Nordmand,satt sig self der ned i landet,1,3,,,,,,,,5,40,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,198,1690
+,Rasmus,Henrichsen,,,,,Forlatt,Eckerøe,Nordmand,,,,,,,,,,,1,,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,198,1690
+,Hans,Bendixsen,,,,,Forlatt,Eckerøen,Nordmand,,1,1,,,,,,,,3,,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,198,1690
+,Gunder,Iversen,,,,,Forlatt,Vatzøen,Nordmand,,1,1,,,1,,,,,4,,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,198,1690
+,Niels,Hansen,Skydtzskafer,,,Skyssskaffer,Forlatt,Vaardøe,Nordmand,,1,1,,1,,,,,,4,,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,198,1690
+,Anders,Pedersen,,,,,Forlatt,Laxefiord,Finn,,1,3,,,3,,,,,8,,,Weranger,,158,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,199,1690
+,Knud,Nielsen,,,,,Forlatt,Varanger,Finn,,,3,,,1,,,,,5,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,199,1690
+,Olle,Olsen,,,,,Forlatt,Indeager,Finn,,1,7,,,,,,,,9,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,199,1690
+,Joen,Gundersen,,,,,Forlatt,Varanger,Finn,,1,3,,1,,,,,,6,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,199,1690
+,Iver,Gundersen,,,,,Forlatt,Tannebay,Finn,,1,3,,,,,,,,5,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,199,1690
+,Melckor,Mathiesen,,,,,Forlatt,Indeager,Finn,,1,5,,,,,,,,7,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,199,1690
+,Siver,Nielsen,,,,,Forlatt,Veranger,Finn,,1,,,,,,,,,2,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,199,1690
+,Peritz,Henrichsen,,,,,Forlatt,Arritzby,Finn,,1,,,,1,,,,,3,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,199,1690
+,Mathias,Saresen,,,,,Forlatt,Varanger,Finn,,1,3,,,1,,,,,6,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,199,1690
+,Tudekas,Andersen,,,,,Forlatt,Varanger,Finn,,1,,,,,,,,,2,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,199,1690
+,Povel,Ifuersen,,,,,Forlatt,Tannen,Finn,,1,5,,,1,,,,,8,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,199,1690
+,Peder,Nielsen,,,,,Forlatt,Varanger,Finn,,1,4,,,,,,,,6,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,199,1690
+,Samuel,Sifuersen,,,,,Forlatt,Varanger,Finn,,1,4,,,,,,,,6,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,199,1690
+,Peder,Aslachsen,,,,,Forlatt,Varanger,Finn,,1,2,,,,,,,,4,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,199,1690
+,Søfren,Nielsen,,,,,Forlatt,Vehranger,Finn,,1,4,,,,,,,,6,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,199,1690
+,Olle,Pedersen,bracher,,,,Forlatt,Vehranger,Finn,,1,,,,,,,,,2,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,199,1690
+,Clemmen,Sabbesen,,,,,Forlatt,Vehranger,Finn,,1,3,,,2,,,,,7,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,199,1690
+,Mathias,Povelsen,,,,,Forlatt,Vehranger,Finn,,1,2,,,,,,,,4,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,199,1690
+,Povel,Tudesen,,,,,Forlatt,Vehranger,Finn,,1,2,,,,,,,,4,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,199,1690
+,Joen,Pedersen,,,,,Forlatt,Vehranger,Finn,,1,2,,,,,,,,4,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,199,1690
+,Niels,Andersen,,,,,Forlatt,Vehranger,Finn,,1,2,,,,,,,,4,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,199,1690
+,Peder,Mathiesen,,,,,Forlatt,Indeager,Finn,,1,4,,,,,,,,6,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,199,1690
+,Lars,Larsen,,,,,Forlatt,Vehranger,Finn,,1,1,,,,,,,,3,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,199,1690
+,Gunder,Iversen,,,,,Forlatt,Vehranger,Finn,,1,1,,,,,,,,3,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,200,1690
+,Lars,Pedersen,,,,,Forlatt,Koutken,Finn,,1,1,,,,,,,,3,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,200,1690
+,Lars,Nielsen,,,,,Forlatt,Koutken,Finn,,1,2,,,,,,,,4,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,200,1690
+Vnge,Niels,Pedersen,,Unge,,,Forlatt,Vehranger,Finn,,1,1,,1,,,,,,4,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,200,1690
+,Bertel,Nielsen,,,,,Forlatt,Vahranger,Finn,,2,2,,,,1,1,,,7,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,200,1690
+,Junck,Henrichsen,,,,,Forlatt,Sverig,Finn,,1,3,,,,,,,,5,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,200,1690
+,Peder,Saresen,,,,,Forlatt,Vehranger,Finn,,1,1,,,1,,,,,4,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,200,1690
+,Peder,Povelsen,,,,,Forlatt,Indeager,Finn,,1,1,,,,,,,,3,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,200,1690
+,Niels,Gierilsen,,,,,Forlatt,Neder Tanen,Finn,,,,,,1,1,1,,,4,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,200,1690
+,Niels,Pedersen,,,,,Forlatt,Koudtke,Finn,,,,,,,,,,,1,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,200,1690
+,Tude,Pedersen,,,,,Forlatt,Vahranger,Finn,,1,,,,,,,,,2,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,200,1690
+,Gunder,Thudesen,,,,,Forlatt,Varanger,Finn,,,,,,,,,,,1,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,200,1690
+,Mogens,Gundersen,,,,,Forlatt,Vehranger,Finn,,1,,,,,,,,,2,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,200,1690
+,Niels,Toersen,,,,,Forlatt,Vahranger,Finn,,1,5,,,1,,,,,8,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,200,1690
+,Tude,Minnesen,,,,,Forlatt,Vahranger,Finn,,1,,,,,,,,,2,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,200,1690
+,Henrich,Siversen,,,,,Forlatt,Vahranger,Finn,,,,,,,,,,,1,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,200,1690
+,Siver,Larsen,,,,,Forlatt,Aretzby,Finn,,1,,,,,,,,,2,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,200,1690
+,Søren,Monsen,,,,,Forlatt,Eydvahr,Finn,,,3,,,,,,,,4,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,200,1690
+,Mathis,Pedersen,,,,,Forlatt,Indeager,Finn,,1,1,,,,,,,,3,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,200,1690
+,Olle,Giermundsen,,,,,Forlatt,Tannebay,Finn,,,,,,,,,,,1,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,200,1690
+,Toer,Nielsen,,,,,Forlatt,Arretzby,Finn,,1,2,,,,,,,,4,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,200,1690
+,Joen,Giermundsen,,,,,Forlatt,Arretzby,Finn,,1,5,,,,,,,,7,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,200,1690
+,Peder,Henrichsen,,,,,Forlatt,Koutken,Finn,,1,4,,,2,,,,,8,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,200,1690
+,Aslak,Pedersen,,,,,Forlatt,Laxefiorden,Finn,,,2,,,,,,,,3,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,200,1690
+,Peder,Nielsen,,,,,Forlatt,Vehranger,Finn,,1,3,,,,,,,,5,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,200,1690
+,Tudekas,Torsen,,,,,Forlatt,Vahranger,Finn,,1,,,1,,,,,,3,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,200,1690
+,Niels,Clemmensen,,,,,Forlatt,Vahranger,Finn,,1,2,,,,,,,,4,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,200,1690
+,Niels,Larsen,,,,,Forlatt,Arritzby,Finn,,,4,,,,,,,,5,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,201,1690
+,Peder,Olsen,,,,,Forlatt,Arritzby,Finn,,,,,,,,,,,1,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,201,1690
+,Olle,Saresen,,,,,Forlatt,Indeager,Finn,,,2,,,,,,,,3,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,201,1690
+,Thude,Olsen,,,,,Forlatt,Varanger,Finn,,1,2,,,,,,,,4,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,201,1690
+,Niels,Annotzen,,,,,Forlatt,Varanger,Finn,,,,,,,,,,,1,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,201,1690
+,Tario,Nielsen,,,,,Forlatt,Varanger,Finn,,1,1,,,,,,,,3,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,201,1690
+,Thueie,Melchorsen,,,,,Forlatt,Varanger,Finn,,,,,,,,,,,1,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,201,1690
+,Jux,Nielsen,,,,,Forlatt,Varanger,Finn,,,,,,,,,,,1,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,201,1690
+,Mathias,Olsen,,,,,Forlatt,Varanger,Finn,,,,,,,,,,,1,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,201,1690
+,Samuel,Henrichsen,,,,,Forlatt,Varanger,Finn,,,,,,,,,,,1,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,201,1690
+,Olle,Iversen,,,,,Forlatt,Varanger,Finn,,,,,,,,,,,1,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,201,1690
+,Niels,Nielsen,,,,,Forlatt,Adevar,Finn,,,,,,,,,,,1,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,201,1690
+,Olle,Juritzen,,,,,Forlatt,Vahranger,Finn,,,,,,,,,,,1,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,201,1690
+,Hans,Pedersen,,,,,Forlatt,Koutke,Finn,,1,,,,,,,,5,7,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,201,1690
+,Olle,Nielsen,,,,,Forlatt,Varanger,Finn,,,,,,,,,,,1,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,201,1690
+,Lasse,,Find,,,,Forlatt,Qvenneland,Finn,,1,2,,,,,,,,4,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,201,1690
+,Joen,,Find,,,,Forlatt,Nordland,Finn,,1,,,,,,,,,2,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,201,1690
+,Askild,Nielsen,,,,,Forlatt,Koutken,Finn,,1,5,,,,,,,,7,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,201,1690
+,Lavritz,Melckorsen,,,,,Forlatt,Varanger,Finn,,1,5,,,,,,,,7,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,201,1690
+,Olle,Olsen,,,,,Forlatt,Indeager,Finn,,1,1,,,,,,,,3,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,201,1690
+,Aamund,Aamundsen,,,,,Forlatt,Tanen,Finn,,1,1,,,,,,,,3,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,201,1690
+,Aslack,,Peisen,,,,Forlatt,Koutken,Finn,,,2,,,,,,,,3,,,Weranger,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,201,1690
+,Hans,,Lillienskiold,,,Amtmann,Andre bosittende,ukjent,,,1,11,,,16,,,,,29,,,Wasøe Tingsted,,169,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,202,1690
+,Niels,,Knag,,,Fogd,Andre bosittende,ukjent,,,,,,,,,,,,,,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,202,1690
+,Ludvig,,Pauss,,,Prest,Andre bosittende,ukjent,,,1,9,,,7,,,,,18,,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,202,1690
+,Niels,Olsen,,,,Kjøpmann,Andre bosittende,ukjent,,,1,,,,,,,,7,9,,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,202,1690
+,Haagen,,Lockert,,,Kjøpmann,Andre bosittende,ukjent,,,1,,,,3,,,,,5,,,Wasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,202,1690
+,Lavritz,Cornelsen,,,,,Rasmus Heningsen Smit,Sundhorlehn,Nordmend,hyrt fra Bergen,1,,,1,,,,,,3,29,,Omgangs Tingsted,,195,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,202,1690
+,Olle,Gregorisen,,,,,Rasmus Heningsen Smit,Nordland,Nordmend,hyrt fra Nordland,1,,,,,,,,,2,8,,Omgangs Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,202,1690
+,Niels,Knudsen,,,,,Rasmus Heningsen Smit,Nordland,Nordmend,hyrt fra Nordland,1,3,,,,,,,,5,16,,Omgangs Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,202,1690
+,Guldbrand,Andersen,,,,,Rasmus Heningsen Smit,Sundhorlehn,Nordmend,hyrt fra Bergen,1,3,,,,,,,,5,20,,Omgangs Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,202,1690
+,Lauritz,Pedersen,,,,,Rasmus Heningsen Smit,Nordhorlehen,Nordmend,kommen til landet med nordlandsfarer,1,,,,,,,,,2,8,,Omgangs Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,202,1690
+,Christofer,Olsen,,,,,Rasmus Heningsen Smit,Helgeland,Nordmend,hyrt fra Helgeland,1,3,,,1,,,,,6,14,,Omgangs Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,202,1690
+,Anders,Joensen,,,,,Rasmus Heningsen Smit,Senien,Nordmend,Hyrt af Nordlandsfarer,1,,,2,,,,,,4,14,,Omgangs Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,202,1690
+,Svend,Joensen,,,,,Rasmus Heningsen Smit,Nordland,Nordmend,,1,4,,,,,,,,6,,,Omgangs Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,203,1690
+,Olle,Nielsen,,,,,Rasmus Heningsen Smit,,Nordmend,,,,,,,,,,,1,,,Omgangs Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,203,1690
+,Niels,Hansen,,,,,Rasmus Heningsen Smit,Trunhiem,Nordmend,hyrt fra Nordland,1,1,,1,,,,,,4,20,,Omgangs Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,203,1690
+,Tønis,Sørensen,,,,,Rasmus Heningsen Smit,Christiania,Nordmend,hyrt fra Nordland,1,,,1,,,,,,3,20,,Omgangs Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,203,1690
+,Josep,Iversen,,,,,Rasmus Heningsen Smit,Sundhorlehn,Nordmend,hyrt fra Nordland,1,,,,,,,,,2,8,,Omgangs Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,203,1690
+,Jonnas,Hansen,,,,,Rasmus Heningsen Smit,Bergen,Nordmend,hyrt fra Bergen,1,3,,,,,,,,5,11,,Omgangs Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,203,1690
+,Peder,Gilbretzen,,,,,Rasmus Heningsen Smit,Sundhorlehn,Nordmend,hyrt fra Bergen,1,3,,,,,,,,5,40,,Omgangs Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,203,1690
+,Niels,Nielsen,,,,,Rasmus Heningsen Smit,Nordland,Nordmend,hyrt fra Nordland,1,3,,,,,,,,5,30,,Omgangs Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,203,1690
+,Rasmus,Davidsen,,,,,Rasmus Heningsen Smit,Nordland,Nordmend,hyrt fra Bergen,1,4,,,,,,,,6,20,,Omgangs Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,203,1690
+,Hans,Gremesen,,,,,Rasmus Heningsen Smit,Bergen,Nordmend,hyrt af Jacob Andersen,1,2,1,,,,,,,5,5,,Omgangs Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,203,1690
+,Rasmus,Nielsen,,,,,Rasmus Heningsen Smit,Nordfiord,Nordmend,hyrt fra Bergen,1,,,2,,,,,,4,30,,Omgangs Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,203,1690
+,Olle,Olsen,,,,,Rasmus Heningsen Smit,Trunhiem,Nordmend,hyrt fra Trondhiem,1,1,,,,,,,,3,7,,Omgangs Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,203,1690
+,Rasmus,Jensen,,,,,Rasmus Heningsen Smit,Nordland,Nordmend,kommen did til landet af sig self,1,,,,1,,,,,3,4,,Omgangs Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,203,1690
+,Povel,Hansen,,,,,Rasmus Heningsen Smit,der i landet,Nordmend,,1,,,,,,,,,2,,,Omgangs Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,203,1690
+,Joen,Rasmussen,Skydtzskafer,,,Skyssskaffer,Rasmus Heningsen Smit,der i landet,Nordmend,,1,2,,,,,,,,4,,,Omgangs Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,203,1690
+,Rasmus,Siversen,Vnderfoged,,,Underfogd,Rasmus Heningsen Smit,Listerlehen,Nordmend,hyrt af presten hr. Lars,1,3,,,3,,,,,8,14,,Omgangs Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,203,1690
+,Gutorm,Andersen,fra Haab,,,,Rasmus Heningsen Smit,Nordfiord,Nordmend,hyrt fra Bergen,1,9,,,3,,,,,14,50,,Omgangs Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,203,1690
+,Svend,Nielsen,,,,,Rasmus Heningsen Smit,Bergen,Nordmend,hyrt fra Nordland,1,8,,,,,,,,10,18,,Omgangs Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,204,1690
+,Mathias,Olsen,,,,,Rasmus Heningsen Smit,Haab,Nordmend,,1,1,1,,,,,,,4,,,Omgangs Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,204,1690
+,Niels,Ifuersen,,,,,Rasmus Heningsen Smit,Laxefiorden,Finn,,1,,,,,,,,,2,,,Nedre Tannen,,201,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,204,1690
+,Gunder,Clemmensen,,,,,Rasmus Heningsen Smit,Tanen,Finn,,,,,,,,,,,1,,,Nedre Tannen,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,204,1690
+,Clemen,Gierilsen,,,,,Rasmus Heningsen Smit,Tanen,Finn,,1,5,,,,,,,,7,,,Nedre Tannen,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,204,1690
+,Svend,Joensen,,,,,Rasmus Heningsen Smit,Nordland,Finn,,1,5,,,,,,,,7,,,Nedre Tannen,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,204,1690
+,Isach,Olsen,,,,,Rasmus Heningsen Smit,Laxefiorden,Finn,,1,2,,,,,,,,4,,,Nedre Tannen,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,204,1690
+,Samuel,Saresen,,,,,Rasmus Heningsen Smit,Tanen,Finn,,,,,,1,1,1,,,4,,,Nedre Tannen,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,204,1690
+,Niels,Siversen,,,,,Rasmus Heningsen Smit,Tanen,Finn,,,,,,,,,,,1,,,Nedre Tannen,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,204,1690
+,Gunder,Saresen,,,,,Rasmus Heningsen Smit,Tanen,Finn,,1,2,,,,,,,,4,,,Nedre Tannen,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,204,1690
+,Sifuer,Olsen,,,,,Rasmus Heningsen Smit,Tannen,Finn,,1,2,,,,,,,,4,,,Nedre Tannen,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,204,1690
+,Anders,Olsen,,,,,Rasmus Heningsen Smit,Tanen,Finn,,,,,,,,1,,,2,,,Nedre Tannen,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,204,1690
+,Daniel,Hansen,,,,,Sander Nielsen,Ryfylche,Nordmend,hyrt fra Bergen,1,,,,,,,,,2,34,,Kiolefiords Tingsted,,208,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,204,1690
+,Niels,Iversen,,,,,Sander Nielsen,Kiølefiord,Nordmend,,,1,,,2,,,,,4,,,Kiolefiords Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,204,1690
+,Peder,Jonsen,,,,,Sander Nielsen,der i landet,Nordmend,,1,2,,,,,,,,4,,,Kiolefiords Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,205,1690
+,Siver,Villumsen,,,,,Sander Nielsen,Sundfiord,Nordmend,hyrt fra Bergen,1,3,1,,1,,,,,7,18,,Kiolefiords Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,205,1690
+,Olle,Joensen,,,,,Sander Nielsen,Nordfiord,Nordmend,hyrt fra Bergen,1,2,,,,,,,,4,15,,Kiolefiords Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,205,1690
+,Hans,Olsen,,,,,Sander Nielsen,Sundfiord,Nordmend,hyrt fra Bergen,1,,,,2,,,,,4,20,,Kiolefiords Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,205,1690
+,Anders,Villumsen,,,,,Sander Nielsen,Sundfiord,Nordmend,hyrt fra Sunddfiord,1,5,,,,,,,,7,20,,Kiolefiords Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,205,1690
+,Joen,Hansen,,,,,Sander Nielsen,Sogn,Nordmend,hyrt fra Bergen,1,3,,,,,,,,5,20,,Kiolefiords Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,205,1690
+,Knud,Jørgensen,,,,,Sander Nielsen,Ryfylke,Nordmend,hyrt fra Nordland,1,4,,,,,,,,6,14,,Kiolefiords Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,205,1690
+,Sifuer,Torsen,,,,,Sander Nielsen,Sundhorlen,Nordmend,hyrt fra Bergen,1,6,,,,,,,,8,30,,Kiolefiords Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,205,1690
+,Rasmus,Olsen,,,,,Sander Nielsen,Sundfiord,Nordmend,Hyrt af Sander Nielsen,1,1,,,,,,,,3,12,,Kiolefiords Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,205,1690
+,Tomes,Sandersen,,,,,Sander Nielsen,Bergen,Nordmend,Kommen af sig self til landet,1,1,,,,,,,,3,32,,Kiolefiords Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,205,1690
+,Tollev,Egebretzen,,,,,Sander Nielsen,Sogn,Nordmend,hyrt fra Bergen,1,3,,,,,,,,5,18,,Kiolefiords Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,205,1690
+,Olle,Pedersen,,,,,Sander Nielsen,Sundfiord,Nordmend,hyrt af Sander Nielsen,1,1,,,,,,,,3,5,,Kiolefiords Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,205,1690
+,Olle,Torkilsen,,,,,Sander Nielsen,Jedern,Nordmend,hyrt fra Bergen,1,1,,1,,,,,,4,15,,Kiolefiords Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,205,1690
+,Morten,Iversen,,,,,Sander Nielsen,Lybesby,Finn,,1,5,,,,,,,,7,,,"Lybesbye, Wejnes og Bondøe",,212,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,205,1690
+,Niels,Henrichsen,,,,Død,Sander Nielsen,,Finn,,,,,,,,,,,,,Død,"Lybesbye, Wejnes og Bondøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,205,1690
+,Olle,Pedersen,,,,,Sander Nielsen,Lybesby,Finn,,2,5,,,,,,,,8,,,"Lybesbye, Wejnes og Bondøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,205,1690
+,Niels,Olsen,,,,,Sander Nielsen,Lybesby,Finn,,1,1,,,1,,,,,4,,,"Lybesbye, Wejnes og Bondøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,205,1690
+,Peder,Erichsen,,,,,Sander Nielsen,Laxefjorden,Finn,,1,,,,1,,,,,3,,,"Lybesbye, Wejnes og Bondøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,205,1690
+,Niels,Aslachsen,,,,,Sander Nielsen,Lybesby,Finn,,1,,,,,,,,,2,,,"Lybesbye, Wejnes og Bondøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,205,1690
+,Olle,Mortensen,,,,,Sander Nielsen,Bondøe,Finn,,,,,,,,,,,1,,,"Lybesbye, Wejnes og Bondøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,206,1690
+,Olle,Olsen,,,,,Sander Nielsen,Lybesby,Finn,,1,2,,,,,,,,4,,,"Lybesbye, Wejnes og Bondøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,206,1690
+,Morten,Andersen,,,,,Sander Nielsen,Klouben,Finn,,1,,,,,,,,,2,,,"Lybesbye, Wejnes og Bondøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,206,1690
+,Peder,Nielsen,,,,Død,Sander Nielsen,,Finn,,,,,,,,,,,1,,Død,"Lybesbye, Wejnes og Bondøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,206,1690
+,Ellj,Nielsdaatter,,,,,Sander Nielsen,,Finn,,,,,,,,,,,1,,Ikke møtt,"Lybesbye, Wejnes og Bondøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,206,1690
+,Olle,Arilsen,,,,,Sander Nielsen,Porsanger,Finn,,,,,,1,,,,1,3,,,"Lybesbye, Wejnes og Bondøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,206,1690
+gl.,Olle,Pedersen,,Gamle,,,"Halvor Monsen, Sander Nielsens forige kiøbsvend",Sogn,Nordmand,hyrt fra Bergen,1,3,,,,,,,,5,18,,Kiolefiords Tingsted,,214,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,206,1690
+,Christofer,Pedersen,,,,,"Halvor Monsen, Sander Nielsens forige kiøbsvend",Bergen,Nordmand,hyrt fra Bergen,1,3,,,,,,,,5,19,,Kiolefiords Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,206,1690
+,Christen,Pedersen,,,,,"Halvor Monsen, Sander Nielsens forige kiøbsvend",Ryfylche,Nordmand,hyrt fra Bergen,1,6,,,,,,,,8,30,,Kiolefiords Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,206,1690
+,Mette,Andersdatter,,,,,"Halvor Monsen, Sander Nielsens forige kiøbsvend",der i landet,Nordmand,,,1,,,2,,,,,4,,,Kiolefiords Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,206,1690
+,Villum,Pedersen,,,,,"Halvor Monsen, Sander Nielsens forige kiøbsvend",Sundhorlehen,Nordmand,hyrt fra Bergen,1,,,,,,,,,2,39,,Kiolefiords Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,206,1690
+,Clemmen,Eskilsen,,,,,Sander Nielsens kiøbsvend Halvor Mogensen,Lybesby,Finn,,3,3,,1,,2,1,,,11,,,"Lybesbye, Wejnes og Bondøe",,215,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,206,1690
+,Niels,Nielsen,,,,,Sander Nielsens kiøbsvend Halvor Mogensen,Bondøe,Finn,,,2,,,,,,,,3,,,"Lybesbye, Wejnes og Bondøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,206,1690
+,Tude,Olsen,,,,,Sander Nielsens kiøbsvend Halvor Mogensen,Lybesby,Finn,,,,,,,,1,,,2,,,"Lybesbye, Wejnes og Bondøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,206,1690
+,Peder,Eskilsen,,,,,Sander Nielsens kiøbsvend Halvor Mogensen,Veynes,Finn,,1,,,,,,,,,2,,,"Lybesbye, Wejnes og Bondøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,206,1690
+,Michel,Arnesen,,,,Død,Sander Nielsens kiøbsvend Halvor Mogensen,,Finn,,,,,,,,,,,1,,Død,"Lybesbye, Wejnes og Bondøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,206,1690
+,Sara,Nielsen,,,,,Sander Nielsens kiøbsvend Halvor Mogensen,Bondøe,Finn,,1,1,,,,,,,,3,,,"Lybesbye, Wejnes og Bondøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,207,1690
+,Olle,Povelsen,,,,,Sander Nielsens kiøbsvend Halvor Mogensen,Lybesby,Finn,,1,,,,,,,,,2,,,"Lybesbye, Wejnes og Bondøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,207,1690
+,Iver,Nielsen,,,,,Sander Nielsens kiøbsvend Halvor Mogensen,Bondøe,Finn,,1,2,,,,,,,,4,,,"Lybesbye, Wejnes og Bondøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,207,1690
+,Peder,Einersen,,,,,Sander Nielsens kiøbsvend Halvor Mogensen,Bondøe,Finn,,,,,,,,,,,1,,,"Lybesbye, Wejnes og Bondøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,207,1690
+gl.,Peder,Nielsen,,Gamle,,,Sander Nielsens kiøbsvend Halvor Mogensen,Juxby,Finn,,1,2,,,,,,,,4,,,"Lybesbye, Wejnes og Bondøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,207,1690
+,Anders,Saresen,,,,,Sander Nielsens kiøbsvend Halvor Mogensen,Lybesby,Finn,,1,1,,,1,,,,,4,,,"Lybesbye, Wejnes og Bondøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,207,1690
+,Olle,Clemetsen,,,,,Sander Nielsens kiøbsvend Halvor Mogensen,Lybesby,Finn,,1,2,,,,,,,,4,,,"Lybesbye, Wejnes og Bondøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,207,1690
+,Peder,Sarasen,,,,,Sander Nielsens kiøbsvend Halvor Mogensen,Lybesby,Finn,,1,4,,,,,,,,6,,,"Lybesbye, Wejnes og Bondøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,207,1690
+,Peder,Nielsen,,,,,Sander Nielsens kiøbsvend Halvor Mogensen,Bondøe,Finn,,,,,,,3,1,,,5,,,"Lybesbye, Wejnes og Bondøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,207,1690
+vnge,Olle,Monsen,,Unge,,,Sander Nielsens kiøbsvend Halvor Mogensen,Porsanger,Finn,,,,,1,1,3,,,,6,,,"Lybesbye, Wejnes og Bondøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,207,1690
+,Gunder,Olsen,,,,,Sander Nielsens kiøbsvend Halvor Mogensen,Lybesby,Finn,,1,4,,,,,,,,6,,,"Lybesbye, Wejnes og Bondøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,207,1690
+,Peder,Sabesen,,,,,Sander Nielsens kiøbsvend Halvor Mogensen,Porsanger,Finn,,1,3,,,,,,,,5,,,"Lybesbye, Wejnes og Bondøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,207,1690
+,Erich,Pedersen,,,,Død,Sander Nielsens kiøbsvend Halvor Mogensen,,Finn,,,,,,,,,,,1,,Død,"Lybesbye, Wejnes og Bondøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,207,1690
+,Anders,Olsen,,,,,Sander Nielsens kiøbsvend Halvor Mogensen,Veynes,Finn,,,,,,1,1,1,,,4,,,"Lybesbye, Wejnes og Bondøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,207,1690
+,Sabbe,Olsen,,,,,Sander Nielsens kiøbsvend Halvor Mogensen,Veyenes,Finn,,1,3,,,,,,,,5,,,"Lybesbye, Wejnes og Bondøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,207,1690
+,Joen,Saresen,,,,,Sander Nielsens kiøbsvend Halvor Mogensen,Lybesby,Finn,,1,1,,,,,,,,3,,,"Lybesbye, Wejnes og Bondøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,207,1690
+,Aslach,Olsen,,,,,Sander Nielsens kiøbsvend Halvor Mogensen,Lybesby,Finn,,,,,,,,,,,1,,,"Lybesbye, Wejnes og Bondøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,207,1690
+,Samuel,Olsen,,,,,Forlatt,Findmarken,Nordmand,,1,5,,,,,,,,7,,,Kiolefiords Tingsted,,219,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,207,1690
+,Magnus,Asgutsen,,,,,Forlatt,Ryfylche,Nordmand,hyrt fra Bergen,1,4,,,1,,,,,7,23,,Kiolefiords Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,207,1690
+,Hans,Olsen,,,,,Forlatt,der i landet,Nordmand,,1,1,,,,,,,,3,,,Kiolefiords Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,207,1690
+,Ifuer,Hansen,,,,,Forlatt,Findmarchen,Nordmand,,1,1,,,,,,,,3,,,Kiolefiords Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,207,1690
+,Jacob,Jørgensen,,,,,Forlatt,der i landet,Nordmand,,1,,,,,,,,,2,,,Kiolefiords Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,207,1690
+,Olle,Rasmussen,,,,,Forlatt,Nordfiord,Nordmand,hyrt af hr. Anders Danielsen,1,1,,,,,,,,3,25,,Kiolefiords Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,208,1690
+,Olle,Svendsen,,,,,Forlatt,der i landet,Nordmand,,1,,,,,,,,,2,,,Kiolefiords Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,208,1690
+,Anders,Rasmussen,,,,,Forlatt,Nordfiord,Nordmand,hyrt fra Bergen,1,1,,,,,,,,3,8,,Kiolefiords Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,208,1690
+,Rasmus,Rasmussen,,,,,Forlatt,Nordfiord,Nordmand,hyrt fra Bergen,1,,,,,,,,,2,48,,Kiolefiords Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,208,1690
+,Moritz,Tørgersen,,,,,Forlatt,Listerlehen,Nordmand,Nordlandsfarer,1,,,1,,,,,,3,13,,Kiolefiords Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,208,1690
+,Olle,Hansen,,,,,Forlatt,Findmarchen,Nordmand,,1,,,,,,,,,2,,,Kiolefiords Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,208,1690
+,Rasmus,Tollefsen,,,,,Forlatt,der i landet,Nordmand,,1,1,,,,,,,,3,,,Kiolefiords Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,208,1690
+,Olle,Samuelsen,,,,,Forlatt,Sundhorlehen,Nordmand,hyrt af Sander Nielsen,1,1,,,,,,,,3,6,,Kiolefiords Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,208,1690
+,Engebret,Erlandtzen,,,,,Forlatt,Kiøllefiord,Nordmand,,1,1,,,,,,,,3,,,Kiolefiords Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,208,1690
+,Palle,Monsen,,,,,Forlatt,der i landet,Nordmand,,1,2,,,,,,,,4,,,Kiolefiords Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,208,1690
+,Elluf,Annotzen,,,,,Forlatt,Lybesby,Finn,,1,2,,,,,,,,4,,,"Lybesbye, Wejnes og Bondøe",,222,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,208,1690
+,Morten,Saresen,,,,,Forlatt,Lybesby,Finn,,1,5,,,,,,,,7,,,"Lybesbye, Wejnes og Bondøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,208,1690
+gl.,Clemmen,Olsen,,Gamle,,,Forlatt,Laxefiorden,Finn,,1,3,,,,,,,,5,,,"Lybesbye, Wejnes og Bondøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,208,1690
+,Erik,Helgesen,,,,,Forlatt,Lybesby,Finn,,1,1,,,,,,,,3,,ikke utred.,"Lybesbye, Wejnes og Bondøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,208,1690
+vnge,Clemmen,Olsen,,Unge,,,Forlatt,Veyenes,Finn,,1,2,,,1,,,,,5,,,"Lybesbye, Wejnes og Bondøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,208,1690
+,Magnus,Eskilsen,,,,,Forlatt,Veyenes,Finn,,1,1,,,,,,,,3,,,"Lybesbye, Wejnes og Bondøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,208,1690
+,Anders,Olsen,,,,,Forlatt,Tanen,Finn,,,,,,,,1,,,2,,,"Lybesbye, Wejnes og Bondøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,208,1690
+,Anders,Biørnsen,,,,,Forlatt,Porsanger,Finn,,1,1,,,,,,,,3,,,"Lybesbye, Wejnes og Bondøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,208,1690
+,Annot,Mortensen,,,,,Forlatt,Bondøe,Finn,,1,1,,,,,,,,3,,,"Lybesbye, Wejnes og Bondøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,208,1690
+gl.,Olle,Moensen,,Gamle,,,Forlatt,Porsanger,Finn,,1,2,,1,1,,,,,6,,,"Lybesbye, Wejnes og Bondøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,208,1690
+,Anders,Madsen,,,,,Forlatt,Koutken,Finn,,1,5,,,,,,,,7,,,"Lybesbye, Wejnes og Bondøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,208,1690
+,Olle,Arnesen,,,,,Forlatt,Veyenes,Finn,,1,2,,,,,,,,4,,,"Lybesbye, Wejnes og Bondøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,209,1690
+,Sara,Olsen,,,,,Forlatt,Bondøe,Finn,,1,,,,,,,,,2,,,"Lybesbye, Wejnes og Bondøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,209,1690
+,Peder,Eeriksen,,,,,Forlatt,Laxefiorden,Finn,,1,1,,,,,,,,3,,,"Lybesbye, Wejnes og Bondøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,209,1690
+,Niels,Giermunsen,,,,,Forlatt,Koutken,Finn,,1,3,,,,,,,,5,,ikke utred.,"Lybesbye, Wejnes og Bondøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,209,1690
+,Olle,Nielsen,,,,,Forlatt,Koutke,Finn,,1,2,,,1,,,,,5,,ikke utred.,"Lybesbye, Wejnes og Bondøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,209,1690
+,Peder,Olsen,,,,,Forlatt,Bondøe,Finn,,,,,,,,,,,1,,,"Lybesbye, Wejnes og Bondøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,209,1690
+,Niels,Mortensen,,,,,Forlatt,Adevehr,Finn,,1,4,,,,,1,,,7,,ikke utred.,"Lybesbye, Wejnes og Bondøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,209,1690
+,Olle,Eriksen,,,,,Forlatt,Bondøe,Finn,,1,2,,,,,,,,4,,,"Lybesbye, Wejnes og Bondøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,209,1690
+,Olle,Matzen,,,,,Forlatt,Koutken,Finn,,,,,,,,,,,1,,,"Lybesbye, Wejnes og Bondøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,209,1690
+,Olle,Joensen,,,,,Forlatt,Lybesbye,Finn,,1,1,,,,,,,,3,,,"Lybesbye, Wejnes og Bondøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,209,1690
+,Gunder,Andersen,,,,,Forlatt,Veynes,Finn,,1,2,,,,,,,1,5,,,"Lybesbye, Wejnes og Bondøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,209,1690
+,Peder,Mortensen,Skydtzskafer,,,Skyssskaffer,Forlatt,Laxefiorden,Finn,,1,,,,1,,,,,3,,,"Lybesbye, Wejnes og Bondøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,209,1690
+,Peder,Torkilsen,,,,,Sander Nielsen,Porsanger,Finn,,1,1,,,1,,,,,4,,,"Lybesbye, Wejnes og Bondøe",,224,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,209,1690
+,Povel,Aslachsen,,,,,Sander Nielsen,Veynes,Finn,,1,2,,,,,,,,4,,,"Lybesbye, Wejnes og Bondøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,209,1690
+,Halvor,Monsen,,,,,,,Nordmand,,1,3,,,4,,,,,9,,,Kiolefiords Tingsted,,228,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,210,1690
+hr.,Anders,Danielsen,prest,,,Prest,,,Nordmand,,,,,,,,,,,,,ikke hush.,Kiolefiords Tingsted,,236,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,210,1690
+,Knud,Torstensen,,,,,Sander Nielsen,Stavanger,Nordmand,hyrt fra Bergen,1,,,,,,,,,2,32,,Kielvig Tingsted,,246,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,211,1690
+,Sifuer,Pedersen,,,,,Sander Nielsen,Salten,Nordmand,hyrt af en bonde i Findmarken,1,1,,,,,,,,3,19,,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,211,1690
+,Niels,Iversen,,,,,Sander Nielsen,yetre Sogn,Nordmand,hyrt af Sander Nielsen,1,2,,,,,,,,4,14,,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,211,1690
+,Johan,Aagesen,,,,,Sander Nielsen,Ryfylche,Nordmand,hyrt fra Bergen,1,2,,,,,,,,4,13,,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,211,1690
+,Olle,Torbensen,,,,,Sander Nielsen,Ryfylke,Nordmand,hyrt af Helle Holbech,1,1,,,,,,,,3,16,,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,211,1690
+,Jørgen,Jørgensen,,,,,Sander Nielsen,Senyen,Nordmand,hyrt af presten udi Ingen,1,,,,,,,,,2,14,,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,211,1690
+,Lavritz,Johansen,,,,,Sander Nielsen,Senjen,Nordmand,hyrt af hr. Jens Matzen,1,,,,,,,,,2,5,,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,211,1690
+,Elluf,Olsen,,,,,Sander Nielsen,Salten,Finn,,1,3,,,1,,,,,6,,,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,211,1690
+,Gunder,Andersen,,,,,Sander Nielsen,Porsanger,Finn,,1,3,,,,,,,,5,,,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,211,1690
+,Anders,Gundersen,,,,,Sander Nielsen,Ytre Porsanger,Finn,,1,1,,,,,,,,3,,,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,211,1690
+,Anders,Eskilsen,,,,,Sander Nielsen,Laxefiorden,Finn,,1,,,,,,,,,2,,,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,211,1690
+,Sara,Biørnsen,,,,,Sander Nielsen,Porsanger,Finn,,1,,,,2,,,,,4,,,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,211,1690
+,Ifuer,Mortensen,,,,,Sander Nielsen,Adevehr,Finn,,1,2,,,,,1,,,5,,,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,211,1690
+,Anders,Clemmensen,,,,Død,Sander Nielsen,,Finn,,,,,,,,,,,1,,Død,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,211,1690
+,Anders,Elufsen,,,,,David Jacobsen,Sogn,Nordmand,hyrt af Sander Nielsen,1,2,,,,,,,,4,12,,Maasøe Tingsted,,250,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,211,1690
+,Hans,Knudsen,,,,,David Jacobsen,Sundmør,Nordmand,hyrt fra Nordland,1,1,,,,,,,,3,8,,Maasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,211,1690
+,Arne,Knudsen,,,,,David Jacobsen,Ryfylche,Nordmand,kommen til landet med Nordlansfarne,1,,1,,3,,,,,6,39,,Maasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,211,1690
+,Evert,Hansen,,,,,David Jacobsen,Laafoden,Nordmand,kommet til landet med sine forældre,1,,1,,,,,,,3,26,,Maasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,212,1690
+,Rasmus,Joensen,,,,,David Jacobsen,Stavanger,Nordmand,kommen af sig self,1,,,,2,,,,,4,9,,Maasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,212,1690
+,Simen,Jacobsen,,,,,David Jacobsen,Helgeland,Nordmand,hyrt fra Nordland,1,2,,,,,,,,4,23,,Maasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,212,1690
+,David,Joensen,,,,,David Jacobsen,Haranger,Nordmand,hyrt af Henrick Helberg,1,1,,,,,,,,3,20,,Maasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,212,1690
+,Peder,Christofersen,,,,,David Jacobsen,Nordland,Nordmand,Hyrt fra Nordland,1,,,,,,,,,2,20,,Maasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,212,1690
+,Peder,Sevalsen,,,,,David Jacobsen,Knarvigen,Nordmand,,1,1,,,1,,,,,4,,,Maasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,212,1690
+,Peder,Lavritzen,,,,,David Jacobsen,Salten,Nordmand,hyrt af en Finmarksbonde,1,2,,,2,,,,,6,8,,Maasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,212,1690
+,Hans,Erlandsen,,,,,David Jacobsen,Salten,Nordmand,hyrt fra Nordland,1,,,,1,,,,,3,7,,Maasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,212,1690
+,Peder,Sevalsen,,,,,David Jacobsen,der i landet,Nordmand,,1,,,,1,,,,,3,,,Maasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,212,1690
+,Olle,Pedersen,,,,,David Jacobsen,Salten,Nordmand,Kommen til landet af sig self,1,,,,1,,,,,3,14,,Maasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,212,1690
+,Samuel,Pedersen,,,,,David Jacobsen,der i landet,Nordmand,,1,1,,,,,,,,3,,,Maasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,212,1690
+,Christofer,Olsen,,,,,David Jacobsen,Salten,Nordmand,hyrt af en Finmarksbonde,1,,1,,,,,,,3,13,,Maasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,212,1690
+,Olle,Staaelsen,,,,,David Jacobsen,Stavanger,Nordmand,hyrt fra Bergen,1,2,,,,,,,,4,26,,Maasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,212,1690
+,Iver,Jensen,,,,,David Jacobsen,,Nordmand,,,,,,,,,,,1,,bortreist,Maasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,212,1690
+,Niels,Gundersen,,,,,David Jacobsen,der i landet,Finn,,1,,,,,,,,,2,,,Maasøe Tingsted,,255,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,212,1690
+,Morten,Gundersen,,,,,David Jacobsen,der i landet,Finn,,1,,,,1,,1,,,4,,,Maasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,212,1690
+,Olle,Nielsen,,,,,David Jacobsen,Refsfiord,Finn,,1,2,,,,,,,,4,,,Maasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,212,1690
+,Joen,Joensen,,,,,David Jacobsen,Koutke,Finn,,1,3,,,,,,,,5,,,Maasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,212,1690
+,Arne,Olsen,,,,Død,David Jacobsen,,Finn,,,,,,,,,,,,,Død,Maasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,212,1690
+,Mathias,Mortensen,Skydzskafer,,,Skyssskaffer,David Jacobsen,Adevehr,Finn,,1,1,,1,,,,,,4,,,Maasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,213,1690
+,David,Jacobsen,Kiøbmand,,,Kjøpmann,,,Nordmand,,,,,,,,,,10,11,,,Maasøe Tingsted,,258,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,213,1690
+,Christofer,Hansen,,,,,Forlatt av Johan Seehusen,Salten,Nordmand,hyrt af en Finmarksbonde,1,2,,,1,,,,,5,14,,Maasøe Tingsted,,260,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,213,1690
+,Olle,Josepsen,,,,,Forlatt av Johan Seehusen,Salten,Nordmand,hyrt af en Finmarksbonde,1,2,,,,,,,,4,20,,Maasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,213,1690
+,Henrich,Pedersen,,,,,Forlatt av Johan Seehusen,Inggen,Nordmand,,1,3,,,1,,,,,6,,,Maasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,213,1690
+,Christofer,Nielsen,,,,,Forlatt av Johan Seehusen,Salten,Nordmand,Kommen til landet af sig self,1,3,,,2,,,,,7,13,,Maasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,213,1690
+,Joen,Evesen,,,,Død,Forlatt av Johan Seehusen,,Nordmand,,1,,,,,,,,,1,,"Død, enken oppført",Maasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,213,1690
+,Morten,Bendixsen,,,,,Forlatt av Johan Seehusen,Salten,Nordmand,hyrt af en Finmarksbonde,1,2,,,,,,,,4,19,,Maasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,213,1690
+,Christofer,Christofersen,,,,,Forlatt av Johan Seehusen,Salten,Nordmand,hyrt af en Finmarksbonde,1,1,,1,1,,,,,5,19,,Maasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,213,1690
+,Daniel,Asbiørsen,,,,,Forlatt av Johan Seehusen,Salten,Nordmand,hyrt fra Bergen,1,4,,,2,,,,,8,15,,Maasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,213,1690
+,Ellias,Arnesen,,,,,Forlatt av Johan Seehusen,Salten,Nordmand,hyrt af en Finmarksbonde,1,2,,,,,,,,4,16,,Maasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,213,1690
+,Bellest,Joensen,,,,,Forlatt av Johan Seehusen,Stavanger,Nordmand,Hyrt af Helle Holbech,1,2,1,,3,,,,,8,26,,Maasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,213,1690
+,Hover,Olsen,,,,,Forlatt av Johan Seehusen,Nordland,Nordmand,hyrt fra Bergen,1,,,,1,,,,,3,33,,Maasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,213,1690
+,Olle,Pedersen,,,,,Forlatt av Johan Seehusen,Salten,Nordmand,kommen af sig self til landet,1,,,,3,,,,,5,14,,Maasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,213,1690
+,Niels,Olsen,,,,,Forlatt av Johan Seehusen,Sundfiord,Nordmand,hyrt fra Sundfiord,1,1,,,,,,,,3,18,,Maasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,213,1690
+,Nils,Pedersen,,,,,Forlatt av Johan Seehusen,Salten,Nordmand,hyrt af en Finmarksbonde,1,,,,,,,,,2,14,,Maasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,214,1690
+,Toer,Nielsen,,,,,Forlatt av Johan Seehusen,der i landet,Nordmand,,1,2,,,,,,,,4,,,Maasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,214,1690
+,Jacob,Toersen,,,,,Forlatt av Johan Seehusen,Sogn,Nordmand,hyrt af en Finmarksbonde,1,,,,1,,,,,3,20,,Maasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,214,1690
+,Simen,Henrichsen,,,,,Forlatt av Johan Seehusen,Torne Lapmark,Nordmand,Kommen til landet af sig self,1,3,,,,,,,,5,,,Maasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,214,1690
+,Søren,Jensen,,,,,Forlatt av Johan Seehusen,Aalborg,Nordmand,hyrt fra Bergen,1,1,,,2,,,,,5,30,,Maasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,214,1690
+,Olle,Christensen,,,,,Marn Helberg,Salten,Nordmand,hyrt af en Finmarksbonde,1,,1,,3,,,,,6,20,,Maasøe Tingsted,,271,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,214,1690
+,Hans,Olsen,,,,,Marn Helberg,Kielvig,Nordmand,,1,2,,4,3,,,,,11,,,Maasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,214,1690
+,Lavritz,Olsen,,,,,Marn Helberg,Salten,Nordmand,hyrt af en Finmarksbonde,1,2,,,2,,,,,6,20,,Maasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,214,1690
+,Knud,Torstensen,,,,,Marn Helberg,Stavanger,Nordmand,hyrt fra Bergen,,1,,,,,,,,2,30,,Maasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,214,1690
+,Einner,Olsen,,,,,Marn Helberg,der i landet,Nordmand,,1,4,,,,,,,,6,,,Maasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,214,1690
+,Mickel,Jørgensen,,,,Død,Marn Helberg,,Nordmand,,,,,,,,,,,,,Død,Maasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,214,1690
+,Erik,Pedersen,,,,,Marn Helberg,Jemteland,Nordmand,hyrt af en Finmarksbonde,1,,,,,,,,,2,16,,Maasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,214,1690
+,Gabriel,Nielsen,,,,,Marn Helberg,Bergen,Nordmand,Hyrt fra Bergen af Marn Helberg,,2,,,,,,,,3,20,,Maasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,214,1690
+,Asbiørn,Christofersen,,,,,Marn Helberg,Salten,Nordmand,hyrt fra Nordland,1,,1,,1,,,,,4,13,,Maasøe Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,214,1690
+,Sevald,Monsen,,,,,Marn Helberg,Trunhiem,Nordmand,hyrt af Marn Helberg,1,2,1,,,,,,,5,33,,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,214,1690
+,Johanis,Andersen,,,,,Marn Helberg,Kielvigen,Nordmand,,1,2,,1,,,,,,5,,,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,215,1690
+,Tomas,Rasmussen,,,,,Marn Helberg,der i landet,Nordmand,,1,2,,,,,,,,4,,,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,215,1690
+,Anfind,Gundersen,,,,,Marn Helberg,Ryfylche,Nordmand,hyrt af Helle Holbeck,1,3,,,,,,,,5,9,,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,215,1690
+,Christofer,Andersen,,,,Død,Marn Helberg,,Nordmand,,,,,,,,,,,1,,Død,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,215,1690
+,Tomas,Tollachsen,,,,,Marn Helberg,Stavanger,Nordmand,hyrt fra Bergen,1,4,,,,,,,,6,19,,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,215,1690
+,Peder,Pedersen,,,,,Marn Helberg,Salten,Nordmand,Hyrt fra Bergen af Helberg,1,2,,,,,,,,4,9,,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,215,1690
+,Lars,Pedersen,,,,,Marn Helberg,Salten,Nordmand,hyrt fra Bergen af Alhed Henrichsaattr,1,3,,,,,,,,5,8,,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,215,1690
+,Jørgen,Jacobsen,,,,,Marn Helberg,der i landet,Nordmand,,1,2,,,,,,,,4,,,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,215,1690
+,Olle,Joensen,,,,,Marn Helberg,Sundfiord,Nordmand,hyrt fra Bergen,1,1,,,,,,,,3,36,,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,215,1690
+,Jørgen,Rasmussen,,,,,Marn Helberg,Nordland,Nordmand,hyrt fra bergen af Helberg,1,4,,,,,,,,6,32,,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,215,1690
+,Niels,Torsen,,,,,Marn Helberg,Haranger,Nordmand,hyrt fra Bergen af Hele Holbek,,3,,,,,,,,4,32,,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,215,1690
+,Abraham,Edisen,,,,,Marn Helberg,Salten,Nordmand,,1,2,,,1,,,,,5,12,,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,215,1690
+,Lavritz,Olsen,,,,,Marn Helberg,der i landet,Nordmand,,1,1,,,,,,,,3,,,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,215,1690
+,Iver,Pedersen,Find,,,,Marn Helberg,Porsanger,Finn,,1,4,,,1,,,,,7,,,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,215,1690
+,Alhed,Henrichsdatter,handlende,,,Kjøpmann,,,Nordmand,,,,,,8,,,,,9,,enke,Kielvig Tingsted,,279,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,215,1690
+,Niels,Knudsen,,,,,Søren Paaske,Bergen,Nordmand,Haver satt sig selfver der ned i landet,1,,,,1,,,,,3,23,,Kielvig Tingsted,,280,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,215,1690
+,Olle,Povelsen,,,,,Søren Paaske,Nordfiord,Nordmand,hyrt fra bergen af Helle Helberg,1,,1,,,,,,,3,20,,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,216,1690
+,Ingus,Lavritzen,,,,,Søren Paaske,der i landet,Nordmand,,,,,,,,,,,1,,,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,216,1690
+,Erik,Pedersen,,,,,Søren Paaske,Stavanger,Nordmand,hyrt af Bergen,1,3,,,,,,,,5,28,,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,216,1690
+,Rasmus,Simensen,,,,,Søren Paaske,der i landet,Nordmand,,,3,,,,,,,,4,,,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,216,1690
+,Arne,Torgiersen,,,,,Søren Paaske,der i landet,Nordmand,,1,,,,,,,,,2,,,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,216,1690
+,Joen,Joensen,,,,,Søren Paaske,Sundfiord,Nordmand,hyrt af Helle Helberg,1,4,,,,,,,,6,22,,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,216,1690
+,Siver,Espensen,,,,,Søren Paaske,Sogn,Nordmand,hyrt af Helie Holbech,1,4,,,,,,,,6,32,,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,216,1690
+,Joen,Christofersen,Klocher,,,Klokker,Søren Paaske,Bergen,Nordmand,med sig self nedsatt her i landet,1,3,,,,,,,,5,8,,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,216,1690
+,Christen,Aamundsen,,,,,Søren Paaske,Nordland,Nordmand,hyrt af Sørn Paaske,1,1,,,,,,,,3,10,,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,216,1690
+,Henrich,Pedersen,,,,,Søren Paaske,Sverig,Nordmand,sig self nedsatt her i landet,1,2,,,,,,,,4,12,,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,216,1690
+,Niels,Einersen,,,,,Søren Paaske,Salten,Nordmand,hyrt af Sørn Paaske,1,2,,,,,,,,4,10,,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,216,1690
+,Magnus,Siversen,,,,,Søren Paaske,Oster,Nordmand,med Nordlandsfarerne,1,3,,,,,,,,5,25,,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,216,1690
+,Johanis,Aamunsen,,,,,Søren Paaske,Salten,Nordmand,sig der self ned i landet,,,,,,,,,,1,14,,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,216,1690
+,Gunder,Olsen,,,,,Søren Paaske,Sundfiord,Nordmand,hyrt af Sørn Paaske,1,3,,,,,,,,5,10,,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,216,1690
+,Lavritz,Lavritzen,,,,,Søren Paaske,Sundmør,Nordmand,hyrt fra Bergen,1,,,,,,,,,2,12,,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,216,1690
+,Magnus,Elingsen,,,,,Søren Paaske,Ryfylche,Nordmand,hyrt fra Bergen,1,,,,,,,,,2,8,,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,216,1690
+,Johnnas,Clausen,,,,,Søren Paaske,Trunhiem,Nordmand,sat sig self der ned i Landet,1,1,,1,,,,,,4,14,,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,216,1690
+,Olle,Pedersen,,,,,Søren Paaske,der i landet,Nordmand,,1,4,,,,,,,,6,,,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,216,1690
+,Peder,Nielsen,,,,,Søren Paaske,Bergen,Nordmand,hyrt af Mons Lind,1,,1,,,,,,,3,9,,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,216,1690
+,Anders,Sachariasen,,,,,Søren Paaske,Nordland,Nordmand,sat sig self der ned i Landet,1,1,,,,,,,,3,12,,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,216,1690
+,Peder,Lavritzen,,,,,Søren Paaske,Sundmør,Nordmand,hyrt fra Bergen,1,,,,2,,,,,4,50,,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,216,1690
+,Olle,Erichsen,,,,Død,Søren Paaske,,Nordmand,,,,,,,,,,,1,,Død,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,216,1690
+,Morten,Einersen,,,,,Søren Paaske,Porsanger,Finn,,1,4,,,,,,,,6,,,Kielvig Tingsted,,287,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,217,1690
+,Morten,Annotsen,Lehnsmand,,,Lensmann,Søren Paaske,Porsanger,Finn,,,,,,,2,1,1,,5,,,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,217,1690
+,Jux,Annotzen,,,,,Søren Paaske,Porsanger,Finn,,,,,,,,,,,1,,,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,217,1690
+,Erik,Olsen,,,,,Søren Paaske,Porsanger,Finn,,1,,,,,,,,,2,,,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,217,1690
+,Nicke,Joensen,,,,,Søren Paaske,Porsanger,Finn,,1,,,,,,,,,2,,,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,217,1690
+,Peder,Pedersen,,,,,Søren Paaske,Adevehr,Finn,,,,,,,,,,,1,,,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,217,1690
+,Niels,Ariusen,,,,Død,Søren Paaske,,Finn,,,,,,,,,,,1,,Død,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,217,1690
+,Synneve,Andersdaater,,,,,Søren Paaske,,Finn,,,,,,,,,,,1,,ikke møtt,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,217,1690
+,Joen,Juxsen,,,,,Søren Paaske,Adevehr,Finn,,,,,,,,,,,1,,,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,217,1690
+,Anders,Olsen,,,,,Søren Paaske,Porsanger,Finn,,1,,,,,,,,,2,,,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,217,1690
+,Clemen,Nielsen,,,,,Søren Paaske,Kluben,Finn,,,,,,,,1,,,2,,,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,217,1690
+,Giermund,Clemensen,,,,,Søren Paaske,Porsanger,Finn,,1,5,,,1,,,,,8,,,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,217,1690
+,Gudtorm,Nielsen,,,,,Søren Paaske,Nordland,Finn,,1,,,,,,,,,2,,,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,217,1690
+,Morten,Gundersen,,,,,Søren Paaske,Porsanger,Finn,,1,2,,1,,,,,,5,,,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,217,1690
+,Morten,Torsen,,,,,Søren Paaske,Kluben,Finn,,1,3,,,,,,,,5,,,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,217,1690
+,Jurt,Nielsen,,,,,Søren Paaske,Kluben,Finn,,1,3,,,1,,,,,6,,,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,217,1690
+,Giermund,Nielsen,,,,,Søren Paaske,Porsanger,Finn,,,,,,,,,,,1,,,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,217,1690
+,Iver,Gundersen,,,,,Søren Paaske,Porsanger,Finn,,1,,,,,,1,,,3,,,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,217,1690
+,Giermund,Gundersen,,,,,Søren Paaske,Porsanger,Finn,,1,,,,,,,,,2,,,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,217,1690
+,Gunder,Sabesen,,,,,Søren Paaske,Kluben,Finn,,1,3,,,,,,,,5,,,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,217,1690
+,Martha,Giermvndsdaatter,,,,,Søren Paaske,,Finn,,,,,,,,,,,1,,i tingsvidnet,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,217,1690
+,Peder,Joensen,,,,,Søren Paaske,Porsanger,Finn,,1,4,,,1,,,,,7,,,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,217,1690
+,Peder,Lavritzen,af inggen,,,,Søren Paaske,Trunhiem,Finn,kommen til landet af sig self,1,2,,1,1,,,,,6,50,,Kielvig Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,217,1690
+,Søren,,Paaske,,,Kjøpmann,,,Nordmand,,1,5,,,8,,,,,15,,,Kielvig Tingsted,,295,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,218,1690
+,Tollef,Olsen,Kiøbmand,,,Kjøpmann,,,Nordmand,,1,,,,,,,,10,12,,,Ingens Tingsted,,298,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,218,1690
+,Hans,Chrstofersen,,,,,Tollef Olsen,Nordland,Nordmand,sat sig selv ned i landet,,3,,,,,,,,4,18,,Ingens Tingsted,,300,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,218,1690
+,Iver,Christofersen,,,,,Tollef Olsen,Nordland,Nordmand,komen til landet af sig self,1,4,,,,,,,,6,19,,Ingens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,218,1690
+,Olle,Olsen,Find,,,,Tollef Olsen,Nordland,Finn,Hyrt af presten hr. Sørn i Ingen,1,,,,,,,,,2,13,,Ingens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,218,1690
+,Iver,Mortensen,Find,,,,Peter Larsen,Adevehr,Finn,,,2,,,,,1,,,4,,,Ingens Tingsted,,302,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,218,1690
+,Knud,Tollachsen,,,,,Peter Larsen,Bergen,Nordmand,hyrt af Peter Larsen,1,2,,,,,,,,4,13,,Ingens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,218,1690
+,Olle,Olsen,,,,,Peter Larsen,Haranger,Nordmand,hyrt af fornne bonde Peter Larsen,1,,,1,,,,,,3,13,,Ingens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,218,1690
+,Esajas,Petersen,,,,,Peter Larsen,Inggen,Nordmand,,1,4,,,,,,,,6,,,Ingens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,218,1690
+,Lavritz,Petersen,,,,,Peter Larsen,fød der i landet,Nordmand,,1,2,,,,,,,,4,,,Ingens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,218,1690
+,Joen,Siversen,,,,,Abraham Hopland,Salten,Nordmand,hyrt fra Nordland,1,3,,,,,,,,5,23,,Ingens Tingsted,,305,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,218,1690
+,Hermand,Svendsen,,,,,Abraham Hopland,fød der i landet,Nordmand,,1,,,,,,,,,2,,,Ingens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,218,1690
+,Peder,Pedersen,,,,,Abraham Hopland,Nordland,Nordmand,hyrt fra Nordland,1,1,,,,,,,,3,13,,Ingens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,218,1690
+,Niels,Biørnsen,,,,,Abraham Hopland,Inggen,Nordmand,,1,,,2,,,,,,4,,,Ingens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,219,1690
+,Olle,Aamundsen,,,,,Abraham Hopland,Aafoden,Nordmand,sat sig self der need i landet,1,,,,,,,,,2,4,,Ingens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,219,1690
+,Olle,Engolsen,,,,,Abraham Hopland,fød der i landet,Nordmand,,1,,,,,,,,,2,,,Ingens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,219,1690
+,Olle,Einersen,vnderfoget,,,Underfogd,Abraham Hopland,sundfiord,Nordmand,sat sig self der ned i landet,1,4,,,,,,,,6,26,,Ingens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,219,1690
+,Otte,Ottesen,skytzskafer,,,Skyssskaffer,Abraham Hopland,fød der i landet,Nordmand,,1,3,,,,,,,,5,,,Ingens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,219,1690
+,Jørgen,Dirichsen,,,,,Abraham Hopland,fød der i landet,Nordmand,,1,3,,,,,,,,5,,,Ingens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,219,1690
+,Iver,Arnesen,,,,,Abraham Hopland,Nordland,Nordmand,hyrt af hr Anders Luckasen,1,,,,,,,,,2,4,,Ingens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,219,1690
+,Morten,Iversen,Find,,,,Abraham Hopland,Refsfiorden,Finn,,1,2,,,,,,,,4,,,Ingens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,219,1690
+,Lasse,Andersen,,,,,Forlatt,Sogn,Nordmand,hyrt fra Bergen,1,1,,,,,,,,3,16,,Ingens Tingsted,,311,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,219,1690
+,Anders,Engebretzen,,,,,Forlatt,Sundmør,Nordmand,hyrt af presten hr. Anders i Inggen,1,,1,1,,,,,,4,2,,Ingens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,219,1690
+,Christopfer,Knudsen,,,,,Forlatt,Salten,Nordmand,med Nordlandsfarene,1,5,,,,,,,,7,50,,Ingens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,219,1690
+,Matz,Pedersen,,,,,Forlatt,Bergen,Nordmand,med Nordlandsfarene,1,1,,,,,,,,3,36,,"Inggen, kielvig, Maasøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,219,1690
+,Petter,Rasmussen,,,,,Forlatt,Nordfiord,Nordmand,hyrt fra Bergen,,,,,,,,,,1,14,,"Inggen, kielvig, Maasøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,219,1690
+,Engebret,Olsen,,,,,Forlatt,Salten,Nordmand,kommen til landet af sig self,,,,,,,,,,1,9,,"Inggen, kielvig, Maasøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,219,1690
+,Lauritz,Johansen,Smel,,,,Forlatt,Seenigen,Nordmand,hyrt af hr. Jens Matzen,1,,,,,,,,,2,5,,"Inggen, kielvig, Maasøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,219,1690
+,Tomas,Hansen,Klocher,,,Klokker,Forlatt,Bergen,Nordmand,hyrt af Helle Holbech,1,2,,,,,,,,4,16,,"Inggen, kielvig, Maasøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,219,1690
+,Sakarias,Nielsen,Skytzskafer,,,Skyssskaffer,Forlatt,Kielvigen,Nordmand,,1,1,,,,,,,,3,,,"Inggen, kielvig, Maasøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,219,1690
+,Abraham,Isachsen,,,,,Forlatt,Nordfiord,Nordmand,hyrt fra Bergen,1,,,,,,,,,2,50,,"Inggen, kielvig, Maasøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,219,1690
+,Johanis,Anthonisen,,,,,Forlatt,Nordfiord,Nordmand,hyrt fra Nordland af Henrich Helberg,1,,,,,,,,,2,46,,"Inggen, kielvig, Maasøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,219,1690
+,Anders,Ifuersen,,,,,Forlatt,Refsfiorden,Nordmand,,1,,,,,,,,,2,,,"Inggen, kielvig, Maasøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,220,1690
+,Mons,Andersen,,,,,Forlatt,Sundmør,Nordmand,hyrt af Henrich Helberg,1,1,,,,,,,,3,19,,"Inggen, kielvig, Maasøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,220,1690
+,Sørn ,Larsen,,,,,Forlatt,Sundfiord,Nordmand,hyrt af Sander Nielsen,1,,,,,,,,,2,9,,"Inggen, kielvig, Maasøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,220,1690
+,Olle,Hoversen,,,,,Forlatt,Nordland,Nordmand,hyrt fra Nordland,1,,1,,,,,,,3,7,,"Inggen, kielvig, Maasøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,220,1690
+,Jacob,Johansen,,,,,Forlatt,Sundfiord,Nordmand,hyrt af en Findmarksbonde,1,1,,,,,,,,3,14,,"Inggen, kielvig, Maasøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,220,1690
+,Halvor,Viersen,,,,,Forlatt,Sundhorlehen,Nordmand,,1,,,,,,,,,2,9,,"Inggen, kielvig, Maasøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,220,1690
+,Joen,Baaresen,,,,,Forlatt,Trunhiem,Nordmand,Hyrt af maren Helberg,1,,,,,,,,,2,10,,"Inggen, kielvig, Maasøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,220,1690
+,Erland,Christofersen,,,,,Forlatt,Salten,Nordmand,didkommen af sig self ned ned i landet,1,,,,,,,,,2,15,,"Inggen, kielvig, Maasøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,220,1690
+,Henrich,Henrichsen,,,,,Forlatt,Salten,Nordmand,hyrt fra Nordland,1,,,,,,,,,2,4,,"Inggen, kielvig, Maasøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,220,1690
+,Halvor,Henrichsen,Klocher,,,Klokker,Forlatt,der i landet,Nordmand,,,,,,,,,,,1,,,"Inggen, kielvig, Maasøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,220,1690
+,Hans,Christofersen,,,,,Forlatt,Sogn,Nordmand,hyrt af en Findmarksbonde,1,2,,1,,,,,,5,11,,"Inggen, kielvig, Maasøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,220,1690
+,Siver,Gundersen,,,,,Forlatt,Salten,Nordmand,hyrt af Hellie Holbech,,1,,,,,,,,2,31,,"Inggen, kielvig, Maasøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,220,1690
+,Joen,Rasmussen,,,,,Forlatt,Sogn,Nordmand,med Nordlandsfarene,,,,,,,,,,1,20,,"Inggen, kielvig, Maasøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,220,1690
+,Rasmus,Pedersen,,,,,Forlatt,Salten,Nordmand,med Nordlandsfarene,1,1,,1,,,,,,4,16,,"Inggen, kielvig, Maasøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,220,1690
+,Olle,Andersen,,,,,Forlatt,Salten,Nordmand,Sat sig self ned i landet,1,1,,,,,,,,3,14,,"Inggen, kielvig, Maasøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,220,1690
+,Christofer,Helgesen,,,,,Forlatt,Salten,Nordmand,hyrt af forige foget Mogens Lind,1,1,,,,,,,,3,14,,"Inggen, kielvig, Maasøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,220,1690
+,Anders,Andersen,,,,,Forlatt,Sundfiord,Nordmand,hyrt af Helle Holbech,1,1,,,1,,,,,4,8,,"Inggen, kielvig, Maasøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,220,1690
+,Jens,Hansen,,,,,Forlatt,Kielvig,Nordmand,,1,,,,,,,,,2,,,"Inggen, kielvig, Maasøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,220,1690
+,Joen,Monsen,,,,,Forlatt,Nordhorlehen,Nordmand,hyrt af Giert Dodt,1,,,1,,,,,,3,25,,"Inggen, kielvig, Maasøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,220,1690
+,Isach,Rasmussen,,,,,Forlatt,der i landet,Nordmand,,,2,,,,,,,,3,,,"Inggen, kielvig, Maasøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,221,1690
+,Engebret,Halvorsen,,,,,Forlatt,Trunhiem,Nordmand,komen af sig self til landet,1,2,,,,,,,,4,11,,"Inggen, kielvig, Maasøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,221,1690
+,Simen,Michelsen,,,,,Forlatt,Sverig,Nordmand,kommen til Findmarken af sig self,11,,,,,,,,,12,11,,"Inggen, kielvig, Maasøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,221,1690
+,Olle,Henrichsen,,,,,Forlatt,der i landet,Nordmand,,1,1,,,,,,,,3,,,"Inggen, kielvig, Maasøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,221,1690
+,Hans,Frantzen,,,,,Forlatt,Salten,Nordmand,af sig self kommen til landet,1,3,,,,,,,,5,50,,"Inggen, kielvig, Maasøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,221,1690
+,Halvor,Torkilsen,,,,,Forlatt,Ryfylche,Nordmand,sat sig self der ned i landet,1,1,,1,,,,,1,5,20,,"Inggen, kielvig, Maasøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,221,1690
+,Jacob,Johansen,,,,,Forlatt,Kiølefiord,Nordmand,,1,1,,,,,,,,3,,,"Inggen, kielvig, Maasøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,221,1690
+,Daniel,Samuelsen,,,,,Forlatt,Salten,Nordmand,kommen af sig self der ned i landet,1,1,,,,,,,,3,15,,"Inggen, kielvig, Maasøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,221,1690
+,Samuel,Danielsen,,,,,Forlatt,Salten,Nordmand,kommen til landet af sig self,1,2,,,,,,,,4,15,,"Inggen, kielvig, Maasøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,221,1690
+,Joen,Jansen,,,,,Forlatt,Bergen,Nordmand,hyrt fra Bergen af Sørn Paaske,1,,,,,,,,,2,7,,"Inggen, kielvig, Maasøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,221,1690
+,Jacob,Jacobsen,,,,,Forlatt,Stavanger,Nordmand,hyrt af Hellie Holbech,1,4,,,,,,,,6,25,,"Inggen, kielvig, Maasøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,221,1690
+,Knud,Jensen,,,,,Forlatt,Nordland,Nordmand,kommen af sig self til landet,1,1,,,,,,,,3,12,,"Inggen, kielvig, Maasøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,221,1690
+,Tollach,Carlsen,,,,,Forlatt,Ryfylke,Nordmand,med Nordlandsfarer,1,1,,,,,,,,3,22,,"Inggen, kielvig, Maasøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,221,1690
+,Peder,Pedersen,Skreder,,,Skredder,Forlatt,Helsingborg,Nordmand,hyrt fra Bergen,1,5,,,,,,,,7,27,,"Inggen, kielvig, Maasøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,221,1690
+,Joen,Jacobsen,Vnderfoget,,,Underfogd,Forlatt,Sogn,Nordmand,hyrt af Henrich Helberg,1,,,,5,,,,,7,23,,"Inggen, kielvig, Maasøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,221,1690
+,Arne,Torkilsen,,,,,Forlatt,Findmarken,Nordmand,,1,,,,,,,,,2,,,"Inggen, kielvig, Maasøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,221,1690
+,Sørn,Sørensen,,,,,Forlatt,Kiølefiord,Nordmand,,1,,,,,,,,,2,,,"Inggen, kielvig, Maasøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,221,1690
+,Peder,Andersen,,,,,Forlatt,Salten,Nordmand,hyrt af en Findmarksbonde,1,2,,,,,,,,4,16,,"Inggen, kielvig, Maasøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,221,1690
+,Niels,Nielsen,Klocker,,,Klokker,Forlatt,Kiølefiord,Nordmand,,1,1,,,,,,,,3,,,"Inggen, kielvig, Maasøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,221,1690
+,Gunder,Mortensen,,,,,Forlatt,Porsanger,Finn,,1,3,,,2,,,,,7,,,"Inggen, kielvig, Maasøe",,323,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,222,1690
+,Aamund,Andersen,,,,,Forlatt,Torne Lapmarken,Finn,,1,5,,,2,,,,,9,,lever med sine reen,"Inggen, kielvig, Maasøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,222,1690
+,Niels,Joensen,,,,,Forlatt,Porsanger,Finn,,1,3,,,,,,,,5,,lever med sine reen,"Inggen, kielvig, Maasøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,222,1690
+,Anders,Nielsen,Laas,,,,Forlatt,,Finn,,1,1,,,,,,,,3,,,"Inggen, kielvig, Maasøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,222,1690
+,Povel,Andersen,,,,,Forlatt,Torne Lapmarken,Finn,,,,,,,,,,,1,,,"Inggen, kielvig, Maasøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,222,1690
+,Olle,Christofersen,,,,,Forlatt,Torne Lapmarken,Finn,,,,,,,,,,,1,,,"Inggen, kielvig, Maasøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,222,1690
+,Erich,Mortensen,,,,,Forlatt,Qvalsund,Finn,,,,,,,,,,,1,,,"Inggen, kielvig, Maasøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,222,1690
+,Jux,Meletzen,,,,,Forlatt,Adevehr,Finn,,,4,,,,,,,,5,,lever med sine reen,"Inggen, kielvig, Maasøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,222,1690
+,Clemen,Pedersen,,,,,Forlatt,Porsanger,Finn,,,,,,,,,,,1,,lever med sine reen,"Inggen, kielvig, Maasøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,222,1690
+,Anders,Povelsen,,,,,Forlatt,Torne Lapmarken,Finn,,,,,,,,,,,1,,lever med sine reen,"Inggen, kielvig, Maasøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,222,1690
+,Christofer,Andersen,,,,,Forlatt,Torne Lapmarken,Finn,,1,3,,,,,,,,5,,Lefte ved sine reen oc skytteri,"Inggen, kielvig, Maasøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,222,1690
+,Jens,Nielsen,,,,,Forlatt,Qvalsund,Finn,,,,,,,,1,,,2,,,"Inggen, kielvig, Maasøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,222,1690
+,Sara,Annotzen,,,,,Forlatt,Porsanger,Finn,,1,1,,,,,,,,3,,,"Inggen, kielvig, Maasøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,222,1690
+,Joen,Matiesen,,,,,Forlatt,Koutken,Finn,,1,6,1,,2,,,,,11,,,"Inggen, kielvig, Maasøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,222,1690
+,Niels,Torsen,,,,,Forlatt,Koutken,Finn,,1,5,,,,,,,,7,,lever ved sine reen,"Inggen, kielvig, Maasøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,222,1690
+,Anders,Nielsen,,,,,Forlatt,Porsanger,Finn,,1,2,,,,,1,,,5,,,"Inggen, kielvig, Maasøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,222,1690
+,Lavritz,Andersen,,,,,Forlatt,Koutken,Finn,,1,2,,,,,,,,4,,,"Inggen, kielvig, Maasøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,222,1690
+,Mathias,Matiesen,,,,,Forlatt,Qvalsund,Finn,,,,,,,,,,,1,,,"Inggen, kielvig, Maasøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,222,1690
+,Olle,Gundersen,,,,,Forlatt,Koutke,Finn,,,,,,,,,,,1,,,"Inggen, kielvig, Maasøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,222,1690
+gl.,Peder,Sabbesen,,Gamle,,,Forlatt,,Finn,,,,,,,,,,,1,,lever ved almisse,"Inggen, kielvig, Maasøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,222,1690
+,Niels,Tomesen,,,,,Forlatt,Varanger,Finn,,1,1,,,,,,,,3,,,"Inggen, kielvig, Maasøe",,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,222,1690
+,Mathias,Rasmussen,,,,,Sørn Paaske,Stavanger,Nordmand,hyrt af Giert Dodtz,1,1,,,,,,,,3,12,,"Inggen, kielvig, Maasøe",,325,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,223,1690
+hr.,Peder,Thomesen,Prest,,,Prest,,,Nordmand,,1,,,,,,,,7,9,,,Kielvig Tingsted,,330,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,224,1690
+hr.,Anders,Luckasen,Prest,,,Prest,,,Nordmand,,1,4,,,2,,,,2,10,,,Ingens Tingsted,,331,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,224,1690
+,Hellie,Eriksen,,,,,Araham Hopland,Alten,Nordmand,,1,4,,2,,,,,,8,,,Hammerfest Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,224,1690
+,Rasmus,Andersen,,,,,Araham Hopland,Sundmør,Nordmand,hyrt fra Bergen,,2,,2,2,,,,,7,42,,Hammerfest Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,224,1690
+,Henrich,Tollachsen,,,,,Araham Hopland,Nordland,Nordmand,af sig self,1,,,1,1,,,,,4,54,,Hammerfest Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,225,1690
+,Rasmus,Siversen,,,,,Araham Hopland,der i landet,Nordmand,,1,1,,,,,1,,,4,,,Hammerfest Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,225,1690
+,Erik,Jacobsen,,,,,Araham Hopland,Hammerfest,Nordmand,,1,1,,,,,,,,3,,,Hammerfest Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,225,1690
+,Rasmus,Olsen,,,,,Araham Hopland,Ryfylche,Nordmand,hyrt fra Bergen,1,,,2,,,,,,4,30,,Hammerfest Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,225,1690
+,Lars,Olsen,,,,,Araham Hopland,der i landet,Nordmand,,1,,,1,,,,,,3,,,Hammerfest Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,225,1690
+,Olle,Michelsen,,,,,Araham Hopland,Salten,Nordmand,hyrt af en Findmarksbonde,1,3,,,,,,,,5,24,,Hammerfest Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,225,1690
+,Bendix,Olsen,,,,,Araham Hopland,Salten,Nordmand,hyrt fra Salten,1,1,,,,,,,,3,9,,Hammerfest Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,225,1690
+,Olle,Larsen,,,,,Araham Hopland,der i landet,Nordmand,,1,1,,2,,,,,,5,,,Hammerfest Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,225,1690
+,Rasmus,Larsen,,,,,Araham Hopland,der i landet,Nordmand,,1,3,,,,,,,,5,,,Hammerfest Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,225,1690
+,Peder,Andersen,,,,,Araham Hopland,der i landet,Nordmand,,1,6,,,,,,,,8,,,Hammerfest Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,225,1690
+,Povel,Ellingsen,,,,,Araham Hopland,der i landet,Nordmand,,1,,,,,,,,,2,,,Hammerfest Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,225,1690
+,Aamund,Endersen,,,,,Araham Hopland,der i landet,Nordmand,,1,1,,,,1,,,1,5,,,Hammerfest Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,225,1690
+,Povel,Nielsen,,,,,Araham Hopland,Nordland,Nordmand,hyrt af en Findmarksbonde,1,3,,,1,,,,,6,14,,Hammerfest Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,225,1690
+,Johanis,Johansen,,,,,Araham Hopland,Sundmør,Nordmand,Hyrt af Hermand Skult,1,2,,,,,,,,4,20,,Hammerfest Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,225,1690
+,Anders,Rasmussen,,,,,Araham Hopland,der i landet,Nordmand,,1,4,,,,1,,,,7,,,Hammerfest Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,225,1690
+,Jacob,Henrichsen,,,,,Araham Hopland,der i landet,Nordmand,,1,5,,,2,,,,,9,,,Hammerfest Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,225,1690
+,Mathias,Halvorsen,,,,Død,Araham Hopland,,Nordmand,,,,,,,,,,,1,,Død,Hammerfest Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,225,1690
+,Olle,Stefensen,,,,,Araham Hopland,Nordfiord,Nordmand,Hyrt af Hermand Skult,1,,,,,,,,,2,19,,Hammerfest Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,225,1690
+,Niels,Halvorsen,,,,,Araham Hopland,der i landet,Nordmand,,1,3,,,,1,,,,6,,,Hammerfest Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,225,1690
+,Peder,Nielsen,,,,,Araham Hopland,Nordland,Nordmand,af sig self,,,2,,1,,,,,4,9,,Hammerfest Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,225,1690
+,Arne,Erichsen,,,,,Araham Hopland,Sogn,Nordmand,fra Nordland,1,1,,,,,,,,3,20,,Hammerfest Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,225,1690
+,Olle,Larsen,,,,,Araham Hopland,Sundfiord,Nordmand,hyrt af Hermand Skult,1,,,,,,,,,2,12,,Hammerfest Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,226,1690
+,Jacob,Larsen,,,,,Araham Hopland,der i landet,Nordmand,,1,2,,,1,,,,,5,,,Hammerfest Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,226,1690
+Klocheren,Knud,Rasmussen,Klocheren,,,Klokker,Araham Hopland,der i landet,Nordmand,,1,,2,,1,,,,,5,,,Hammerfest Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,226,1690
+,Olle,Tomesen,,,,,Araham Hopland,der i landet,Nordmand,,1,5,,,,,,,,7,,,Hammerfest Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,226,1690
+,Eillert,Knudsen,,,,,Araham Hopland,Sundfiord,Nordmand,hyrt af Hellie Holbech,1,1,,,,,,,,3,13,,Hammerfest Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,226,1690
+Skydzskafer,Morten,Olsen,Skydzskafer,,,Skyssskaffer,Araham Hopland,der i landet,Nordmand,,1,,,,,,,,,2,,,Hammerfest Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,226,1690
+,Einer,Olsen,,,,,Araham Hopland,Trundhiem,Nordmand,hyrt fra Trunhiem,1,2,,,,,,,,4,16,,Hammerfest Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,226,1690
+,Evert,Iversen,,,,,Araham Hopland,der i landet,Nordmand,,1,2,,,,,,,,4,,,Hammerfest Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,226,1690
+,Niels,Nielsen,,,,,Araham Hopland,Tanen,Finn,,1,2,,,,,,,,4,,,Klub og Qvalsund,,360,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,226,1690
+,Mickel,Mortensen,,,,,Araham Hopland,Porsanger,Finn,,1,1,,,,,,,,3,,,Klub og Qvalsund,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,226,1690
+,Giermund,Einersen,,,,,Araham Hopland,Qvalsund,Finn,,1,1,,,,,,,,3,,,Klub og Qvalsund,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,226,1690
+,Peder,Andersen,,,,,Araham Hopland,Kluben,Finn,,1,6,,,,,,,,8,,,Klub og Qvalsund,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,226,1690
+,Peder,Toersen,,,,,Araham Hopland,i landet,Finn,,1,4,,,,,,,,6,,,Klub og Qvalsund,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,226,1690
+,Qvive,Tudesen,,,,,Araham Hopland,der i landet,Finn,,1,2,,,1,,,,,5,,,Klub og Qvalsund,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,226,1690
+,Niels,Annotzen,,,,,Araham Hopland,Porsanger,Finn,,,,,,,,,,,1,,,Klub og Qvalsund,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,226,1690
+,Morten,Tudesen,,,,,Araham Hopland,Alten,Finn,,1,6,,,,,,,,8,,,Klub og Qvalsund,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,226,1690
+,Niels,Lavritzen,,,,,Araham Hopland,Sneefiorden,Finn,,1,5,,,,,,,,7,,,Klub og Qvalsund,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,226,1690
+,Baard,Tudesen,,,,,Araham Hopland,Alten,Finn,,1,3,,,,,,,,5,,,Klub og Qvalsund,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,226,1690
+,Jux,Nielsen,,,,,Araham Hopland,Kluben,Finn,,1,5,,,,,,,,7,,,Klub og Qvalsund,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,226,1690
+,Gunder,Mortensen,,,,,Araham Hopland,Kluben,Finn,,1,2,,,,,,,,4,,,Klub og Qvalsund,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,226,1690
+,Guri,,,,,,Araham Hopland,,Finn,,,,,,,,,,,1,,sl. Gunder Larsens,Klub og Qvalsund,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,226,1690
+,Anders,Pedersen,,,,,Araham Hopland,Alten,Finn,,1,2,,,1,,,,,5,,,Klub og Qvalsund,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,226,1690
+,Anders,Biritzen,,,,,Araham Hopland,Kluben,Finn,,1,5,,,,,,,,7,,,Klub og Qvalsund,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,226,1690
+,Anders,Olsen,,,,,Araham Hopland,Kluben,Finn,,1,4,,,,,,,,6,,,Klub og Qvalsund,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,226,1690
+Cacstarus,Anders,Pedersen,,,,Skyssskaffer,Araham Hopland,Porsanger,Finn,,1,1,,,,,,,,3,,,Klub og Qvalsund,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,227,1690
+,Sara,Nielsen,,,,,Araham Hopland,Kluben,Finn,,1,2,,,,,,,,4,,,Klub og Qvalsund,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,227,1690
+,Syneve,,,,,,Araham Hopland,,Finn,,,,,,,,,,,1,,sl. Anders Joensen,Klub og Qvalsund,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,227,1690
+,Morten,Mortensen,,,,,Araham Hopland,Qvalsund,Finn,,,2,,,,,,,,3,,,Klub og Qvalsund,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,227,1690
+,Joen,Giermundsen,,,,,Araham Hopland,Koutken,Finn,,1,1,,,,,,,,3,,,Klub og Qvalsund,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,227,1690
+,Olle,Andersen,,,,,Araham Hopland,Kluben,Finn,,1,1,,,,,,,,3,,,Klub og Qvalsund,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,227,1690
+,Anders,Gundersen,,,,,Araham Hopland,Kluben,Finn,,1,3,,,,,,,,5,,,Klub og Qvalsund,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,227,1690
+,Olle,Pedersen,,,,,Araham Hopland,Porsanger,Finn,,,,,,,,,,,1,,,Klub og Qvalsund,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,227,1690
+,Olle,Einersen,,,,,Araham Hopland,Snefiorden,Finn,,,,,,,,,,,1,,,Klub og Qvalsund,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,227,1690
+,Annot,Olsen,,,,,Araham Hopland,Alten,Finn,,,,,,,,,,,1,,,Klub og Qvalsund,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,227,1690
+,Peives,Andersen,,,,,Araham Hopland,kluben,Finn,,,,,,,,,,,1,,,Klub og Qvalsund,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,227,1690
+,Niels,Andersen,,,,,Araham Hopland,Kluben,Finn,,1,1,,,,,,,,3,,,Klub og Qvalsund,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,227,1690
+,Peder,Nielsen,,,,,Araham Hopland,Porsanger,Finn,,1,2,,,,,,,,4,,,Klub og Qvalsund,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,227,1690
+,Svend,Nielsen,,,,,Araham Hopland,Kluben,Finn,,1,4,,,,,,,,6,,,Klub og Qvalsund,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,227,1690
+,Jens,Hansen,,,,,,Findmarken,,,1,,,,,,,,,2,,,Hammerfest Tingsted,,370,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,227,1690
+,Joen,Jørgensen,,,,,,Helgeland,,hyrt fra Nordland af presten hr. Hans,1,3,1,,,,,,,6,18,,Hammerfest Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,227,1690
+,Anthonj,Andersen,,,,,,der i landet,,,,,,,,,,,,1,,,Hammerfest Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,227,1690
+,Clemen,Larsen,Find,,,,,Adevehr,Finn,,,2,,,,,,,,3,,,Hammerfest Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,227,1690
+,Niels,Andersen,,,,,,Kluben,,,,,,,,,,,,1,,,Hammerfest Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,227,1690
+,Peder,Mathiesen,,,,,,Kvalsund,,,1,3,,,,,,,,5,,,Hammerfest Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,227,1690
+,Olle,Hintesen,,,,,,Alten,,,1,1,,,,,,,,3,,,Hammerfest Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,227,1690
+,Joen,Andersen,,,,,,Kluben,,,,,,,,,,,,1,,,Hammerfest Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,227,1690
+,Lars,Pedersen,,,,,,Kvalsund,,,,,,,,,,,,1,,,Hammerfest Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,228,1690
+,Olle,Nielsen,,,,,,Nordland,,sig self,,1,,,,,,,,2,,fattig mand oc leve ved almisse,Hammerfest Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,228,1690
+,Abraham,,Hopland,,,Kjøpmann,,,Nordmann,,,,,,,,,,7,8,,,Hammerfest Tingsted,,376,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,228,1690
+hr.,Hans,Monsen,Sognepresten,,,Prest,,,Nordmann,,,,,,,,,,,1,,,Hammerfest Tingsted,,382,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,228,1690
+,Christofer,Engebretzen,,,,,Abraham Hopland,sundhorlehen,,hyrt af Herman Skult,1,1,1,,1,,,,,5,18,,Altens Tingsted,,384,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,228,1690
+,Daniel,Lauritzen,,,,,Abraham Hopland,fød der i landet,,,1,,,1,,,,,,3,,,Altens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,228,1690
+,Joen,Olsen,find,,,,Abraham Hopland,Alten,Finn,,,,,,,,1,,,2,,,Altens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,228,1690
+,Niels,Qviesen,,,,,Abraham Hopland,fød der i landet,,,1,3,,,,,,,,5,,,Altens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,228,1690
+,Peder,Nielsen,,,,,Abraham Hopland,Korsnes,,,1,,,,,,,,,2,,Lever av reenvogting,Altens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,229,1690
+,Sifuer,Qvivesen,,,,,Abraham Hopland,Korsnes,,,,,,1,,,1,,,3,,,Altens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,229,1690
+,Erich,Thomesen,,,,,Vilchen Vierdenhalben,Alten,,,1,2,,,,,,,,4,,,Altens Tingsted,,386,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,229,1690
+,Jacob,Larsen,,,,,Vilchen Vierdenhalben,fød der i landet,,,1,3,,,1,,,,,6,,,Altens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,229,1690
+,Villum,Olsen,,,,,Vilchen Vierdenhalben,Alten,,,,,,,,3,1,,,5,,,Altens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,229,1690
+Klocher,Olle,Halvorsen,,,,Klokker,Vilchen Vierdenhalben,Trunhiem,,hyrt fra Trunhiem,1,5,,,,,,,,7,15,,Altens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,229,1690
+,Elling,Larsen,,,,,Vilchen Vierdenhalben,fød der i landet,,,1,3,,,,,,,,5,,,Altens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,229,1690
+,Olle,Olsen,,,,,Vilchen Vierdenhalben,Trunhiem,,hyrt fra Trunhiem,1,3,,,1,,,,,6,14,,Altens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,229,1690
+,Niels,Pedersen,find,,,,Vilchen Vierdenhalben,fød der i landet,Finn,,1,3,,,1,,,,,6,,,Altens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,229,1690
+,Niels,Olsen,,,,,Vilchen Vierdenhalben,Alten,,,1,2,,,,,,,,4,,,Altens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,229,1690
+,Niels,Andersen,,,,,Vilchen Vierdenhalben,Alten,,,1,,,,,,,,,2,,,Altens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,229,1690
+,Melckor,Olsen,,,,,Vilchen Vierdenhalben,Alten,,,1,1,,,1,,,,,4,,,Altens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,229,1690
+,Erich,Mogensen,,,,,Vilchen Vierdenhalben,Hasvog,,,1,4,,,,,,,,6,,,Altens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,229,1690
+,Michel,Sveningsen,,,,,Vilchen Vierdenhalben,,,med sine foreldre,,,,,,,,,,1,60,,Altens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,229,1690
+,Hans,Lauritzen,,,,,Søfren Panck paa Henrich Blats vegne,Aarøen,,,1,4,,,,,,,1,7,,,Altens Tingsted,,390,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,229,1690
+,Baltzer,Siversen,,,,,Søfren Panch,Aarøe,,,1,1,,,,,,1,,4,,,Altens Tingsted,,390,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,229,1690
+,Hans,Erlandsen,,,,,Søfren Panch,,,,,,,,,,,,,1,,ej tilstede,Altens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,230,1690
+Vnderfogden,Tommes,Jonsen,,,,Underfogd,Forlatte / Rasmus Heningsen,Skottland,,"sig self, fra Bergen",1,3,,,,,,,,5,39,,Altens Tingsted,,391,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,230,1690
+,Peder,Mortensen,Lehensmand,,,Lensmann,Forlatte / Rasmus Heningsen,Alten,,,1,8,,,1,,,,,11,,,Altens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,230,1690
+,Niels,Olsen,find skytzskafer,,,Skyssskaffer,Forlatte / Rasmus Heningsen,Langnes,,,1,3,,,,,,,,5,,,Altens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,230,1690
+,Sara,Olsen,,,,,Forlatte / Rasmus Heningsen,Langnes,,,1,2,,,,,,,,4,,,Altens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,230,1690
+,Joen,Olsen,,,,,Forlatte / Rasmus Heningsen,Langenes,,,1,2,,,,,,,,4,,,Altens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,230,1690
+,Christofer,Nielsen,,,,,Forlatte / Rasmus Heningsen,Nordland,,med sine forældre,1,3,,,,,,,,5,15,,Altens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,230,1690
+,Jacob,Olsen,,,,,Forlatte / Rasmus Heningsen,Nordland,,sig self,1,5,,,,,,,,7,50,,Altens Tingsted,,392,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,230,1690
+,Niels,Erichsen,,,,,Forlatte / Rasmus Heningsen,Talvigen,,,1,6,,,,,,,,8,,,Altens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,230,1690
+,Mathias,Thommesen,,,,,Forlatte / Rasmus Heningsen,der i landet,,,1,1,,,1,,,,,4,,,Altens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,230,1690
+,Niels,Arnesen,find,,,,Forlatte / Rasmus Heningsen,Alten,Finn,,1,,,,,3,1,1,,7,,,Altens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,230,1690
+,Niels,Guttormsen,,,,,Forlatte / Rasmus Heningsen,Munchegodset,,sig self,1,2,,,,,,,,4,12,,Altens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,230,1690
+,Joen,Olsen,,,,,Forlatte / Rasmus Heningsen,der i landet,,,,,,,,1,1,1,,4,,,Altens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,230,1690
+,Svend,Mortensen,,,,,Forlatte / Rasmus Heningsen,Qvenanger,,,1,1,,,1,,,,,4,,,Altens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,230,1690
+,Mickel,Jacobsen,,,,,Forlatte / Rasmus Heningsen,Trunhiem,,med Nordlandsfarene,1,3,,,,,,,,5,4,,Altens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,231,1690
+,Gunder,Jacobsen,,,,,Forlatte / Rasmus Heningsen,Qvenanger,,,1,4,,,,,,,,6,,,Altens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,231,1690
+,Niels,Ellufsen,,,,,Forlatte / Rasmus Heningsen,Seenigen,,med Nordlandsfarene,,2,,,,,,,,3,8,,Altens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,231,1690
+,Junte,Iversen,,,,,Forlatte / Rasmus Heningsen,Qveneland,,,1,7,,,,,,,,9,,,Altens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,231,1690
+,Morten,Arnesen,,,,,Forlatte / Rasmus Heningsen,Alten,,,1,3,,1,1,1,,,,8,,med sin bror Arne Arnesen,Altens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,231,1690
+,Morten,Andersen,,,,,Forlatte / Rasmus Heningsen,Alten,,,1,2,,,,,,,,4,,,Altens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,231,1690
+,Iver,Andersen,,,,,Forlatte / Rasmus Heningsen,Alten,,,1,2,,,2,,,,,6,,,Altens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,231,1690
+,Sifuer,Erichsen,,,,,Forlatte / Rasmus Heningsen,Korsnes,,,,2,,,1,,,,,4,,,Altens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,231,1690
+,Raste,Erichsen,,,,,Forlatte / Rasmus Heningsen,Korsnes,,,1,,,1,1,,,,,4,,,Altens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,231,1690
+,Olle,Mortensen,,,,,Forlatte / Rasmus Heningsen,Korsnes,,,1,4,,,,,,,,6,,,Altens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,231,1690
+,Gunder,Annotzen,,,,,Forlatte / Rasmus Heningsen,Kluben,,,,1,,,,,,,,2,,,Altens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,231,1690
+,Peder,Olsen,,,,,Forlatte / Rasmus Heningsen,Alten,,,1,2,,,,,,,,4,,,Altens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,231,1690
+,Niels,Juresen,,,,,Forlatte / Rasmus Heningsen,Kluben,,,1,,,,,,,,,2,,,Altens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,231,1690
+,Maria,,,,,,Forlatte / Rasmus Heningsen,,,,1,,,,,,,,5,6,,sl. Hans Haagensens,Altens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,231,1690
+,Anders,Pedersen,,,,,Forlatte / Rasmus Heningsen,Komagfiorden,,,,,,,,,,,,1,,,Altens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,231,1690
+,Morten,Olsen,,,,,Forlatte / Rasmus Heningsen,der i landet,,,,,,,,,,,,1,,,Altens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,231,1690
+,Peder,Jansen,,,,,Vilchen Vierdenhalben,Helgeland,,hyrt af Eillert Sers,1,4,,,,,,,,6,16,,Haswog Tingsted,,410,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,232,1690
+,Olle,Madsen,,,,,Vilchen Vierdenhalben,Nordfiord,,hyrt af Ellert sers,1,,,,,,,,,2,10,,Haswog Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,232,1690
+,Olle,Rasmussen,Klocker,,,Klokker,Vilchen Vierdenhalben,der i landet,,,1,2,,,,,,,,4,,,Haswog Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,232,1690
+,Olle,Halvorsen,,,,,Vilchen Vierdenhalben,Nordland,,sig self,1,,,,,,,,,2,8,,Haswog Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,232,1690
+,Ellias,Evensen,,,,,Vilchen Vierdenhalben,der i landet,,,1,2,,,,,,,,4,,,Haswog Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,232,1690
+,Lauritz,Mathiesen,Skytzskafer,,,Skyssskaffer,Vilchen Vierdenhalben,Christiania,,sig self,1,3,,,,,,,,5,30,,Haswog Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,233,1690
+,Peder,Pedersen,,,,,Vilchen Vierdenhalben,Sundmøer,,sig self,1,,,1,,,,,,3,36,,Haswog Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,233,1690
+,Erich,Joensen,,,,,Vilchen Vierdenhalben,Sundmør,,hyrt fra Bergen,1,,,1,1,,,,,4,36,,Haswog Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,233,1690
+,Anphind,Johansen,,,,,Vilchen Vierdenhalben,Stavanger,,hyrt fra Bergen,1,1,,,,,,,,3,20,,Haswog Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,233,1690
+,Evert,Christofersen,,,,,Vilchen Vierdenhalben,Nordland,,sig self,1,2,,,,,,,,4,14,,Haswog Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,233,1690
+,Jacob,Pedersen,,,,,Vilchen Vierdenhalben,Nordland,,hyrt af en Findmarksbonde,1,1,,,,,,,,3,14,,Haswog Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,233,1690
+,Olle,Størchersen,,,,,Vilchen Vierdenhalben,Sundmør,,med Nordlandsfarere,1,3,,,,,,,,5,15,,Haswog Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,233,1690
+,Gabriel,Jacobsen,,,,,Vilchen Vierdenhalben,Bergen,,sig self,,2,,,,,,,,3,26,,Haswog Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,233,1690
+,Niels,Joensen,,,,,Vilchen Vierdenhalben,der i landet,,,1,4,,,,,,,,6,,,Haswog Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,233,1690
+,Jørgen,Jørgensen,,,,,Vilchen Vierdenhalben,der i landet,,,1,1,,,,,,,,3,,,Haswog Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,233,1690
+,Moses,Olsen,,,,,Vilchen Vierdenhalben,der i landet,,,1,3,,,,,,,,5,,,Haswog Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,233,1690
+,Anders,Johansen,,,,Død,Vilchen Vierdenhalben,,,,,,,,,,,,,1,,Død,Haswog Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,233,1690
+,Sacarias,Erlandsen,,,,,Vilchen Vierdenhalben,der i landet,,,1,2,,,,,,,,4,,,Haswog Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,233,1690
+,Christen,Andersen,Klocker,,,Klokker,Vilchen Vierdenhalben,Bergen,,sig self,1,,,,,,,,,2,12,,Haswog Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,233,1690
+,Tøris,Erlandsen,,,,,Vilchen Vierdenhalben,der i landet,,,1,3,,,,,,,,5,,,Haswog Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,233,1690
+,Hans,Madsen,,,,,Vilchen Vierdenhalben,Laalland,,fra Bergen,1,2,,,,,,,,4,40,,Haswog Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,233,1690
+,Vilchen,,Vierdenhalben,,,Kjøpmann,,,,,1,,,,4,,,,,6,,,Haswog Tingsted,,421,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,233,1690
+,Dirich,Hermandsen,,,,,Sørn Panchi,Bergen,,med Nordlandsfarere,1,2,,1,,,,,,5,14,,Haswog Tingsted,,422,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,233,1690
+,Moritz,Olsen,,,,,Sørn Panchi,Søhrvehr,,,1,2,,,,,,,,4,,,Haswog Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,234,1690
+,Jørgen,Knudsen,,,,,Sørn Panchi,Bergen,,hyrt af en Findmarksbonde,1,1,,,,,,,,3,4,,Haswog Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,234,1690
+,Christen,Olsen,,,,,Sørn Panchi,Nordland,,hyrt af en Findmarksbonde,1,1,,,,,,,,3,2,,Haswog Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,234,1690
+,Anders,Joensen,,,,Død,Sørn Panchi,,,,,,,,,,,,,1,,Død,Haswog Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,234,1690
+,Jacob,Olsen,,,,,Sørn Panchi,Trunhiem,,hyrt af en Findmarksbonde,1,5,,,,,,,,7,7,,Haswog Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,234,1690
+,Olle,Christofersen,,,,,Sørn Panchi,Trunhiem,,sig self,1,,,1,,,,,,3,30,,Haswog Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,234,1690
+,Peder,Joensen,,,,,Sørn Panchi,Seeningen,,med Nordlandsfarer,1,1,,,,,,,,3,4,,Haswog Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,234,1690
+,Joen,Torsen,,,,,Sørn Panchi,Sundmør,,sig self,1,1,,,,,,,,3,8,,Haswog Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,234,1690
+Kiøbsvend,Søren,,Panch,,,Kjøpmann,,,,,1,,,,,,,,3,5,,,Haswog Tingsted,,427,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,234,1690
+,Jacob,Halsteensen,,,,,Forlatt,Nordfiord,,hyrt fra Bergen,1,3,,,,,,,,5,40,,Haswog Tingsted,,427,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,234,1690
+,Christofer,Hansen,,,,,Forlatt,Trunhiem,,med Nordlandsfarer,,,,,,,,,,1,3,,Haswog Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,234,1690
+,Engebret,Jacobsen,,,,,Forlatt,Sundhorlehen,,sig self,1,,,,5,,,,,7,35,,Haswog Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,234,1690
+,Margrette,Clasdatter,,,,,Forlatt,,,,1,1,,,2,,,,,4,,Bondeenke,Haswog Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,234,1690
+,Christofer,Olsen,,,,,Forlatt,Nordland,,hyrt af Herman Kult,1,,,,1,,,,,3,13,,Haswog Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,234,1690
+,Olluf,Knudsen,,,,,Søren Pedersen,Bergen,,sig self,1,2,,1,,,,,1,6,14,,Lopens Tingsted,,429,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,234,1690
+,Peder,Simensen,,,,,Søren Pedersen,Trunhiem,,sig self,1,,,,,,,,,2,20,,Lopens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,234,1690
+,Even,Pedersen,,,,,Søren Pedersen,der i landet,,,1,2,,,,,,,,4,,,Lopens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,235,1690
+,Niels,Pedersen,,,,,Søren Pedersen,der i landet,,,1,1,,,,,,,,3,,,Lopens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,235,1690
+,Niels,Giermundsen,,,,,Søren Pedersen,der i landet,,,1,2,,,,,,,,4,,,Lopens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,235,1690
+,Povel,Giermundsen,,,,,Søren Pedersen,der i landet,,,1,2,,,,,,,,4,,,Lopens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,235,1690
+,Jacob,Samuelsen,,,,,Søren Pedersen,der i landet,,,1,2,,,,,,,,4,,,Lopens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,235,1690
+,Joen,Olsen,,,,,Søren Pedersen,der i landet,,,1,1,,,,,,,,3,,,Lopens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,235,1690
+,Johannis,Moritzen,,,,,Søren Pedersen,der i landet,,,1,3,,,1,,,,,6,,,Lopens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,235,1690
+,Søren,Pedersen,kiøbmand,,,Kjøpmann,,,,,1,6,,,7,,,,,15,,,Lopens Tingsted,,434,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,235,1690
+,Samuel,Rasmussen,,,,Død,Knud Baaresen,,,,,,,,,,,,,1,,Død,Lopens Tingsted,,434,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,235,1690
+,Anders,Olsen,,,,,Knud Baaresen,der i landet,,,1,4,,1,,,,,,7,,,Lopens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,235,1690
+,Niels,Nielsen,,,,,Knud Baaresen,der i landet,,,1,2,,1,,,,,,5,,,Lopens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,235,1690
+,Sørn,Pedersen,,,,,Knud Baaresen,der i landet,,,1,,,,,,,,,2,,,Lopens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,235,1690
+,Olle,Christofersen,,,,,Knud Baaresen,Nordland,,sig self,1,3,,1,,,,,,6,40,,Lopens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,235,1690
+,Peder,Lauritzen,,,,,Knud Baaresen,der i landet,,,1,,,,1,,,,,3,,,Lopens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,235,1690
+,Hans,Baattelsen,,,,,Knud Baaresen,Sogn,,hyrt af Christofer Erhorn,1,2,,,,,,,,4,19,,Lopens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,235,1690
+,Arne,Iversen,,,,,Knud Baaresen,Stavanger,,af forige amtmand Bielche forskrefven,1,1,,,,,,,,3,20,,Lopens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,235,1690
+,Olle,Nielsen,,,,,Knud Baaresen,der i landet,,,1,5,,1,,,,,,8,,,Lopens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,235,1690
+,Hans,Olsen,,,,,Knud Baaresen,Sundmør,,sig self,1,3,,,,,,,,5,30,,Lopens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,235,1690
+,Olle,Povelsen,Skytzskafer,,,,Knud Baaresen,der i landet,,,1,3,,,,,,,,5,,,Lopens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,235,1690
+,Hans,Joensen,,,,,Knud Baaresen,der i landet,,,1,,,1,,,,,,3,,,Lopens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,235,1690
+,Abraham,Samuelsen,,,,,Knud Baaresen,der i landet,,,1,4,,1,,,,,,7,,,Lopens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,235,1690
+,Colben,Andersen,,,,,Knud Baaresen,der i landet,,,1,1,1,,,,,,,4,,,Lopens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,236,1690
+,Daniel,Christofersen,,,,,Knud Baaresen,Bergen,,kommen med sine forældre,,3,,,,,,,,4,40,,Lopens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,236,1690
+,Lauritz,Colbensen,,,,,Knud Baaresen,Sundmør,,hyrt af Peter Luden,1,,,,,,,,,2,14,,Lopens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,236,1690
+,Jens,Pedersen,,,,,Knud Baaresen,der i landet,,,1,1,,,1,1,1,,,6,,,Lopens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,236,1690
+,Jacob,Olsen,,,,,Knud Baaresen,der i landet,,,1,1,,1,,,,,,4,,,Lopens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,236,1690
+,Olle,Mauritzen,,,,,Knud Baaresen,der i landet,,,1,6,,,1,,,,,9,,,Lopens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,236,1690
+,Moses,Christofersen,,,,,Knud Baaresen,Alten,,,1,2,,,,,,,,4,,,Lopens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,236,1690
+,Gregores,Pedersen,,,,,Forlatt,der i landet,,,,2,,,3,,,,,6,,,Lopens Tingsted,,442,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,236,1690
+,Rollandt,Joensen,,,,,Forlatt,Trunhiem,,sig self,1,2,1,,,,,,,5,12,,Lopens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,236,1690
+,Hans,Jensen,,,,,Forlatt,Nordland,,sig self,1,1,,,,,,,,3,4,,Lopens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,236,1690
+,Olle,,Snecker,,,,Forlatt,Trundhiem,,sig self,1,,,,,,,,,2,2,,Lopens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,236,1690
+,Olle,Sifuersen,Find,,,,Forlatt,Nordland,,,,1,,,,,,,,2,,,Lopens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,236,1690
+,Morten,Olsen,,,,,Forlatt,der i landet,,,,4,,,,,,,,5,,,Lopens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,236,1690
+,Morten,Moritzen,,,,,Forlatt,der i landet,,,1,1,,,,,1,,,4,,,Lopens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,236,1690
+,Baard,Giermundsen,,,,,Forlatt,Alten,,,1,2,,,,,,,,4,,,Lopens Tingsted,,,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,236,1690
+,Knud,Baaresen,kiøbmand,,,Kjøpmann,,,,,1,,,,,,,,12,14,,,Lopens Tingsted,,445,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,236,1690
+hr.,Allexander,,præsten,,,Prest,,,,,1,,,,,,,,6,8,,,Haswog Tingsted,,453,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,237,1690
+hr.,Torben,Reersen,prousten,,,Prest,,,,,1,,,,,,,,8,10,,,Lopens Tingsted,,453,,https://urn.nb.no/URN:NBN:no-nb_digibok_2021032548850,237,1690
